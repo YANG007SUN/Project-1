@@ -1,0 +1,2200 @@
+﻿STORE ID,VENUE,SUB VENUE,Lat,Lng,Address,CITY,STATE,ZIP
+100,Mall,In Line,34.1452,-118.2594,3214 Glendale Galleria,Glendale,CA,91210
+1000,Street DT,Free Standing,33.9559,-84.1318,2060 Pleasant Hill Road,Duluth,GA,30096
+1001,Street DT,Free Standing,37.8719,-122.5092,100 Donahue St,Sausalito,CA,94965
+1002,Street Non-DT,End Cap,33.3785,-112.0287,2434 E. Baseline Rd Suite #101,Phoenix,AZ,85042
+1003,Street Non-DT,In Line,37.9006,-122.2999,5020 El Cerrito Plaza #e-2,El Cerrito,CA,94530
+1004,Street Non-DT,End Cap,35.2074,-106.654,3703 Ellison Drive Nw,Albuquerque,NM,87114
+1005,Street DT,Free Standing,32.8443,-97.133,2252 Central Drive,Bedford,TX,76021
+1006,Casino,Food Court,33.9216,-116.7978,49500 Seminole Dr,Cabazon,CA,92230
+1008,Street DT,Free Standing,34.087,-84.4826,12162 Highway 92,Woodstock,GA,30188
+1009,Street DT,Free Standing,33.023,-96.8855,4105 N. Josey Lane,Carrollton,TX,75007
+1011,Street DT,Free Standing,40.7047,-112.0253,3051 S. Colt Plaza Dr,West Valley City,UT,84128
+1012,Street Non-DT,End Cap,33.5519,-117.1384,39112 Winchester Rd,Murrieta,CA,92563
+1013,Street Non-DT,End Cap,35.309,-119.0926,5041 Gosford Rd.,Bakersfield,CA,93313
+1014,Street Non-DT,End Cap,34.2573,-118.5041,17056 Devonshire St,Northridge,CA,91325
+1015,Street Non-DT,End Cap,41.7686,-88.2063,848 North Route 59,Aurora,IL,60504
+1016,Street Non-DT,End Cap,47.1622,-122.5184,10417 Gravelly Lake Drive Sw,Lakewood,WA,98499
+1017,Street DT,Free Standing,33.1015,-96.6748,501 W. Mcdermott Drive,Allen,TX,75013
+1018,Street DT,Free Standing,34.0718,-117.9609,14480 Merced Ave,Baldwin Park,CA,91706
+102,Mall,Food Court,33.8717,-118.3546,1815 Hawthrone Bl. #312,Redondo Beach,CA,90278
+1020,Street DT,Free Standing,47.4604,-122.3335,15842 1st Avenue South,Burien,WA,98148
+1021,Street Non-DT,In Line,38.4618,-122.7169,2240 Mendocino Ave. Suite106,Santa Rosa,CA,95403
+1022,Street DT,Free Standing,37.7401,-122.1986,8333 Oakport Street,Oakland,CA,94621
+1023,Street DT,Free Standing,37.7964,-121.1917,1467 Hulsey Way,Manteca,CA,95336
+1024,Store in Store,Food Court,47.6808,-122.1266,8867 161st Ave Ne,Redmond,WA,98052
+1025,Street Non-DT,End Cap,32.9645,-96.6444,5345 North Garland Ave,Garland,TX,75040
+1026,Street Non-DT,End Cap,33.4233,-111.7887,1950 E. University Drive,Mesa,AZ,85206
+1027,Street DT,Free Standing,37.6554,-113.0855,1872 West Cross Hollow Rd.,Cedar City,UT,84720
+1029,Street Non-DT,End Cap,32.996,-117.2597,689 Lomas Santa Fe Dr,Solana Beach,CA,92075
+103,Mall,Food Court,33.0705,-117.0649,200 E. Via Rancho Pkwy,Escondido,CA,92025
+1030,Street DT,Free Standing,33.0131,-97.068,2521 Flower Mound Road,Flower Mound,TX,75028
+1031,Street Non-DT,End Cap,34.1738,-119.1611,1671 E. Channel Islands Blvd,Oxnard,CA,93033
+1032,Street Non-DT,Free Standing,33.8376,-118.3542,3825 Torrance Blvd.,Torrance,CA,90503
+1033,Street Non-DT,End Cap,32.3058,-111.0097,1990 W. River Road,Tucson,AZ,85704
+1034,Street Non-DT,End Cap,33.7101,-112.1125,2501 W. Happy Valley Road,Phoenix,AZ,85085
+1036,Street Non-DT,End Cap,45.3675,-122.839,21155 Sw Baler Way,Sherwood,OR,97140
+1037,Travel Plaza,Food Court,41.7837,-87.9074,5800 Tri-State Tollway,Hinsdale,IL,60523
+1038,Travel Plaza,Food Court,42.2531,-87.9008,13783 W. Oasis Service Rd.,Lake Forest,IL,60045
+1039,Travel Plaza,Food Court,41.9007,-88.739,2700 Crego Rd.,Dekalb,IL,60115
+1040,Street DT,Free Standing,35.1291,-106.5351,9500 Montgomery Blvd. Ne,Albuquerque,NM,87111
+1041,Street DT,Free Standing,29.3572,-98.5291,2221 Sw Military,San Antonio,TX,78224
+1042,Street DT,Free Standing,34.6078,-118.1471,39922 10th St West,Palmdale,CA,93551
+1043,Travel Plaza,Food Court,41.5789,-87.5994,700 E Tri-State Tollway,South Holland,IL,60473
+1044,Street DT,Free Standing,38.6555,-121.5273,2940 Del Paso Road,Sacramento,CA,95834
+1045,Street Non-DT,End Cap,34.2347,-118.467,9008 Sepulveda Blvd.,North Hills,CA,91343
+1046,Street Non-DT,End Cap,38.4088,-121.3523,9304 Elk Grove Blvd,Elk Grove,CA,95624
+1047,Street Non-DT,End Cap,33.2818,-111.7891,3765 S. Gilbert Road,Gilbert,AZ,85296
+1048,Street DT,Free Standing,38.6569,-121.3837,4985 Watt Ave,North Highlands,CA,95660
+1049,Street DT,Free Standing,29.546,-98.5766,11220 Huebner Road,San Antonio,TX,78230
+1050,Street DT,Free Standing,38.243,-122.0174,402 Lawler Center Drive,Suisun City,CA,94585
+1051,Street DT,Free Standing,45.3342,-122.7672,8755 Sw Robert Burns Drive,Wilsonville,OR,97070
+1052,Street DT,Free Standing,40.3876,-111.8238,959 West State Street,American Fork,UT,84003
+1053,Street Non-DT,End Cap,34.4443,-118.574,28162 Newhall Ranch Road,Santa Clarita,CA,91355
+1054,Street DT,Free Standing,41.7824,-87.8688,185 Countryside Plaza,Countryside,IL,60525
+1055,Street DT,Free Standing,33.6808,-96.6094,4030 N Hwy 75,Sherman,TX,75090
+1056,Mall,Food Court,34.0006,-118.1598,150 Citadel Dr. Fc-b,City Of Commerce,CA,90040
+1058,Street DT,Free Standing,41.6199,-87.8485,31 Orland Square Dr,Orland Park,IL,60462
+1059,Street DT,Free Standing,35.3933,-118.966,2659 Mt. Vernon Ave.,Bakersfield,CA,93306
+106,Mall,Food Court,21.2913,-157.8443,1450 Ala Moana Blvd,Honolulu,HI,96814
+1060,Street DT,Free Standing,32.6991,-114.601,1900 East 16th St,Yuma,AZ,85365
+1061,Street DT,Free Standing,33.695,-117.3349,29255 Central Ave.,Lake Elsinore,CA,92532
+1062,Street Non-DT,End Cap,34.1326,-117.9857,904 Hamilton Rd,Duarte,CA,91010
+1064,Mall,Food Court,34.0584,-118.419,10250 Santa Monica Blvd.,Los Angeles,CA,90067
+1065,University,End Cap,33.4228,-111.9346,777 S. College Ave.,Tempe,AZ,85281
+1066,Mall,Food Court,41.6196,-87.8488,340 Orland Square,Orland Park,IL,60462
+1067,Street Non-DT,End Cap,36.9161,-121.7781,20 Ohlone Pkwy Space #202,Watsonville,CA,95076
+1068,Mall,Food Court,37.6359,-122.4188,1150 El Camino Real,San Bruno,CA,94066
+1070,Street Non-DT,End Cap,35.6146,-120.6832,90 Niblick Road,Paso Robles,CA,93446
+1072,Street Non-DT,End Cap,29.4927,-98.7031,10670 Culebra Road,San Antonio,TX,78251
+1073,Street DT,Free Standing,48.7714,-122.461,1000 East Sunset Drive,Bellingham,WA,98226
+1074,Street DT,Free Standing,47.2558,-122.5188,6101 6th Ave,Tacoma,WA,98406
+1076,Street DT,Free Standing,34.1955,-118.3489,2585 N. Hollywood Way,Burbank,CA,91505
+1077,Street DT,Free Standing,32.5821,-97.1343,1171 N. Hwy 287,Mansfield,TX,76063
+1078,Street DT,Free Standing,32.3542,-111.0937,8140 N. Cortaro Road,Tucson,AZ,85743
+1079,Street DT,Free Standing,33.3499,-111.7205,31 S. Higley Rd.,Gilbert,AZ,85296
+108,Mall,Food Court,33.7765,-117.8703,2800 N. Main St. #912,Santa Ana,CA,92701
+1080,Street DT,Free Standing,47.6646,-117.1939,15603 E. Broadway Ave,Veradale,WA,99037
+1081,Street DT,Free Standing,28.4905,-81.428,4064 Millenia Blvd.,Orlando,FL,32839
+1084,Street Non-DT,End Cap,43.5973,-116.3901,750 South Progress Ave.,Meridian,ID,83642
+1085,Street Non-DT,End Cap,39.6388,-104.792,16891 East Quincy Ave.#a,Aurora,CO,80012
+1086,Street Non-DT,End Cap,33.7016,-117.9353,"18011 Newhope Street, Suite #a",Fountain Valley,CA,92708
+1087,Street Non-DT,End Cap,39.8143,-94.8136,5301 North Belt Highway,Saint Joseph,MO,64506
+1088,Street DT,End Cap,47.8207,-122.2887,4120 196th St SW,Lynnwood,WA,98036
+109,Mall,Food Court,34.4734,-117.3482,14400 Bear Valley Road,Victorville,CA,92392
+1090,Street DT,Free Standing,27.8359,-82.6821,7000 Us Highway 19 N,Pinellas Park,FL,33781
+1091,Street DT,Free Standing,41.5989,-87.5594,1300 Torrence Ave,Calumet City,IL,60409
+1092,Street Non-DT,Free Standing,38.5612,-121.7655,1491 West Covell Blvd.,Davis,CA,95616
+1093,Street Non-DT,End Cap,36.8137,-119.7908,5347 North Blackstone Ave,Fresno,CA,93710
+1094,Street DT,Free Standing,45.6789,-122.6665,408 Ne 78th St.,Vancouver,WA,98665
+1095,Street DT,Free Standing,34.2495,-84.4771,1401 Riverstone Pkwy.,Canton,GA,30114
+1097,Street Non-DT,End Cap,38.4083,-121.4478,5010 Elk Grove Blvd.,Elk Grove,CA,95758
+1098,Street DT,Free Standing,32.5944,-117.0354,1820 Main Court,Chula Vista,CA,91911
+1099,Street DT,Free Standing,33.3782,-112.1664,5010 W. Baseline Rd.,Laveen,AZ,85339
+110,Mall,Food Court,40.7271,-74.0384,30-303 Mall Drive W.,Jersey City,NJ,7310
+1100,Street DT,Free Standing,39.9579,-105.1695,301 Center Drive,Superior,CO,80027
+1101,Street Non-DT,End Cap,32.5704,-97.3205,12858 South Freeway,Burleson,TX,76028
+1102,Street Non-DT,In Line,41.8818,-87.6266,29 East Madison,Chicago,IL,60602
+1103,Street Non-DT,End Cap,32.9565,-117.0362,13624 Poway Road,Poway,CA,92064
+1104,Mall,Food Court,27.9326,-82.325,501 Brandon Town Center Dr,Brandon,FL,33511
+1105,Street DT,Free Standing,45.6178,-122.4766,526 Se 192 Ave.,Vancouver,WA,98683
+1106,Street Non-DT,End Cap,33.8887,-117.8108,18503 Yorba Linda Blvd.,Yorba Linda,CA,92885
+1107,Street Non-DT,End Cap,39.7408,-105.0818,1509 Wadsworth Blvd.,Lakewood,CO,80214
+1108,Street DT,End Cap,29.8786,-95.6505,15951 Fm529,Houston,TX,77095
+1109,Street Non-DT,Free Standing,29.9175,-95.4136,10315 North Fwy,Houston,TX,77037
+1110,Street Non-DT,End Cap,45.5769,-122.6815,1440 N. Lombard St.,Portland,OR,97217
+1113,Street Non-DT,End Cap,37.6089,-122.0651,30158 Industrial Parkway,Hayward,CA,94544
+1114,Casino,Food Court,36.1564,-115.3336,11011 W. Charleston Blvd,Las Vegas,NV,89135
+1115,Street Non-DT,End Cap,45.5397,-122.8669,2785 Nw Town Center Drive,Hillsboro,OR,97006
+1117,Street DT,Free Standing,33.3961,-84.744,1015 Bullsboro Rd.,Newnan,GA,30265
+112,Mall,Food Court,37.7279,-122.4771,3251 20th Ave. #250h,San Francisco,CA,94132
+1121,Street DT,Free Standing,33.8031,-84.1933,6006 Memorial Drive,Stone Mountain,GA,30083
+1122,Street DT,Free Standing,33.8835,-84.4752,2654 Spring Road,Smyrna,GA,30080
+1124,University,In Line,42.2913,-83.7174,2101 Bonisteel,Ann Arbor,MI,48109
+1125,Street Non-DT,End Cap,32.7966,-116.9626,190 North Magnolia Ave.,El Cajon,CA,92020
+1127,Mall,Food Court,38.8434,-104.763,750 Citadel Drive East,Colorado Springs,CO,80909
+1128,Street Non-DT,End Cap,34.28,-118.8666,840 East Los Angeles Ave,Moorpark,CA,93021
+1129,Street DT,Free Standing,36.054,-115.1716,7470 S. Las Vegas Blvd,Las Vegas,NV,89123
+113,Mall,Food Court,35.3375,-119.035,2701 Ming Ave.,Bakersfield,CA,93304
+1130,Street DT,End Cap,33.4429,-84.3232,11481 Tara Blvd,Lovejoy,GA,30250
+1132,Street DT,Free Standing,43.6654,-116.2801,6675 N. Glenwood St.,Garden City,ID,83714
+1134,Casino,In Line,36.2016,-115.1952,2400 North Rancho Drive,Las Vegas,NV,89130
+1135,Street DT,Free Standing,33.9848,-84.4262,4275 Ne Roswell Rd.,Marietta,GA,30062
+1136,Store in Store,Food Court,40.239,-76.9339,3301 Trindle Rd.,Camp Hill,PA,17011
+1137,Street DT,End Cap,38.7504,-121.3087,3981 Foothills Blvd,Roseville,CA,95747
+1138,Street Non-DT,End Cap,37.9449,-122.0569,2380 Monument Boulevard,Pleasant Hill,CA,94523
+1139,Street DT,Free Standing,45.5511,-122.9008,21895 Nw Imbrie,Hillsboro,OR,97124
+114,Store in Store,Food Court,34.1251,-118.0577,745 W. Naomi Avenue,Arcadia,CA,91006
+1140,Street DT,Free Standing,28.5231,-81.5878,3154 Daniels Road,Winter Garden,FL,34787
+1141,Street DT,Free Standing,33.6999,-117.8352,2190 Barranca Pkwy,Irvine,CA,92606
+1142,Street DT,Free Standing,33.936,-117.2785,12610 Day Street,Moreno Valley,CA,92553
+1143,Street DT,Free Standing,38.875,-121.3033,105 Ferrari Ranch Road,Lincoln,CA,95648
+1145,Street DT,Free Standing,34.0627,-117.2221,2005 W. Redlands Blvd.,Redlands,CA,92373
+1146,Street DT,Free Standing,29.6968,-95.298,1250 Gulfgate Center Mall,Houston,TX,77087
+1147,Street Non-DT,End Cap,33.7426,-116.3044,42175 Washington St.,Palm Desert,CA,92211
+1148,Street DT,Free Standing,40.0834,-82.4283,1295 North 21st Street,Newark,OH,43055
+1149,CBD,In Line,41.8849,-87.6231,130 East Randolph,Chicago,IL,60601
+1151,Street DT,Free Standing,32.6708,-97.2016,4661 Little Road,Arlington,TX,76017
+1152,Street DT,Free Standing,39.3561,-76.7032,6514 Reisterstown Rd.,Baltimore,MD,21215
+1153,Street DT,Free Standing,32.6588,-97.069,2220 S. E. Green Oaks Blvd.,Arlington,TX,76018
+1154,Street DT,Free Standing,33.3051,-111.7435,2491 South Market Street,Gilbert,AZ,85297
+1155,Street DT,Free Standing,32.1915,-110.8562,6370 East Golf Links Road,Tucson,AZ,85730
+1156,Street DT,Free Standing,29.9204,-95.6068,12895 Farm To Market 1960 Rd W,Houston,TX,77065
+1157,Street DT,Free Standing,40.1463,-82.9222,85 Maxtown,Westerville,OH,43082
+1158,Street DT,Free Standing,35.087,-106.5321,838 Eubank Blvd.,Albuquerque,NM,87123
+1159,Street DT,Free Standing,33.1996,-96.7086,6970 Virginia Pky,Mckinney,TX,75071
+1160,Street DT,Free Standing,27.0504,-82.3958,4201 Tamiami Trail,Venice,FL,34293
+1161,Street DT,Free Standing,47.3584,-122.1101,17335 Se 270th Place,Covington,WA,98042
+1162,Street DT,Free Standing,40.0649,-82.8637,5299 North Hamilton Road,Columbus,OH,43230
+1163,Street DT,Free Standing,39.8792,-83.0433,1760 Stringtown Rd.,Grove City,OH,43123
+1164,Street DT,Free Standing,27.917,-82.7644,2200 East Bay Drive,Largo,FL,33771
+1165,Street DT,Free Standing,39.9866,-82.7855,8064 East Broad St.,Reynoldsburg,OH,43068
+1166,Street DT,Free Standing,29.789,-95.7194,1325 Fry Rd,Katy,TX,77449
+1167,Street DT,Free Standing,32.8906,-96.4708,2400 Horizon Rd,Rockwall,TX,75032
+1168,Street DT,Free Standing,29.9979,-95.1738,6946 Fm 1960 East,Humble,TX,77346
+117,Mall,Food Court,33.7456,-118.0093,2105 Westminster Mall,Westminster,CA,92683
+1170,Street Non-DT,End Cap,33.938,-118.1293,8510 Firestone Blvd.,Downey,CA,90241
+1171,Street DT,Free Standing,32.6339,-97.3703,7554 Mc Cart Ave.,Fort Worth,TX,76123
+1172,Street DT,Free Standing,28.3414,-81.4161,1190 West Osceola Parkway,Kissimmee,FL,34741
+1174,Street DT,Free Standing,25.9258,-80.1722,1405 Ne 163rd Rd.,North Miami Beach,FL,33162
+1176,Street DT,Free Standing,32.423,-96.8391,1330 Hwy 77 North,Waxahachie,TX,75165
+1177,Street DT,Free Standing,28.8007,-81.3317,1460 Rinehart Road,Sanford,FL,32771
+118,Mall,Food Court,34.1451,-118.2589,1134 Glendale Galleria,Glendale,CA,91210
+1180,Street DT,Free Standing,32.7503,-97.0978,1000 N. Collins,Arlington,TX,76011
+1181,Street DT,Free Standing,32.7627,-97.1683,8601 Anderson Blvd,Fort Worth,TX,76120
+1182,Street DT,Free Standing,47.7455,-117.4049,9522 N Newport Hwy,Spokane,WA,99218
+1183,Street Non-DT,End Cap,47.3164,-122.3139,31827 Pacific Highway South,Federal Way,WA,98003
+1184,Street Non-DT,End Cap,33.832,-118.0314,5825 Lincoln Avenue,Buena Park,CA,90620
+1185,Street Non-DT,End Cap,33.6201,-111.8769,14850 N Frank Lloyd Wright Blv,Scottsdale,AZ,85260
+1187,Street Non-DT,End Cap,41.7512,-88.005,2423 75th St.,Darien,IL,60561
+1188,Street DT,Free Standing,26.046,-80.2491,5820 South University Drive,Davie,FL,33328
+119,Mall,Food Court,34.0107,-118.3364,3650 M.l.king Jr. Blvd #137,Los Angeles,CA,90008
+1192,Street DT,Free Standing,35.1663,-114.5644,600 Highway 95,Bullhead City,AZ,86442
+1193,Street DT,End Cap,38.4284,-122.7411,740 Stony Point Road,Santa Rosa,CA,95407
+1195,Mall,In Line,33.8441,-118.261,20700 Avalon Blvd,Carson,CA,90746
+1196,Mall,Food Court,32.8685,-96.7735,8687 North Central Expressway,Dallas,TX,75225
+1197,Street DT,Free Standing,32.682,-114.6498,2495 South Avenue B,Yuma,AZ,85364
+1201,Street DT,Free Standing,34.1896,-118.9337,2690 Teller Road,Newbury Park,CA,91320
+1204,Street DT,Free Standing,32.8787,-97.3805,1149 N. Saginaw Blvd.,Saginaw,TX,76179
+1206,Street Non-DT,End Cap,28.6512,-81.4674,1710 South Orange Blossom,Apopka,FL,32703
+1207,Street DT,Free Standing,34.6313,-118.22,5025 West Avenue N,Lancaster,CA,93536
+1208,Street DT,End Cap,20.8781,-156.4566,55 Pakaula St,Kahului,HI,96732
+1209,Street DT,End Cap,47.2884,-122.314,34919 Enchanted Parkway South,Federal Way,WA,98003
+1210,Street DT,Free Standing,27.9372,-82.2639,1251 East Brandon Blvd,Brandon,FL,33511
+1212,Street Non-DT,End Cap,34.0984,-118.3108,5543 West Sunset Blvd.,Los Angeles,CA,90028
+1214,Mall,Food Court,40.8151,-96.6379,6100 O St.,Lincoln,NE,68505
+1215,Street DT,End Cap,30.091,-95.6335,14040 Fm 2920,Tomball,TX,77377
+1216,Street DT,Free Standing,41.7239,-88.0362,781 E. Boughton Rd,Bolingbrook,IL,60440
+1217,Street Non-DT,In Line,22.0627,-159.3212,4-831 Kuhio Highway,Kapaa,HI,96746
+1218,Street Non-DT,End Cap,33.2466,-111.8425,4040 S Arizona Ave,Chandler,AZ,85248
+1219,Street Non-DT,End Cap,47.0588,-122.7643,1320 Marvin Rd. Ne Space #a,Lacey,WA,98509
+1220,Street DT,Free Standing,47.7369,-116.7935,400 W. Wilbur Ave.,Coeur D'Alene,ID,83815
+1221,Street DT,Free Standing,44.9149,-122.9987,1910 Turner Road,Salem,OR,97302
+1222,Street DT,Free Standing,28.9349,-81.9364,869 US-27,Lady Lake,FL,32159
+1223,Street DT,Free Standing,33.4235,-112.225,7630 West Lower Buckeye,Phoenix,AZ,85043
+1224,Street Non-DT,End Cap,34.0025,-118.0875,8640 E. Whittier Blvd,Pico Rivera,CA,90660
+1226,Street DT,Free Standing,38.0507,-121.3746,10370 Trinity Parkway,Stockton,CA,95219
+1227,Street DT,Free Standing,33.8549,-117.5639,441 Magnolia Ave,Corona,CA,92879
+1228,Street DT,Free Standing,34.4982,-118.6234,31880 Castaic Road,Castaic,CA,91384
+1231,Street Non-DT,End Cap,39.0977,-76.8497,15102 Baltimore Ave.,Laurel,MD,20707
+1232,Store in Store,Food Court,47.7018,-122.3637,9999 Holman Rd,Seattle,WA,98117
+1233,Street Non-DT,End Cap,41.6532,-88.2046,12632 S Route 59,Plainfield,IL,60544
+1234,Street DT,Free Standing,34.2217,-118.4657,15303 Roscoe Blvd.,Van Nuys,CA,91402
+1235,Street DT,Free Standing,45.6836,-122.6041,6617 Ne 84th St.,Vancouver,WA,98665
+1236,Street Non-DT,End Cap,42.2682,-88.9791,7046 Walton St.,Rockford,IL,61108
+1237,Street DT,Free Standing,33.011,-96.6167,160 FM 544,Murphy,TX,75094
+1238,Street Non-DT,End Cap,33.3971,-84.5981,2707 West Highway 54,Peachtree City,GA,30269
+1239,Street Non-DT,End Cap,33.3828,-111.5994,1752 S. Signal Butte Rd.,Mesa,AZ,85208
+1240,Mall,Food Court,38.6343,-90.348,1155 St. Louis Galleria,Saint Louis,MO,63117
+1243,Street DT,Free Standing,29.7336,-95.7546,22169 Westheimer Parkway,Katy,TX,77450
+1244,Street DT,Free Standing,29.4682,-95.0915,2930 South Gulf Freeway,League City,TX,77573
+1245,Street Non-DT,End Cap,35.3542,-119.0179,1400 Brundage Lane,Bakersfield,CA,93304
+1246,Street Non-DT,In Line,37.1126,-121.6406,216 Tennant Ave,Morgan Hill,CA,95037
+1247,Street Non-DT,End Cap,45.4587,-122.7889,8400 Sw Nimbus Ave,Beaverton,OR,97008
+1248,Airport,Food Court,33.6408,-84.4325,12700 Spine Road Sw,Atlanta,GA,30354
+1249,Street DT,Free Standing,34.0365,-84.6834,3360 Cobb Parkway Nw,Acworth,GA,30101
+125,Mall,Food Court,33.9159,-117.8863,2158 Brea Mall,Brea,CA,92821
+1251,University,Food Court,36.1067,-115.1436,4505 Maryland Parkway,Las Vegas,NV,89154
+1252,Street Non-DT,Free Standing,35.1682,-80.8755,101 Seneca Place,Charlotte,NC,28210
+1253,Street DT,Free Standing,40.5861,-122.3548,966 Dana Drive,Redding,CA,96003
+1254,Street Non-DT,In Line,37.3401,-121.8422,1720 Story Road,San Jose,CA,95122
+1257,Street DT,End Cap,29.6776,-95.6427,9319 Hwy. 6 South,Houston,TX,77083
+1260,Street DT,Free Standing,44.0517,-123.1411,716 Seneca Road,Eugene,OR,97402
+1261,Street DT,Free Standing,33.0687,-112.0468,20850 North John Wayne Parkway,Maricopa,AZ,85139
+1262,Street DT,Free Standing,33.1692,-117.2126,316 Sycamore Avenue,Vista,CA,92083
+1263,Theme Park,Free Standing,44.7971,-93.4501,One Valley Fair Drive,Shakopee,MN,55379
+1264,Street DT,Free Standing,29.6035,-98.2784,6030 Fm 3009,Schertz,TX,78154
+1267,Street DT,Free Standing,39.2443,-94.4665,9241 Ne Hwy 152,Kansas City,MO,64158
+127,Mall,Food Court,21.3854,-157.9416,98-1005 Moanalua Rd,Aiea,HI,96701
+1270,Street Non-DT,End Cap,45.7172,-122.652,13307 Ne Highway 99,Vancouver,WA,98686
+1271,Street Non-DT,End Cap,34.0483,-118.3378,4700 West Pico Blvd.,Los Angeles,CA,90019
+1272,Street DT,Free Standing,47.1063,-122.2941,16428 Meridian Ave E,Puyallup,WA,98375
+1273,Street DT,Free Standing,36.0545,-79.904,4505 West Wendover Ave,Greensboro,NC,27409
+1274,Street DT,End Cap,29.5441,-95.7554,24622 Southwest Fwy,Rosenberg,TX,77471
+1275,Street DT,Free Standing,36.8532,-119.7303,2980 E. Nees Ave,Fresno,CA,93720
+1276,Street DT,Free Standing,40.3929,-104.753,4542 Centerplace Drive,Greeley,CO,80634
+1278,Street DT,Free Standing,33.8901,-84.7479,4795 Jimmy Lee Smith Parkway,Hiram,GA,30141
+1279,Street DT,Free Standing,33.9031,-118.2554,2187 W. Rosecrans Ave,Compton,CA,90222
+128,Mall,Food Court,38.8639,-77.0601,1100 S. Hayes St. #m126,Arlington,VA,22202
+1280,Street DT,Free Standing,39.9729,-82.9003,3769 East Broad Street,Whitehall,OH,43213
+1281,Street DT,Free Standing,36.2382,-115.2251,5881 West Craig Road,Las Vegas,NV,89130
+1282,Street DT,Free Standing,21.3453,-157.9288,4847 Warden Avenue,Honolulu,HI,96818
+1283,Street Non-DT,End Cap,34.184,-118.1595,2234 Lincoln Avenue,Altadena,CA,91001
+1284,Street DT,End Cap,41.8531,-88.3414,125 North Randall Road,Batavia,IL,60510
+1285,Street DT,Free Standing,30.6325,-97.6944,1009 W. University Ave.,Georgetown,TX,78626
+1286,Street DT,Free Standing,29.4368,-98.6507,8303 State Highway 151,San Antonio,TX,78245
+1287,Street DT,Free Standing,30.4815,-97.6714,120 Louis Henna Blvd,Round Rock,TX,78664
+1288,Street DT,Free Standing,32.6672,-97.1344,4900 S. Cooper St.,Arlington,TX,76017
+1289,Street Non-DT,End Cap,30.418,-97.7023,2501 West Parmer Lane,Austin,TX,78727
+129,Store in Store,Food Court,33.9964,-118.3938,11030 W. Jefferson Blvd.,Culver City,CA,90230
+1291,Street DT,Free Standing,47.8925,-122.2562,11610 Evergreen Way,Everett,WA,98204
+1292,Mall,In Line,33.651,-117.7433,73 Fortune Drive #103,Irvine,CA,92618
+1293,Street DT,Free Standing,19.6988,-155.0608,368 E. Makaala Street,Hilo,HI,96720
+1294,Street DT,Free Standing,34.0334,-117.6305,1160 E. Philadelphia St.,Ontario,CA,91761
+1295,Street Non-DT,In Line,38.9296,-77.0332,3100 14th Street Nw,Washington,DC,20010
+1296,Mall,Food Court,34.1902,-118.6033,6600 Topanga Canyon Blvd,Canoga Park,CA,91303
+1297,Street Non-DT,End Cap,33.8036,-118.0405,5353 Katella Ave,Cypress,CA,90630
+1298,Mall,In Line,41.5763,-88.1656,3340 Mall Loop Drive,Joliet,IL,60431
+1299,Street Non-DT,End Cap,42.1712,-88.3359,420 South Randall Road,Algonquin,IL,60102
+1302,Street DT,Free Standing,46.273,-119.1848,5104 Road 68,Pasco,WA,99301
+1303,Street DT,Free Standing,38.9105,-94.7689,11996 South Strang Line Road,Olathe,KS,66062
+1304,Street Non-DT,End Cap,28.5571,-81.2078,688 North Alafaya Trail,Orlando,FL,32828
+1305,Street Non-DT,End Cap,34.2763,-118.3973,11990 Foothill Blvd,Lake View Terrace,CA,91342
+1308,Street DT,Free Standing,39.6653,-86.0837,5020 Southport Crossing,Indianapolis,IN,46237
+1309,Street Non-DT,End Cap,36.2769,-115.2079,6475 North Decatur Blvd.,Las Vegas,NV,89130
+1311,Street DT,Free Standing,36.0411,-115.0472,195 North Stephanie Street,Henderson,NV,89012
+1313,Street Non-DT,End Cap,38.0374,-121.2606,4339 Morada Lane,Stockton,CA,95212
+1314,Street DT,Free Standing,33.0546,-96.771,5901 Coit Road,Plano,TX,75093
+1315,Street DT,Free Standing,42.1391,-88.0156,1165 E. Dundee Rd,Palatine,IL,60074
+1316,Street Non-DT,End Cap,32.6216,-116.9655,2015 Birch Road,Chula Vista,CA,91915
+1317,Street DT,Free Standing,39.8847,-105.02,2680 W 104th Ave,Denver,CO,80234
+1319,Street DT,Free Standing,30.3215,-97.7144,5764 Airport Blvd,Austin,TX,78752
+132,Mall,Food Court,34.0699,-117.9276,811 Plaza Drive,West Covina,CA,91790
+1320,Street DT,Free Standing,41.5857,-87.7207,4247 W 167th St,Country Club Hills,IL,60478
+1321,Street DT,Free Standing,39.7398,-104.8519,11688 East Colfax Avenue,Aurora,CO,80010
+1322,Street DT,Free Standing,40.5231,-105.0785,4600 South Mason St.,Fort Collins,CO,80525
+1323,Street Non-DT,End Cap,40.4068,-105.0453,1391 N. Denver Ave,Loveland,CO,80537
+1324,Street Non-DT,End Cap,42.1067,-88.2937,27 South Western Avenue,Carpentersville,IL,60110
+1325,Street Non-DT,End Cap,33.6668,-117.2636,29989 Canyon Hills Road,Lake Elsinore,CA,92532
+1326,Street DT,End Cap,33.3495,-111.9602,1320 West Elliot Road,Tempe,AZ,85284
+1330,CBD,In Line,37.8038,-122.2731,500 12th Street B132,Oakland,CA,94607
+1333,Street Non-DT,End Cap,26.0083,-80.3552,15703 Pines Blvd.,Pembroke Pines,FL,33027
+1335,Street DT,Free Standing,30.5204,-97.8343,401 W. Whitestone Blvd.,Cedar Park,TX,78613
+1336,Street Non-DT,End Cap,21.3995,-157.9739,1029 Makolu Street,Pearl City,HI,96782
+1337,Street Non-DT,In Line,33.7271,-117.7869,13266 Jamboree Rd.,Irvine,CA,92602
+1338,Street DT,Free Standing,35.1592,-106.679,3601 Bosque Plaza Ln Nw,Albuquerque,NM,87120
+1339,Street Non-DT,End Cap,35.2529,-120.6884,1508 Froom Ranch Way,San Luis Obispo,CA,93405
+1342,Street Non-DT,End Cap,34.2812,-118.7929,153 Cochran St. #320,Simi Valley,CA,93065
+1344,Street DT,End Cap,44.9477,-123.0513,505 Taggart Drive Nw,Salem,OR,97304
+1345,Street DT,Free Standing,41.9949,-87.7142,6201 N. Lincoln Ave,Chicago,IL,60659
+1347,Street DT,Free Standing,34.4706,-117.2432,19201 G Bear Valley Road,Apple Valley,CA,92308
+1348,Street DT,Free Standing,33.5608,-84.4144,7105 Highway 85,Riverdale,GA,30274
+1351,Street Non-DT,End Cap,38.0154,-121.8906,2120 Railroad Ave Suite 4,Pittsburg,CA,94565
+1352,Street DT,Free Standing,35.7452,-78.8732,1000 Beaver Creek Commons Dr.,Apex,NC,27502
+1356,Street Non-DT,End Cap,34.4176,-118.5029,26529 Golden Valley Road,Santa Clarita,CA,91350
+1359,Street DT,Free Standing,29.538,-95.1488,1505 W. Bay Area Blvd.,Webster,TX,77598
+1360,Street DT,Free Standing,39.6626,-104.9874,2990 S Broadway,Englewood,CO,80113
+1362,Street DT,Free Standing,29.4813,-98.3623,6355 Rittiman Road,San Antonio,TX,78244
+1363,Street DT,Free Standing,29.5218,-95.0782,153 N. FM 270 Road,League City,TX,77573
+1365,Street Non-DT,End Cap,41.9073,-87.9098,128 West North Ave,Northlake,IL,60164
+1367,Street Non-DT,End Cap,39.9142,-86.2246,8760 North Michigan Road,Indianapolis,IN,46268
+1368,Street DT,Free Standing,41.7199,-87.7747,6152 W. 95th Street,Oak Lawn,IL,60453
+1369,Street Non-DT,End Cap,34.3719,-118.5156,23746 Newhall Ave.,Santa Clarita,CA,91321
+1370,Street Non-DT,In Line,41.8822,-87.6405,500 West Madison Street,Chicago,IL,60661
+1372,Street Non-DT,End Cap,33.9397,-118.0452,13471 Telegraph Rd.,Whittier,CA,90605
+1374,Street DT,End Cap,32.7652,-96.8988,4390 Dallas Fort Worth Turnpike,Dallas,TX,75211
+1375,Street DT,Free Standing,29.6031,-95.6327,1401 State Hwy. 6,Sugar Land,TX,77478
+1376,Street DT,Free Standing,39.7645,-89.7049,2585 Wabash Avenue,Springfield,IL,62704
+1377,Street DT,Free Standing,28.3301,-81.4723,4789 W. Irlo Bronson Hwy,Kissimmee,FL,34746
+1378,Street DT,Free Standing,35.969,-114.8559,1617 Nevada Highway,Boulder City,NV,89005
+1379,Street Non-DT,End Cap,33.6316,-84.0152,2239 Georgia Highway 20,Conyers,GA,30013
+138,Mall,Food Court,32.8047,-116.9668,705 Parkway Plaza,El Cajon,CA,92020
+1380,Street Non-DT,End Cap,34.1386,-117.4403,16645 Sierra Lakes Pkwy #130,Fontana,CA,92336
+1381,Street DT,Free Standing,41.5636,-87.6368,17932 Halsted Street,Homewood,IL,60430
+1382,Street DT,Free Standing,33.7314,-84.7366,2716 Chapel Hill Road,Douglasville,GA,30135
+1383,Street Non-DT,End Cap,38.181,-122.254,5075 Main Street,American Canyon,CA,94503
+1386,Street Non-DT,End Cap,37.5037,-121.9755,43384 Boscell Road,Fremont,CA,94538
+1388,Street DT,Free Standing,33.4336,-111.8698,921 North Dobson Road,Mesa,AZ,85201
+139,Mall,Food Court,33.3906,-111.6897,6555-2506 East Southern Ave.,Mesa,AZ,85206
+1398,University,Food Court,42.351,-71.1089,775 Commonwealth Ave,Boston,MA,2215
+1399,Street Non-DT,End Cap,33.625,-111.9419,6501 E Greenway Parkway,Scottsdale,AZ,85254
+140,Mall,Food Court,34.1568,-118.4373,14006 Riverside Dr. #254,Sherman Oaks,CA,91423
+1400,Street Non-DT,End Cap,38.9573,-94.7272,12210 West 95th Street,Lenexa,KS,66215
+1401,Street Non-DT,End Cap,42.0743,-88.1906,4585 W. Higgins Rd.,Hoffman Estates,IL,60192
+1402,Street Non-DT,End Cap,39.1454,-121.5925,908 E Street,Marysville,CA,95901
+1405,Street Non-DT,End Cap,33.9451,-118.3647,4940 W. Century Blvd.,Inglewood,CA,90304
+1406,Street DT,Free Standing,25.7014,-80.3681,10821 S.w. 72nd Street,Miami,FL,33173
+1407,Street Non-DT,End Cap,36.9869,-121.9646,2740 41st Ave,Soquel,CA,95073
+1408,Street Non-DT,End Cap,38.8381,-77.4382,14220 Centreville Square,Centreville,VA,20122
+1409,Street Non-DT,End Cap,34.1464,-118.7589,29145 Canwood St,Agoura Hills,CA,91301
+1410,Street Non-DT,End Cap,33.9706,-118.1884,7129 Atlantic Ave,Bell Gardens,CA,90201
+1411,Street Non-DT,End Cap,42.1806,-88.0813,997 South Rand Road,Lake Zurich,IL,60047
+1413,Street DT,Free Standing,38.8899,-76.8531,8800 N. Hampton Mall Drive,Capitol Heights,MD,20743
+1415,Street DT,Free Standing,30.3541,-97.7325,7718 Burnet Road,Austin,TX,78703
+1416,Street DT,End Cap,38.7896,-104.7587,2960 South Academy Blvd.,Colorado Springs,CO,80916
+1418,Street DT,Free Standing,41.6026,-87.7927,7140 West 159th St.,Orland Park,IL,60467
+1419,Street Non-DT,End Cap,34.1725,-118.4479,14445 Burbank Blvd.,Van Nuys,CA,91401
+1420,Theme Park,Free Standing,39.1753,-94.4869,4545 Worlds Of Fun Avenue,Kansas City,MO,64161
+1422,Street Non-DT,End Cap,41.6777,-87.664,1654 W. 119th Street,Chicago,IL,60643
+1423,Street Non-DT,End Cap,47.6279,-117.3748,2905 S. Southeast Blvd.,Spokane,WA,99223
+1425,Street DT,Free Standing,35.4356,-97.402,7171 S. E. 29th Street,Midwest City,OK,73110
+1426,Street DT,Free Standing,36.2174,-115.1204,2001 East Cheyenne Avenue,N Las Vegas,NV,89030
+1427,Street Non-DT,End Cap,26.5365,-80.0901,970 North Congress Avenue,Boynton Beach,FL,33426
+1428,Street DT,Free Standing,33.128,-117.0939,600 West Mission Ave.,Escondido,CA,92025
+1429,University,Food Court,44.9727,-93.2354,Coffman Memorial Union,Minneapolis,MN,55455
+143,Street Non-DT,End Cap,33.8116,-118.1156,5945 E. Spring St.,Long Beach,CA,90808
+1431,Street Non-DT,End Cap,26.6638,-80.2022,1000 South State Road 7,Wellington,FL,33414
+1434,Street Non-DT,End Cap,37.7857,-121.2526,2130 Daniels Street,Manteca,CA,95337
+1435,Street Non-DT,End Cap,45.3249,-122.5797,19526 Molalla Ave #137,Oregon City,OR,97045
+1436,Street Non-DT,End Cap,39.1695,-76.7859,7351 Assateague Drive,Jessup,MD,20794
+1437,Street Non-DT,End Cap,38.8038,-104.8189,2020 Southgate Road,Colorado Springs,CO,80906
+1439,Street Non-DT,End Cap,34.1675,-118.3757,5300 N. Lankershim Blvd. #140,North Hollywood,CA,91601
+144,Mall,Food Court,33.5028,-111.9294,7014 E. Camelback #569,Scottsdale,AZ,85251
+1440,Street Non-DT,End Cap,45.2281,-123.1738,2420 Ne Highway 99w,Mcminnville,OR,97128
+1441,Street Non-DT,End Cap,41.9542,-88.7226,2434 Sycamore Road,Dekalb,IL,60115
+1442,Street DT,Free Standing,30.0736,-95.509,5901 Fm 2920,Spring,TX,77388
+1443,Street Non-DT,End Cap,33.5635,-84.3243,2008 Mt. Zion Road,Morrow,GA,30260
+1445,Street DT,Free Standing,35.5627,-97.6504,7700 Nw Expressway,Oklahoma City,OK,73132
+1446,Street DT,Free Standing,30.0189,-95.4346,431 Fm 1960 Rd. West,Houston,TX,77090
+1447,Street DT,Free Standing,29.6159,-95.4967,7420 S. Sam Houston West Pkwy,Houston,TX,77085
+1448,Street DT,Free Standing,30.2201,-95.5676,33010 Fm 2978 Road,Magnolia,TX,77354
+1449,Street DT,Free Standing,46.3984,-116.9988,2221 Thain Grade,Lewiston,ID,83501
+145,Mall,In Line,37.7841,-122.4064,865 Market Street,San Francisco,CA,94103
+1450,Street Non-DT,End Cap,42.0501,-88.0769,100 B. East Golf Road.,Schaumburg,IL,60173
+1451,Street Non-DT,End Cap,33.1036,-117.0745,415 West Felicita Ave.,Escondido,CA,92025
+1452,Street Non-DT,End Cap,38.4586,-121.4169,8251 Brucesville Road,Sacramento,CA,95823
+1453,Street DT,Free Standing,45.0067,-122.9991,2675 Jorie Lane Ne,Keizer,OR,97303
+1454,Street Non-DT,End Cap,34.1463,-118.1153,1701 E. Colorado Blvd.,Pasadena,CA,91106
+1455,Street DT,Free Standing,29.775,-95.7522,546 Mason Road,Katy,TX,77450
+1456,Street DT,Free Standing,29.4352,-98.7009,10618 Potranco Road,San Antonio,TX,78245
+1459,Theme Park,Free Standing,37.3964,-121.9742,"2401 Agnew Rd, #741-a",Santa Clara,CA,95054
+1465,Theme Park,In Line,39.3401,-84.2731,6300 Kings Island Drive,Mason,OH,45040
+1466,Theme Park,Free Standing,33.8428,-117.9984,8039 Beach Blvd.,Buena Park,CA,90620
+1469,Street DT,Free Standing,39.764,-86.3517,9682 Us-36,Avon,IN,46123
+1470,Street Non-DT,End Cap,34.0555,-117.7075,4467 Mission Blvd.,Montclair,CA,91763
+1472,Street DT,Free Standing,41.4704,-87.3371,31 West 81st Street,Merrillville,IN,46410
+1473,University,Food Court,34.2374,-118.5282,18111 Nordhoff St,Northridge,CA,91330
+1475,Street DT,Free Standing,29.4819,-98.5994,5707 Stemmons,San Antonio,TX,78229
+1476,Street DT,Free Standing,36.2642,-115.2563,5620 Centennial Center,Las Vegas,NV,89149
+1478,Street Non-DT,End Cap,37.2699,-121.9058,3029 Meridian Ave.,San Jose,CA,95124
+1479,Street DT,Free Standing,34.8142,-106.7602,2260 Main Street Nw,Los Lunas,NM,87031
+1480,Street DT,Free Standing,36.7888,-119.754,3910 N. Cedar Avenue,Fresno,CA,93726
+1481,Street Non-DT,End Cap,36.1584,-115.2053,1121 South Decatur Blvd.,Las Vegas,NV,89102
+1482,Street DT,Free Standing,28.0262,-82.5599,7207 West Waters Avenue,Tampa,FL,33634
+1483,Street Non-DT,End Cap,37.3553,-122.0183,790 East El Camino Real,Sunnyvale,CA,94087
+1484,Street Non-DT,End Cap,21.4264,-158.0014,94-1221 Ka Uka Blvd.,Waipahu,HI,96797
+1486,Street DT,Free Standing,33.7398,-116.2157,42550 Jackson Street,Indio,CA,92203
+1488,Street Non-DT,End Cap,33.977,-118.3698,6802 S. La Cienega Blvd.,Inglewood,CA,90302
+1489,Street Non-DT,End Cap,38.8842,-94.6713,7352 West 135th Street,Overland Park,KS,66224
+1490,Street Non-DT,End Cap,39.5835,-119.7393,287 Los Altos Parkway,Sparks,NV,89436
+1491,Street DT,Free Standing,35.2426,-106.6967,801 Unser Blvd S.e.,Rio Rancho,NM,87124
+1493,Street DT,Free Standing,40.1517,-105.0917,155 East Ken Pratt Blvd.,Longmont,CO,80501
+1494,Street DT,Free Standing,32.2351,-111.0045,1055 North Silverbell Road,Tucson,AZ,85745
+1495,Street DT,End Cap,47.6791,-117.282,9119 East Montgomery Ave,Spokane,WA,99206
+1496,Street Non-DT,End Cap,41.9846,-88.3416,388 Randall Road,South Elgin,IL,60177
+1497,Street Non-DT,End Cap,45.5727,-122.5572,10213 Ne Cascades Parkway,Portland,OR,97220
+1498,Street Non-DT,End Cap,34.1282,-117.8917,856 E. Alosta Ave,Azusa,CA,91702
+1500,Street DT,Free Standing,33.8042,-116.9726,1270 North State Street,San Jacinto,CA,92583
+1501,Street Non-DT,End Cap,38.8529,-76.9132,5410 Silver Hill Road,District Heights,MD,20747
+1502,Street Non-DT,End Cap,33.8177,-116.4908,5200 Ramon Road G-7,Palm Springs,CA,92262
+1503,Street DT,Free Standing,28.5537,-81.3492,2655 East Colonial Drive,Orlando,FL,32803
+1504,Street DT,Free Standing,46.2558,-119.313,2885 Duportail St. Suite 1,Richland,WA,99352
+1505,Street Non-DT,End Cap,47.4974,-122.2018,960 Park Ave North,Renton,WA,98055
+1508,Street DT,Free Standing,42.3794,-88.0732,380 East Rollins Road,Round Lake Beach,IL,60073
+1509,Street DT,Free Standing,43.5502,-116.5733,1811 12th Ave Road,Nampa,ID,83686
+1510,Street Non-DT,End Cap,33.8886,-118.1258,15909 Bellflower Blvd.,Bellflower,CA,90706
+1512,Street Non-DT,End Cap,39.2464,-94.6483,5905 N.w. Barry Road,Kansas City,MO,64154
+1514,Street Non-DT,End Cap,25.6534,-80.4121,13440 Sw 120th Street,Miami,FL,33186
+1515,Street Non-DT,End Cap,39.5653,-104.8881,8331 A South Willow Street,Lone Tree,CO,80124
+1516,Mall,Food Court,47.9097,-122.2132,1402 Se Everett Mall Way,Everett,WA,98208
+1517,Mall,Food Court,41.7558,-88.2113,120 Fox Valley Center,Aurora,IL,60504
+1518,Street DT,End Cap,32.6963,-117.1329,2850 National Ave,San Diego,CA,92113
+1519,Street Non-DT,End Cap,33.9674,-84.024,900 Duluth Hwy 120,Lawrenceville,GA,30042
+1521,Street Non-DT,End Cap,29.7381,-95.5132,8366 Westheimer Road,Houston,TX,77063
+1522,Street DT,End Cap,40.4326,-122.2882,"5030 Rhonda Road, Suite A",Anderson,CA,96007
+1523,Street Non-DT,End Cap,40.004,-83.0085,2044 North High Street,Columbus,OH,43201
+1524,Street DT,Free Standing,41.6459,-87.7373,13581 South Cicero Avenue,Crestwood,IL,60445
+1526,Street Non-DT,End Cap,37.6773,-120.9376,"3020 Floyd Ave, Suite #201",Modesto,CA,95355
+1527,Street DT,Free Standing,29.7749,-95.3819,1913 Taylor Street,Houston,TX,77007
+1528,Street DT,Free Standing,33.7167,-116.2322,82-451 Hwy 111 Building B,Indio,CA,92201
+1529,Street Non-DT,End Cap,42.0665,-87.9202,1200 East Central Road,Mt Prospect,IL,60056
+1530,Street Non-DT,End Cap,38.6519,-77.302,2990 Prince William Parkway,Woodbridge,VA,22192
+1531,Street Non-DT,End Cap,45.5158,-122.792,11192 Sw Barnes Rd,Portland,OR,97225
+1532,Street DT,End Cap,36.1577,-115.0797,1300 S Lamb Blvd,Las Vegas,NV,89104
+1533,Street DT,End Cap,33.18,-96.8865,12244 Fm 423 Space 100,Frisco,TX,75034
+1534,Street DT,Free Standing,33.4543,-112.3932,690 North Estrella Parkway,Goodyear,AZ,85338
+1535,Street DT,Free Standing,46.1454,-122.9335,500 Triangle Center,Longview,WA,98632
+1536,Street DT,Free Standing,34.66,-118.1469,840 W. Avenue L,Lancaster,CA,93534
+1537,Street DT,Free Standing,35.7465,-119.2477,540 Woollomes Ave.,Delano,CA,93215
+1538,Street DT,Free Standing,27.9982,-80.6385,1104 Se Malabar Road,Palm Bay,FL,32909
+1542,Street Non-DT,End Cap,33.9006,-84.478,2580 Windy Hill Road Suite 600,Marietta,GA,30067
+1543,Street Non-DT,End Cap,33.9845,-118.0965,8943 Washington Blvd.,Pico Rivera,CA,90660
+1545,Street Non-DT,Free Standing,43.5906,-116.2801,7804 Overland Drive,Boise,ID,83709
+1546,Street Non-DT,End Cap,39.6102,-86.1577,331 South State Road 135,Greenwood,IN,46142
+1547,Street DT,End Cap,39.7898,-105.1099,5145 Kipling St,Wheat Ridge,CO,80033
+1549,Street DT,Free Standing,33.3792,-111.839,342 W. Baseline Road,Mesa,AZ,85210
+1550,Street Non-DT,Free Standing,33.9328,-118.3261,11222 South Crenshaw Blvd.,Inglewood,CA,90303
+1551,Street DT,Free Standing,33.7102,-112.2693,9753 W. Happy Valley Road,Peoria,AZ,85383
+1552,Street Non-DT,End Cap,33.9741,-118.2328,2120 E. Florence Ave,Walnut Park,CA,90255
+1553,Street DT,End Cap,33.4041,-111.9789,4750 South 48th Street,Phoenix,AZ,85040
+1554,Street Non-DT,End Cap,29.786,-95.4675,7670 Katy Freeway,Houston,TX,77024
+1556,Street DT,Free Standing,33.7892,-118.3045,1608 Pacific Coast Hwy,Los Angeles,CA,90710
+1557,Street DT,Free Standing,33.249,-111.6283,21184 E Ocotillo Rd,Queen Creek,AZ,85142
+1558,Street DT,Free Standing,41.1564,-87.8506,850 North Kinzie Ave,Bradley,IL,60915
+1560,Street DT,Free Standing,33.4945,-112.1723,5229 W. Indian School Rd.,Phoenix,AZ,85031
+1562,Street Non-DT,End Cap,33.8721,-118.2671,501 E. Albertoni Street,Carson,CA,90746
+1564,Mall,Food Court,47.4587,-122.2612,2600 South Center Mall,Tukwila,WA,98188
+1567,Street DT,End Cap,29.7857,-95.5335,9758 Katy Fwy,Houston,TX,77055
+1568,Street Non-DT,End Cap,38.7471,-77.4489,9685 Liberia Ave.,Manassas,VA,20110
+1569,Street DT,Free Standing,20.8849,-156.6798,312 Keawe Street,Lahaina,HI,96761
+157,Street Non-DT,In Line,20.7496,-156.4547,1279 S. Kihei Road #102,Kihei,HI,96753
+1570,Theme Park,Free Standing,41.4848,-82.6904,1 Cedar Point Drive,Sandusky,OH,44870
+1571,Street Non-DT,End Cap,33.0577,-96.6916,1121 E Spring Creek Pkwy,Plano,TX,75074
+1572,Street Non-DT,End Cap,34.1762,-119.2196,693 W. Channel Islands Blvd.,Port Hueneme,CA,93041
+1573,University,Food Court,33.9789,-117.3281,900 University Ave.,Riverside,CA,92521
+1574,Mall,Food Court,41.9544,-87.8095,4140 N Harlem Ave,Norridge,IL,60706
+1577,Street Non-DT,End Cap,34.0759,-83.9846,3410 Buford Dr NE,Buford,GA,30519
+1578,Street DT,End Cap,33.0655,-97.0811,5861 Long Prarie Road,Flower Mound,TX,75028
+1579,Street Non-DT,End Cap,42.2559,-87.9484,1640 Milwaukee Ave,Vernon Hills,IL,60061
+1580,Street DT,Free Standing,45.2573,-122.7032,1020 Sw 1st Avenue,Canby,OR,97013
+1581,Street DT,Free Standing,33.9378,-117.1797,27680 Eucalyptus Ave.,Moreno Valley,CA,92555
+1583,Street DT,Free Standing,32.8616,-97.1856,6260 Precinct Line Road,Hurst,TX,76054
+1584,Street DT,Free Standing,34.7044,-118.1655,1861 W. Avenue I,Lancaster,CA,93534
+1586,Street Non-DT,End Cap,33.62,-117.7006,23572 El Toro Road,Lake Forest,CA,92630
+1588,Street DT,Free Standing,40.5082,-111.9784,3648 West 13400 South,Riverton,UT,84065
+1589,Street DT,Free Standing,40.5851,-111.8632,9166 South Village Shop Drive,Sandy,UT,84070
+159,Mall,Food Court,44.8539,-93.2425,374 South Ave.,Bloomington,MN,55425
+1590,Street DT,Free Standing,30.5178,-97.6606,1700 E Palm Valley Blvd,Round Rock,TX,78664
+1591,Street DT,Free Standing,41.7023,-88.3101,2630 Route 34 #5,Oswego,IL,60543
+1592,Street DT,Free Standing,30.4813,-81.637,14022 Revell Drive,Jacksonville,FL,32218
+1593,Street DT,End Cap,32.9844,-96.9092,2604 Old Denton Road,Carrollton,TX,75007
+1594,Street DT,Free Standing,44.6294,-123.0838,1310 Geary Street,Albany,OR,97322
+1596,University,Food Court,46.7311,-117.1623,1500 N.e. Terrell Mall,Pullman,WA,99163
+1597,Street Non-DT,End Cap,28.4671,-81.3086,6651 South Semoran Blvd.,Orlando,FL,32822
+1598,Street Non-DT,End Cap,38.5275,-122.7889,6560 Hembree Lane,Windsor,CA,95492
+1599,Street DT,End Cap,29.7719,-95.1861,13415 Hwy I - 10 East 1,Houston,TX,77015
+1600,Street Non-DT,End Cap,41.8486,-87.8041,2300 South Harlem Avenue,North Riverside,IL,60546
+1601,Street Non-DT,End Cap,35.4421,-80.8585,9918 Knockando Lane,Huntersville,NC,28078
+1602,Street DT,Free Standing,35.3254,-97.4909,1401 South I-35 Service Road,Moore,OK,73160
+1603,Street DT,Free Standing,36.7354,-119.7192,5192 E. Kings Canyon Road,Fresno,CA,93727
+1606,Street Non-DT,End Cap,39.2339,-121.0366,688 Sutton Way,Grass Valley,CA,95945
+1607,Mall,Food Court,34.1844,-118.8888,382 W Hillcrest Dr,Thousand Oaks,CA,91360
+1608,Street Non-DT,End Cap,33.443,-117.6139,806 Avenida Pico Suite A,San Clemente,CA,92672
+1610,Street Non-DT,End Cap,33.9034,-117.4757,11090 Magnolia Ave,Riverside,CA,92505
+1611,Street Non-DT,End Cap,30.1962,-81.8264,9580 Applecross Road #102,Jacksonville,FL,32222
+1612,Street Non-DT,End Cap,37.5523,-122.0481,5829 Jarvis Ave.,Newark,CA,94560
+1613,Street Non-DT,End Cap,37.3054,-121.8635,"2131 Monterey Hwy, Suite #60",San Jose,CA,95125
+1615,Street DT,Free Standing,35.2216,-114.0354,3370 Stockton Hill Road,Kingman,AZ,86401
+1616,Street Non-DT,End Cap,36.0628,-115.2431,6925 S. Rainbow Blvd.,Las Vegas,NV,89118
+1617,Street Non-DT,End Cap,41.837,-87.7444,3076 S. Cicero Ave,Cicero,IL,60804
+1618,Street Non-DT,End Cap,40.1459,-88.2585,2521 N. Prospect Ave,Champaign,IL,61822
+1619,Street DT,End Cap,34.0495,-118.0823,1717 Walnut Grove Ave,Rosemead,CA,91770
+1620,Street Non-DT,End Cap,33.7063,-116.2715,79835 Hwy 111,La Quinta,CA,92253
+1622,Street DT,Free Standing,34.5101,-117.399,14361 Highway 395,Victorville,CA,92394
+1624,Street DT,Free Standing,41.7004,-88.125,207 North Weber Road,Bolingbrook,IL,60440
+1625,Street Non-DT,Free Standing,38.9667,-78.1906,236 Crooked Run Plaza,Front Royal,VA,22630
+1630,Street Non-DT,End Cap,38.5921,-121.416,1431 Howe Ave. Suite #100,Sacramento,CA,95825
+1631,Street DT,Free Standing,39.7593,-121.8441,2443 Cohasset Rd.,Chico,CA,95926
+1632,Street Non-DT,End Cap,38.4523,-121.3741,8848 Calvine Road,Elk Grove,CA,95624
+1633,Street Non-DT,End Cap,33.2273,-117.3265,47 Douglas Drive,Oceanside,CA,92054
+1634,Street Non-DT,In Line,21.294,-157.8534,1060 Auahi St. Bay 5,Honolulu,HI,96814
+1635,Street Non-DT,End Cap,40.0237,-105.2571,2100 - 1a 28th Street,Boulder,CO,80301
+1636,Street DT,Free Standing,38.9647,-94.6696,9090 Metcalf Avenue,Overland Park,KS,66212
+1638,Street Non-DT,End Cap,28.552,-80.8396,3045 Columbia Blvd.,Titusville,FL,32780
+1639,Street Non-DT,In Line,28.6627,-81.3832,275 East Altamonte Drive,Altamonte Springs,FL,32701
+1642,Street Non-DT,End Cap,33.9066,-84.3791,5620 Roswell Road,Sandy Springs,GA,30358
+1644,Street DT,Free Standing,30.1678,-97.7948,309 West Slaughter Lane,Austin,TX,78748
+1645,Street Non-DT,End Cap,29.6869,-95.4579,8705 West Loop South,Houston,TX,77096
+1646,Street DT,Free Standing,33.449,-112.3079,11555 W. Van Buren Street,Avondale,AZ,85323
+1647,University,Food Court,31.6036,-94.6556,Student Center Building,Nacogdoches,TX,75962
+1649,Street Non-DT,End Cap,47.4501,-122.2612,17100 South Center Parkway,Tukwila,WA,98188
+1650,Street Non-DT,End Cap,47.7199,-122.2952,12513 Lake City Way,Seattle,WA,98125
+1651,Street Non-DT,End Cap,30.2196,-97.8416,4301 W. William Cannon,Austin,TX,78749
+1652,Street Non-DT,End Cap,33.8788,-118.2182,1641 South Alameda Street,Compton,CA,90220
+1653,Mall,In Line,39.7155,-104.9524,3000 E 1st Ave #111,Denver,CO,80206
+1654,Mall,Food Court,21.2786,-157.829,2233 Kalakaua Ave,Honolulu,HI,96815
+1655,Street Non-DT,End Cap,28.1235,-80.6721,1030 North Wickham Road,Melbourne,FL,32935
+1656,Street Non-DT,End Cap,26.6081,-81.812,9330 Six Mile Parkway,Fort Myers,FL,33912
+1657,Street Non-DT,End Cap,32.7491,-117.072,5807 University Avenue,San Diego,CA,92115
+1658,Street DT,Free Standing,46.2134,-119.1594,401 North Ely Street,Kennewick,WA,99336
+1661,Street DT,Free Standing,34.5211,-117.3234,15270 Civic Drive,Victorville,CA,92394
+1662,Street Non-DT,End Cap,38.6647,-121.223,8929 Madison Avenue,Fair Oaks,CA,95628
+1663,Street Non-DT,End Cap,38.6182,-121.3648,4245 Marconi Ave,Sacramento,CA,95821
+1664,Street Non-DT,In Line,33.9241,-116.9472,1668 E. 2nd St. Market Place,Beaumont,CA,92223
+1666,Street DT,End Cap,36.0539,-119.0269,460 W. Vandalia Ave.,Porterville,CA,93257
+1667,Street DT,Free Standing,36.2402,-115.1191,2220 E Craig Rd,North Las Vegas,NV,89081
+1669,Street DT,Free Standing,38.9848,-94.6086,7920 Stateline Road,Prairie Village,KS,66208
+1670,Street DT,End Cap,47.7012,-116.7802,405 E. Best Ave,Coeur D' Alene,ID,83814
+1671,Street DT,Free Standing,36.5457,-119.401,640 W. El Monte Way,Dinuba,CA,93618
+1672,Street Non-DT,End Cap,45.619,-122.6452,2510 Columbia House Boulevard,Vancouver,WA,98661
+1673,Street DT,End Cap,32.222,-110.9163,3587 East Broadway Road,Tucson,AZ,85716
+1674,Street DT,Free Standing,45.4023,-122.2824,37101 Hwy 26,Sandy,OR,97055
+1675,Street Non-DT,End Cap,41.6085,-88.124,404 Weber Rd,Romeoville,IL,60446
+1677,Street DT,Free Standing,33.3199,-111.8919,2905 West Ray Road,Chandler,AZ,85224
+1678,Street Non-DT,End Cap,33.9998,-84.2837,2622 Holcomb Bridge Road,Alpharetta,GA,30022
+1679,Street DT,Free Standing,27.8943,-82.3319,10250 Bloomingdale Avenue,Riverview,FL,33578
+1680,Street Non-DT,End Cap,29.4762,-81.2159,5234 East Highway 100,Palm Coast,FL,32164
+1681,Street Non-DT,End Cap,42.0411,-87.7576,5220 West Dempster,Skokie,IL,60077
+1682,Street Non-DT,End Cap,29.7339,-95.441,3651 Weslayan,Houston,TX,77046
+1683,Street Non-DT,End Cap,38.7853,-77.5167,10689 Sudley Manor Drive,Manassas,VA,20109
+1687,Street Non-DT,End Cap,31.4978,-97.1586,2448 West Loop 340,Waco,TX,76711
+1688,Street DT,End Cap,36.3474,-119.2972,1933 N. Dinuba Blvd.,Visalia,CA,93291
+1689,Street DT,Free Standing,45.3974,-122.7441,17799 Sw 65th Ave.,Lake Oswego,OR,97035
+1690,Street Non-DT,End Cap,33.9191,-118.0739,12327 Norwalk Blvd.,Norwalk,CA,90650
+1692,Street Non-DT,End Cap,37.933,-122.3295,4250 Macdonald Avenue,Richmond,CA,94805
+1693,Street Non-DT,End Cap,36.7182,-121.6668,1906 North Davis Road,Salinas,CA,93907
+1695,Street Non-DT,Free Standing,40.4247,-86.9077,138 Northwestern Ave,West Lafayette,IN,47906
+1696,Street DT,End Cap,35.462,-97.6181,500 South Macarthur,Oklahoma City,OK,73128
+1697,Street Non-DT,End Cap,38.554,-121.5387,2220 Lake Washington Blvd.,West Sacramento,CA,95691
+1698,Street DT,End Cap,33.5941,-117.2424,23861 Clinton Keith Road,Wildomar,CA,92595
+1699,Mall,Food Court,32.6542,-117.0651,3030 Plaza Bonita Fc-4,National City,CA,91950
+170,Mall,Food Court,35.1079,-106.5742,6600 Menaul Blvd. N.e. #40-1,Albuquerque,NM,87110
+1700,Street Non-DT,End Cap,34.036,-117.9126,"2260 South Azusa, Suite D",West Covina,CA,91792
+1701,Street DT,Free Standing,21.2973,-157.8377,1505 S. King St.,Honolulu,HI,96826
+1702,Street Non-DT,End Cap,42.3613,-122.8598,1750 Delta Waters Road,Medford,OR,97504
+1704,Street Non-DT,Free Standing,36.7071,-119.574,2590 Jensen Avenue,Sanger,CA,93657
+1706,Street Non-DT,End Cap,34.26,-118.3126,8231 Foothill Blvd,Sunland,CA,91040
+1707,Mall,Food Court,18.4798,-66.7716,506 Truncado Street,Hatillo,PR,659
+1708,Street DT,Free Standing,47.6434,-117.5757,11930 West Sunset Hwy,Airway Heights,WA,99001
+1709,Street Non-DT,End Cap,47.3595,-122.6045,4904 Borgen Blvd.,Gig Harbor,WA,98335
+171,Street Non-DT,End Cap,33.9859,-118.4398,4325 Glencoe Ave #c4,Marina Del Rey,CA,90292
+1710,Street DT,Free Standing,35.0707,-78.9634,585 Cross Creek Mall,Fayetteville,NC,28303
+1711,Street Non-DT,End Cap,35.6513,-97.4612,309 South Bryant,Edmond,OK,73034
+1713,Theme Park,Food Court,28.4731,-81.462,6000 Universal Blvd,Orlando,FL,32819
+1714,Street Non-DT,End Cap,37.6088,-120.9392,1507 Mitchell Road,Ceres,CA,95307
+1715,Street DT,Free Standing,31.0737,-97.665,201 E. Central Texas,Harker Heights,TX,76548
+1716,Street DT,Free Standing,39.126,-94.8346,10950 Stadium Parkway,Kansas City,KS,66111
+1717,Casino,Food Court,36.292,-115.1807,7300 Aliante Pkwy.,North Las Vegas,NV,89084
+1718,Street Non-DT,End Cap,41.5216,-88.1423,2410 West Jefferson Street,Joliet,IL,60436
+1719,Mall,Food Court,38.7734,-121.2693,1151 Galleria Blvd.,Roseville,CA,95678
+1720,Street DT,End Cap,36.0342,-115.2054,4720 Blue Diamond Road,Las Vegas,NV,89139
+1721,Street DT,Free Standing,29.7344,-95.6243,2552 Eldridge Parkway,Houston,TX,77082
+1722,Street Non-DT,End Cap,41.8669,-87.8832,100 S. Mannheim Rd.,Hillside,IL,60162
+1724,Street Non-DT,End Cap,21.3299,-158.0864,480 Kamokila Blvd.,Kapolei,HI,96707
+1725,Street DT,Free Standing,46.5739,-120.4889,1915 South First Street,Yakima,WA,98902
+1728,Street Non-DT,In Line,19.6501,-156.0044,74-5450 E110 Makala Blvd.,Kailua Kona,HI,96740
+1729,Street Non-DT,In Line,34.0435,-118.0321,1818 S. Durfee Ave.,South El Monte,CA,91733
+1730,Street Non-DT,End Cap,39.5062,-119.7985,395 E. Plumb Lane,Reno,NV,89502
+1731,Street Non-DT,End Cap,30.2871,-81.4635,13460 Beach Blvd,Jacksonville,FL,32224
+1732,Street DT,Free Standing,44.2943,-121.1719,455 Nw Oak Tree Lane,Redmond,OR,97756
+1733,Street Non-DT,End Cap,25.4567,-80.4759,33550 South Dixie Hwy,Florida City,FL,33034
+1734,Street Non-DT,End Cap,30.1397,-81.7701,901 Blanding Blvd.,Orange Park,FL,32065
+1736,Street Non-DT,End Cap,27.3107,-80.4062,1782 Sw Saint Lucie West Blvd,Port Saint Lucie,FL,34986
+1737,Street DT,Free Standing,39.0274,-94.2554,535 Ne Coronado Drive,Blue Springs,MO,64014
+1742,Mall,Food Court,46.2264,-119.228,1321 N. Columbia Center Blvd,Kennewick,WA,99336
+1745,Street Non-DT,End Cap,25.978,-80.3104,12332 Miramar Pkwy,Miramar,FL,33025
+1748,Street Non-DT,End Cap,32.705,-97.3894,3140 S. Hulen Blvd.,Fort Worth,TX,76109
+1749,Street Non-DT,End Cap,33.6846,-117.1748,30024 Haun Road,Menifee,CA,92584
+175,University,Food Court,34.0704,-118.4441,308 Westwood Plaza,Los Angeles,CA,90024
+1750,Street Non-DT,End Cap,29.9644,-95.5425,7610 W Fm 1960,Houston,TX,77070
+1751,Street DT,Free Standing,29.6868,-98.1255,1008 Ih 35 S.,New Braunfels,TX,78130
+1752,Street Non-DT,End Cap,25.769,-80.3379,8750 W. Flagler Street,Miami,FL,33174
+1753,Street DT,Free Standing,32.8427,-97.29,5340 N. Beach St.,Haltom City,TX,76137
+1754,University,Food Court,29.5845,-98.6173,One Utsa Circle,San Antonio,TX,78249
+1755,Mall,In Line,42.0482,-88.0384,3 Woodfield Mall,Schaumburg,IL,60173
+1756,University,End Cap,36.0011,-78.941,120 Science Drive,Durham,NC,27708
+1758,Street DT,Free Standing,42.3662,-89.016,1640 West Lane Dr.,Machesney Park,IL,61115
+1761,Mall,Food Court,38.6016,-121.4274,1689 Arden Way,Sacramento,CA,95815
+1762,Mall,Food Court,36.1725,-115.1973,4300 Meadows Lane,Las Vegas,NV,89107
+1763,Mall,In Line,37.6872,-121.0518,3401 Dale Rd.,Modesto,CA,95356
+1764,Mall,Food Court,34.1349,-118.051,400 South Baldwin Ave,Arcadia,CA,91007
+1765,Mall,Food Court,32.768,-117.1656,7007 Friars Rd,San Diego,CA,92108
+1768,Street DT,Free Standing,37.3438,-120.6146,1531 Bell Dr.,Atwater,CA,95301
+1769,Street DT,Free Standing,34.4798,-114.3487,205 N. Lake Havasu Ave.,Lake Havasu City,AZ,86403
+1770,Street Non-DT,End Cap,30.3031,-81.758,6752 Normandy Blvd.,Jacksonville,FL,32205
+1771,Street DT,Free Standing,35.4936,-97.55,2201 Nw 23rd St.,Oklahoma City,OK,73107
+1772,Street DT,Free Standing,30.2543,-81.5349,4897 Town Center Parkway,Jacksonville,FL,32246
+1773,University,Food Court,35.3094,-83.1837,160 W. University Way #112,Cullowhee,NC,28723
+1774,Street Non-DT,End Cap,38.4965,-121.433,6013 Florin Rd,Sacramento,CA,95823
+1775,Street Non-DT,End Cap,39.9719,-86.1542,1430 West Carmel Drive,Carmel,IN,46032
+1776,Street DT,Free Standing,29.8431,-97.9697,2850 S Ih35,San Marcos,TX,78666
+1778,University,Food Court,41.3125,-105.586,1000 E University Ave,Laramie,WY,82071
+1779,Street DT,Free Standing,39.1845,-94.576,"4901 North Oak Trafficway, Lot 4",Kansas City,MO,64118
+178,Store in Store,Food Court,33.8672,-117.7516,8010 Santa Ana Canyon Rd.,Anaheim,CA,92808
+1780,Street DT,Free Standing,34.5458,-112.4676,170 E. Sheldon Street,Prescott,AZ,86301
+1781,University,Food Court,39.5441,-119.8159,"Joe Crowley Student Union, 1664 N. Virginia St",Reno,NV,89503
+1782,Street Non-DT,End Cap,37.6978,-121.8747,4001 Santa Rita Rd.,Pleasanton,CA,94588
+1783,Street Non-DT,End Cap,38.8849,-94.8356,299 North K-7 Highway,Olathe,KS,66061
+1784,Street Non-DT,End Cap,29.6909,-95.4158,8505 Main Street,Houston,TX,77025
+1785,Street Non-DT,End Cap,29.5175,-98.5063,834 Nw Loop 410,San Antonio,TX,78216
+1786,Street Non-DT,End Cap,35.9447,-86.8188,3058 Mallory Lane,Franklin,TN,37067
+1787,Mall,Food Court,37.6994,-122.1233,15555 E 14th St,San Leandro,CA,94578
+1788,Street Non-DT,End Cap,37.5442,-121.9831,39429 Fremont Boulevard,Fremont,CA,94538
+1789,Street Non-DT,End Cap,31.7772,-106.5039,2725 N. Mesa,El Paso,TX,79902
+1790,Street DT,Free Standing,38.7057,-120.8305,4280 Missouri Flat Road,Placerville,CA,95667
+1792,Street Non-DT,End Cap,45.403,-122.7971,16230 Sw Pacific Hwy,Tigard,OR,97224
+1793,Street Non-DT,End Cap,38.6743,-76.875,15902 Crain Hwy,Brandywine,MD,20613
+1794,Street Non-DT,End Cap,30.1874,-81.7352,1907 Well Road,Orange Park,FL,32073
+1795,Street DT,Free Standing,40.7436,-89.6297,2316 W. War Memorial Dr,Peoria,IL,61613
+1796,Street DT,Free Standing,28.5111,-81.4596,2972 S. Kirkman Road,Orlando,FL,32811
+1797,Street DT,Free Standing,32.669,-114.4951,3275 S. Avenue 8e,Yuma,AZ,85364
+1798,Street Non-DT,End Cap,33.3045,-111.9946,4025 E. Chandler Blvd.,Phoenix,AZ,85048
+1799,Street Non-DT,End Cap,36.7304,-119.8006,1115 Fresno Street,Fresno,CA,93706
+1800,Street DT,Free Standing,32.5176,-97.3503,1621 Sw Wilshire Blvd,Burleson,TX,76028
+1801,Street Non-DT,End Cap,34.1812,-84.133,905 Market Place Blvd.,Cumming,GA,30041
+1802,Street DT,Free Standing,41.2916,-96.1788,16920 Evans Plaza,Omaha,NE,68116
+1803,Street DT,Free Standing,41.2347,-96.1909,17627 Gold Plaza,Omaha,NE,68130
+1805,Street Non-DT,End Cap,42.5662,-87.9282,9800 76 Th St.,Pleasant Prairie,WI,53158
+1808,Street DT,Free Standing,36.0613,-95.8671,9815 E. 71st St.,Tulsa,OK,74133
+1811,Mall,Food Court,33.9854,-118.3951,6000 Sepulveda Blvd,Culver City,CA,90230
+1813,Street Non-DT,End Cap,40.8141,-74.0135,2100 88th Street,North Bergen,NJ,7047
+1814,Street DT,Free Standing,36.5759,-119.626,2785 Floral Ave,Selma,CA,93662
+1815,Street Non-DT,End Cap,30.3168,-95.4748,1312 West Davis St,Conroe,TX,77304
+1816,Street Non-DT,End Cap,30.2191,-81.5547,9971 Baymeadows Rd,Jacksonville,FL,32256
+1818,Street DT,Free Standing,32.6063,-97.1172,1351 E. Debbie Lane,Mansfield,TX,76063
+1819,Mall,In Line,32.9299,-96.8198,13350 Dallas Parkway,Dallas,TX,75240
+1820,Street DT,End Cap,29.3758,-98.4578,4248 S New Braunfels Ave,San Antonio,TX,78223
+1821,Street Non-DT,End Cap,38.593,-90.5056,101 Highlands Blvd,Manchester,MO,63011
+1822,Street DT,Free Standing,36.1329,-95.9235,4728 East 21st Street,Tulsa,OK,74114
+1824,Street DT,Free Standing,43.4874,-111.9836,1151 S. 25th E.,Ammon,ID,83406
+1825,Street DT,Free Standing,34.6615,-120.458,1405 N. H Street,Lompoc,CA,93436
+1826,Street Non-DT,End Cap,45.5061,-122.9581,2275 Se Tualatin Valley Hwy,Hillsboro,OR,97123
+1827,Street DT,Free Standing,34.7218,-112.0015,2160 AZ-89A,Cottonwood,AZ,86326
+1828,Street DT,End Cap,31.5599,-110.2579,480 N. Highway 90 Bypass,Sierra Vista,AZ,85635
+1829,University,Food Court,33.6316,-117.8318,A232 Student Center,Irvine,CA,92697
+183,Mall,Food Court,38.4381,-122.7155,2107 Santa Rosa Plaza,Santa Rosa,CA,95401
+1830,Airport,Food Court,35.0483,-106.6164,2200 Sunport Blvd. Se,Albuquerque,NM,87106
+1833,Street Non-DT,End Cap,42.2262,-88.3019,5260 Us-14,Crystal Lake,IL,60014
+1835,Street DT,Free Standing,36.9743,-120.0791,1900 Cleveland Ave,Madera,CA,93637
+1836,Street Non-DT,End Cap,44.8342,-93.1537,"1270 Promenade Place, Suite 150",Eagan,MN,55120
+1837,Street DT,Free Standing,32.1854,-110.9686,3398 South 6th Avenue,Tucson,AZ,85713
+1838,Street Non-DT,End Cap,39.1449,-84.6214,6180 Glenway Avenue,Cincinnati,OH,45211
+1839,Street Non-DT,Free Standing,36.0653,-95.7752,1314 E. Hillside Dr,Broken Arrow,OK,74012
+1840,Street Non-DT,End Cap,40.5496,-74.4258,5030 Hadley Center Drive,South Plainfield,NJ,7080
+1841,Street Non-DT,End Cap,33.8186,-117.9417,"927 South Euclid St., A",Anaheim,CA,92802
+1846,Street DT,Free Standing,35.9795,-86.565,150 Movie Row,Smyrna,TN,37167
+1848,Street Non-DT,End Cap,36.8361,-119.9124,6733 N. Riverside Dr.,Fresno,CA,93722
+1849,Street DT,Free Standing,32.6484,-96.8668,39718 Lbj Fwy,Dallas,TX,75237
+1850,Street Non-DT,End Cap,40.0361,-85.9943,"17055 Mercantile, Unit 14",Noblesville,IN,46060
+1851,Street Non-DT,End Cap,29.6422,-98.455,21025 U.s. Hwy 281 N,San Antonio,TX,78258
+1852,Airport,Food Court,28.4276,-81.3142,9333 Orlando International Airport Tram,Orlando,FL,32827
+1854,Street DT,Free Standing,32.9561,-96.818,15204 Montfort Dr,Dallas,TX,75248
+1855,Street Non-DT,End Cap,37.3404,-121.9064,567 Coleman Ave.,San Jose,CA,95110
+1856,Street Non-DT,End Cap,33.9171,-117.9009,"101 W. Imperial Hwy, G",Brea,CA,92821
+1857,Street DT,Free Standing,41.2215,-95.8352,3805 Denmark Dr.,Council Bluffs,IA,51501
+1858,Street DT,Free Standing,45.4551,-122.5797,9425 Se 82nd Ave.,Happy Valley,OR,97086
+186,Street Non-DT,End Cap,21.2835,-157.7118,333 Keahole St. #2c1,Honolulu,HI,96825
+1860,Street Non-DT,End Cap,36.9621,-122.0444,2121 Mission Street,Santa Cruz,CA,95060
+1861,Street DT,Free Standing,38.3629,-121.968,1450 E. Monte Vista Ave,Vacaville,CA,95688
+1862,Street Non-DT,End Cap,34.9213,-120.433,236 E. Betteravia Rd,Santa Maria,CA,93454
+1864,Street Non-DT,End Cap,36.1061,-86.7635,2534 Powell Ave,Nashville,TN,37204
+1865,Street Non-DT,In Line,37.485,-122.2321,1023 El Camino Real.,Redwood City,CA,94063
+1866,Mall,Food Court,21.3854,-157.9416,98-1005 Moanalua Rd,Aiea,HI,96701
+1868,Street DT,Free Standing,41.1711,-96.0231,8760 S. 71st Plaza,Papillion,NE,68133
+1869,Street DT,Free Standing,41.1357,-85.162,6205 Lima Rd.,Fort Wayne,IN,46818
+187,Street Non-DT,End Cap,34.0276,-118.5005,804 Montana Ave.,Santa Monica,CA,90403
+1870,University,Food Court,29.646,-82.3477,655 Reitz Union Drive,Gainesville,FL,32611
+1871,Street DT,Free Standing,33.1291,-96.6512,340 E Stacy Rd,Allen,TX,75002
+1872,Street DT,Free Standing,30.4655,-97.598,18600 Limestone Commercial Dr,Pflugerville,TX,78660
+1873,Street DT,Free Standing,30.4495,-84.3053,1410 West Tennessee St,Tallahassee,FL,32304
+1874,Street DT,Free Standing,28.0549,-82.4325,2214 E. Fowler St,Tampa,FL,33612
+1875,Street Non-DT,End Cap,44.7325,-93.2223,7735 150th St.,Apple Valley,MN,55124
+1876,Casino,Food Court,33.7578,-97.132,777 Casino Ave.,Thackerville,OK,73459
+1877,Casino,Food Court,35.1811,-97.5005,1544 W State Highway 9,Norman,OK,73072
+1878,Mall,Food Court,41.8914,-87.625,520 N. Michigan Avenue.,Chicago,IL,60611
+1879,Street DT,Free Standing,30.5551,-97.6905,111 University Oaks Blvd,Round Rock,TX,78664
+1881,Street DT,Free Standing,46.5853,-120.5977,6560 West Nob Hill Boulevard,Yakima,WA,98908
+1882,Street DT,Free Standing,34.5257,-117.2188,20290 Us Highway 18.,Apple Valley,CA,92307
+1883,Street DT,Free Standing,31.7553,-106.2669,1820 Joe Battle Blvd,El Paso,TX,79936
+1884,Street DT,Free Standing,42.997,-88.0477,2611 S 108th St,West Allis,WI,53227
+1885,Street Non-DT,End Cap,40.5054,-88.9539,312-1 South Veterans Parkway,Normal,IL,61761
+1886,Street DT,Free Standing,32.3497,-110.9747,7848 N. Oracle Road,Oro Valley,AZ,85704
+1887,Street DT,Free Standing,46.0328,-118.3801,1721 Se Meadowbrook Blvd.,College Place,WA,99324
+1888,Street DT,Free Standing,39.9268,-86.0217,8255 E. 96th Street,Indianapolis,IN,46256
+1889,Military,In Line,33.2217,-117.3862,20845 Pacific Plaza,Camp Pendleton,CA,92055
+1890,University,Food Court,30.4126,-91.1771,Louisana State University,Baton Rouge,LA,70803
+1891,University,Food Court,34.0205,-118.2862,3607 Trousdale Pkwy,Los Angeles,CA,90089
+1892,Military,Food Court,32.6899,-117.1283,2260 Callagan Hwy,San Diego,CA,92136
+1893,Hospital,Food Court,34.0607,-118.2058,1969 Zonal Ave.,Los Angeles,CA,90006
+1894,University,Food Court,38.5635,-121.4282,6000 J Street,Sacramento,CA,95819
+1896,Mall,Food Court,34.0851,-117.2976,500 Inland Center Drive.,San Bernardino,CA,92408
+1897,Street Non-DT,End Cap,39.7813,-86.1705,645 Oscar Robertson Blvd,Indianapolis,IN,46202
+1898,Street Non-DT,End Cap,32.2513,-110.8402,7111 E. Tanque Verde,Tucson,AZ,85715
+190,Mall,In Line,38.9174,-77.2209,7941 L Tyson Comer Center,Mclean,VA,22102
+1900,Street DT,Free Standing,29.8507,-95.5054,5767 Hollister St,Houston,TX,77040
+1901,Street Non-DT,Free Standing,38.7791,-77.1886,7040 Old Keene Mill Rd,Springfield,VA,22150
+1902,Mall,Food Court,33.8639,-118.0955,129 Los Cerritos Center,Cerritos,CA,90703
+1903,University,Food Court,33.8791,-117.8835,800 N. State College Blvd,Fullerton,CA,92831
+1904,University,Food Court,38.5635,-121.4282,6000 J Street.,Sacramento,CA,95819
+1905,Street Non-DT,End Cap,34.2081,-118.5096,17276 Saticoy St.,Van Nuys,CA,91406
+1906,Street Non-DT,End Cap,42.1564,-71.202,106 Boston Providence Hwy,Walpole,MA,2081
+1907,Street DT,Free Standing,34.7606,-84.9987,1521 W. Walnut Ave,Dalton,GA,30720
+1908,Street DT,Free Standing,37.6787,-97.2009,11787 E. Kellogg Drive.,Wichita,KS,67207
+1909,Street Non-DT,End Cap,44.8938,-93.0802,1740 S Robert St #112,West Saint Paul,MN,55118
+191,Mall,Food Court,32.2891,-110.9742,4500 N Oracle Rd,Tucson,AZ,85705
+1910,Military,Food Court,36.9434,-76.3095,1560 Mall Drive,Norfolk,VA,23511
+1911,Street Non-DT,End Cap,47.5751,-122.1708,3938 Factoria Mall Se,Bellevue,WA,98006
+1912,Store in Store,In Line,18.432,-66.5513,Afuera Ward State Road,Barceloneta,PR,617
+1913,CBD,Food Court,39.9546,-75.1685,1701 John F Kennedy Blvd,Philadelphia,PA,19103
+1914,Street Non-DT,End Cap,44.8611,-93.3075,7823 Southtown Dr,Bloomington,MN,55431
+1915,Street Non-DT,End Cap,42.1043,-87.8128,2145 Willow Road,Glenview,IL,60025
+1916,Mall,Food Court,41.2294,-73.2265,5065 Main Street.,Trumbull,CT,6611
+1918,Street DT,Free Standing,41.072,-85.2017,1414 Apple Glen Blvd.,Fort Wayne,IN,46804
+1919,Street Non-DT,End Cap,35.8562,-86.4296,510 North Thompson Lane,Murfreesboro,TN,37129
+1920,Street Non-DT,End Cap,32.9535,-117.2304,3525 Del Mar Heights Rd.,San Diego,CA,92130
+1922,Street DT,Free Standing,30.0037,-90.1708,3850 Veterans Memorial Blvd.,Metairie,LA,70002
+1923,Street Non-DT,End Cap,37.5627,-122.2809,2011 Chess Dr.,Foster City,CA,94404
+1924,Street Non-DT,Free Standing,37.4253,-122.1468,2310 El Camino Real,Palo Alto,CA,94306
+1925,Street DT,Free Standing,32.7423,-96.4443,950 E. Us Highway 80,Forney,TX,75126
+1926,Street DT,Free Standing,18.3338,-65.658,"Carretera 3, Km 45.4 Cll Marginal",Fajardo,PR,738
+1927,Hospital,Food Court,29.6402,-82.3439,1600 Sw Archer Road,Gainesville,FL,32611
+1928,Street DT,Free Standing,33.4951,-112.0613,998 E Indian School Rd,Phoenix,AZ,85014
+1929,Street DT,Free Standing,41.6436,-93.5064,3640 8th St Sw,Altoona,IA,50009
+1930,Street DT,Free Standing,25.9696,-97.5148,4435 N. Expressway,Brownsville,TX,78520
+1931,Street DT,Free Standing,43.0192,-87.9679,1210 Miller Park Way,West Milwaukee,WI,53214
+1932,Street Non-DT,End Cap,45.4142,-122.6311,15009 Se Mcloughlin Blvd.,Milwaukie,OR,97267
+1933,Street DT,Free Standing,43.5968,-116.5146,1435 N Happy Valley Rd,Nampa,ID,83687
+1934,Street DT,Free Standing,35.2375,-97.4826,1540 24th Ave Nw,Norman,OK,73069
+1935,Mall,In Line,37.6957,-121.9292,One Stoneridge Mall Rd.,Pleasanton,CA,94588
+1936,Street Non-DT,End Cap,37.3831,-121.8945,1704 Oakland Rd,San Jose,CA,95131
+1937,Street Non-DT,In Line,37.416,-121.9546,4180 N. First St.,San Jose,CA,95134
+1938,Mall,Food Court,32.2192,-110.8656,5870 East Broadway Boulevard.,Tucson,AZ,85711
+1939,Mall,Food Court,30.2577,-97.8069,2901 S Capitol Of Texas Hwy,Austin,TX,78746
+194,Street Non-DT,Free Standing,34.1115,-118.1501,1216 Fair Oaks Avenue,South Pasadena,CA,91030
+1940,Mall,Food Court,32.8075,-96.6238,3030 Town East Mall,Mesquite,TX,75150
+1941,Street Non-DT,In Line,34.2735,-118.426,13520 W. Paxton Street,Pacoima,CA,91331
+1942,Street DT,End Cap,38.6703,-121.7265,2041 Bronze Star Dr.,Woodland,CA,95776
+1943,Street DT,Free Standing,30.1104,-97.355,728 Hwy 71 West,Bastrop,TX,78602
+1944,Mall,Food Court,40.6382,-111.8888,6191 S. State St.,Murray,UT,84107
+1946,Street DT,Free Standing,30.0127,-97.863,5261 Kyle Center Dr.,Kyle,TX,78640
+1947,Street Non-DT,End Cap,40.6634,-74.1069,207 Bayonne Crossing Way,Bayonne,NJ,7002
+1948,Mall,Food Court,38.2642,-122.0523,1350 Travis Blvd.,Fairfield,CA,94533
+1949,Street Non-DT,End Cap,32.9875,-117.076,12330 Carmel Mountain Road,San Diego,CA,92128
+1950,Street Non-DT,End Cap,47.1696,-122.17,19461 State Hwy 410 East,Bonney Lake,WA,98391
+1951,Mall,Food Court,33.0987,-96.811,2601 Preston Road,Frisco,TX,75034
+1952,Street Non-DT,Free Standing,33.8461,-84.255,4004 Lavista Road,Tucker,GA,30084
+1953,Mall,Food Court,18.3386,-66.0691,"Expresso Pr #52, Salida 4a",San Juan,PR,926
+1954,Street Non-DT,In Line,42.258,-71.1678,166 Providence Hwy,Dedham,MA,2026
+1955,Street DT,Free Standing,32.9421,-96.6994,507 S. Plano Rd.,Richardson,TX,75081
+1956,Street DT,Free Standing,31.747,-106.3186,1434 N Lee Trevino Dr,El Paso,TX,79936
+1957,Mall,Food Court,18.393,-65.9744,"Avenida Jesús M. Fragoso, Plaza Carolina",Carolina,PR,983
+1959,Mall,Food Court,41.2297,-96.1348,3001 S 144th St,Omaha,NE,68144
+1960,Mall,Food Court,34.2687,-119.2488,3301 E. Main St.,Ventura,CA,93003
+1961,Street Non-DT,End Cap,47.4458,-122.1536,14000 Se Petrovitsky Rd.,Renton,WA,98058
+1962,Street Non-DT,End Cap,45.092,-93.3811,7645 Jolly Ln,Brooklyn Park,MN,55444
+1963,Street Non-DT,End Cap,43.2306,-123.3708,1122 Nw Garden Valley Blvd.,Roseburg,OR,97471
+1964,Casino,In Line,36.1108,-115.1714,3663 Las Vegas Blvd S,Las Vegas,NV,89109
+1965,Street DT,Free Standing,37.7329,-97.4622,2760 N Maize Rd,Wichita,KS,67205
+1966,Street Non-DT,In Line,42.0227,-88.1439,2519 W. Schaumburg Rd.,Schaumburg,IL,60194
+1967,Street Non-DT,End Cap,32.7436,-116.9338,12098 Fury Lane,El Cajon,CA,92019
+1969,Mall,Food Court,36.8489,-76.288,300 Monticello Avenue,Norfolk,VA,23510
+197,Street Non-DT,Free Standing,34.849,-117.0825,2801 Lenwood Rd,Barstow,CA,92311
+1970,Street DT,Free Standing,32.68,-97.464,8656 Benbrook Blvd,Benbrook,TX,76126
+1971,Street Non-DT,End Cap,35.1899,-111.6617,"1111 S. Plaza Wy, #2",Flagstaff,AZ,86001
+1972,Street DT,Free Standing,30.2851,-89.7538,1638 Gause Blvd,Slidell,LA,70458
+1973,Street DT,Free Standing,48.4397,-122.3437,2293 Freeway Drive,Mount Vernon,WA,98273
+1974,Street DT,Free Standing,34.0335,-117.0743,33475 Yucaipa Blvd,Yucaipa,CA,92399
+1975,Street Non-DT,End Cap,41.926,-87.6731,1730 W. Fullerton Ave.,Chicago,IL,60614
+1976,Mall,In Line,41.6319,-93.7012,3850 Merle Hay Rd,Des Moines,IA,50310
+1977,Street Non-DT,End Cap,38.6671,-90.5894,98 Thf Blvd,Chesterfield,MO,63005
+1978,Street DT,End Cap,31.7032,-106.319,700 N. Zaragoza Rd,El Paso,TX,79907
+1979,Street DT,Free Standing,32.4343,-97.7742,1031 E Hwy 377,Granbury,TX,76048
+1980,Street DT,Free Standing,36.3696,-94.2212,319 S Walton Blvd,Bentonville,AR,72712
+1981,Street DT,Free Standing,36.2937,-95.8351,12403 E 96th St. North,Owasso,OK,74055
+1982,Mall,Food Court,33.9289,-116.8158,48400 Seminole Dr.,Cabazon,CA,92230
+1983,Street Non-DT,End Cap,42.0111,-87.7623,7160 Carpenter Rd.,Skokie,IL,60077
+1984,Street Non-DT,End Cap,41.9494,-88.0323,1070 N. Rohlwing Rd.,Addison,IL,60101
+1985,Street DT,Free Standing,26.1913,-98.2068,1401 E Jackson Ave,Mc Allen,TX,78503
+1986,Street DT,Free Standing,35.3176,-106.5752,540 Hwy 528,Bernalillo,NM,87004
+1987,Street Non-DT,End Cap,40.9859,-111.9059,350 N. Central Ave.,Farmington,UT,84025
+1988,Street DT,Free Standing,44.1042,-121.2989,63447 N Hwy 97,Bend,OR,97701
+1990,Mall,Food Court,44.881,-93.3251,2294 Southdale Center,Edina,MN,55435
+1991,Travel Plaza,Food Court,41.2465,-73.0101,2 Connecticut Turnpike West,Milford,CT,6460
+1992,Street DT,Free Standing,26.1812,-97.7184,2005 Lincoln Ave,Harlingen,TX,78552
+1993,Street DT,Free Standing,42.9101,-112.4668,4225 Yellowstone Ave.,Chubbuck,ID,83202
+1994,Street DT,Free Standing,39.3522,-84.3607,7939 Tylersville Road,West Chester,OH,45069
+1995,Street DT,Free Standing,28.0943,-81.9731,4163 North Us Hwy 98,Lakeland,FL,33809
+1996,Street DT,Free Standing,41.5622,-93.7969,6495 Mills Civic Parkway,West Des Moines,IA,50266
+1997,Street Non-DT,End Cap,38.4446,-90.3747,3880 State Route 141,Arnold,MO,63010
+1998,Street DT,Free Standing,35.0253,-106.7139,3506 Coors Blvd. Sw,Albuquerque,NM,87105
+2000,Street DT,Free Standing,36.3029,-86.6909,2155 Gallatin Pike N,Madison,TN,37115
+2001,Street Non-DT,Free Standing,38.9418,-76.9042,6600 Annapolis Rd,Hyattsville,MD,20784
+2004,Mall,In Line,38.8627,-77.3602,11941 Fair Oaks Mall,Fairfax,VA,22033
+2005,Street DT,Free Standing,34.7429,-86.6753,6125 University Dr NW,Huntsville,AL,35806
+2006,Street Non-DT,End Cap,37.6575,-121.8985,6774 Bernal Ave.,Pleasanton,CA,94588
+2007,Military,End Cap,32.676,-117.1605,3238 Guadalcanal Rd.,San Diego,CA,92155
+2009,University,Food Court,33.4548,-88.7901,198 Lee Blvd,Starkville,MS,39760
+2010,University,Food Court,32.6047,-85.4849,1310 Wilmore Drive.,Auburn,AL,36849
+2011,Street Non-DT,End Cap,42.5125,-92.4328,6209 University Ave,Cedar Falls,IA,50613
+2012,Street Non-DT,In Line,41.8752,-87.6273,515 South State St,Chicago,IL,60605
+2013,Street DT,Free Standing,33.4365,-112.5569,1100 S Watson Rd,Buckeye,AZ,85326
+2014,Street Non-DT,End Cap,48.152,-122.1756,4008 172nd St. Ne,Arlington,WA,98223
+2015,Street DT,Free Standing,47.2977,-122.241,1116 Supermall Way,Auburn,WA,98001
+2016,Street Non-DT,End Cap,33.2306,-97.1668,2700 West University,Denton,TX,76201
+2017,Street DT,Free Standing,32.4428,-93.7175,7013 Youree Dr,Shreveport,LA,71105
+2018,Street Non-DT,In Line,33.9443,-117.9949,15528-b Whittier Blvd.,Whittier,CA,90603
+2019,Street DT,Free Standing,41.1603,-104.7951,2044 Dell Range Boulevard,Cheyenne,WY,82009
+2020,Street DT,Free Standing,34.112,-117.8286,508 N Lone Hill Ave,San Dimas,CA,91773
+2021,Street DT,Free Standing,35.1749,-106.5744,8126 San Pedro Dr NE,Albuquerque,NM,87113
+2022,Street DT,Free Standing,29.8651,-81.3226,1934 US-1,St Augustine,FL,32086
+2023,Street DT,Free Standing,39.1373,-88.5652,1203 N Keller Drive,Effingham,IL,62401
+2024,University,In Line,38.8345,-77.3111,4400 University Dr,Fairfax,VA,22030
+2025,Street DT,Free Standing,32.7511,-97.4316,623 Alta Mere Dr,Fort Worth,TX,76114
+2026,Street DT,Free Standing,32.548,-94.7268,3082 N. Eastman Road,Longview,TX,75605
+2028,Mall,Food Court,33.6159,-117.8749,401 Newport Center Dr,Newport Beach,CA,92660
+2029,Street DT,Free Standing,30.481,-84.2363,2247 Capital Circle Ne,Tallahassee,FL,32308
+2030,Street Non-DT,End Cap,43.6325,-116.644,5210 Cleveland Blvd.,Caldwell,ID,83607
+2033,Street DT,Free Standing,35.1882,-101.8667,2416 South Georgia Street,Amarillo,TX,79109
+2034,Street Non-DT,In Line,18.4319,-66.0879,Pr2 Km. 2.2,Puerto Nuevo,PR,921
+2035,University,Food Court,37.4242,-122.1709,459 Lagunita Dr.,Stanford,CA,94305
+2036,Street Non-DT,End Cap,45.5537,-94.2078,"4011 W. Division St, Suite 2",Saint Cloud,MN,56301
+2037,Stadium,Food Court,37.3329,-121.901,525 W. Santa Clara St.,San Jose,CA,95113
+2038,Military,Food Court,34.6749,-77.3411,"Bldg 1231, Holcomb Blvd",Camp Lejeune,NC,28547
+2039,Military,Food Court,32.6978,-117.2044,"Building 2017, Nasni,",San Diego,CA,92135
+204,Mall,Food Court,38.5965,-89.9795,134 St Clair Square,Fairview Heights,IL,62208
+2041,Street DT,Free Standing,33.5192,-101.9553,6311 82nd St,Lubbock,TX,79424
+2042,Street Non-DT,End Cap,44.925,-92.9551,7455 Currell Blvd,Woodbury,MN,55125
+2043,Mall,In Line,42.2431,-87.9499,122 Hawthorn Center Dr.,Vernon Hills,IL,60061
+2044,Street Non-DT,End Cap,48.2327,-114.3281,150 Hutton Ranch Rd.,Kalispell,MT,59901
+2045,Casino,End Cap,36.1087,-115.1721,3717 Las Vegas Blvd. South,Las Vegas,NV,89109
+2046,Street Non-DT,End Cap,35.037,-85.1512,2260 Gunbarrel Road,Chattanooga,TN,37421
+2047,Street DT,Free Standing,47.6572,-117.3368,5016 East Sprague Avenue,Spokane Valley,WA,99212
+2048,Street DT,Free Standing,42.3614,-88.2665,2476 N. Richmond Road,Mchenry,IL,60050
+2049,Street Non-DT,End Cap,37.5198,-122.2755,1050 El Camino Real,Belmont,CA,94002
+205,Mall,Food Court,33.6421,-112.2252,7700 W Arrowhead Towne Ct,Glendale,AZ,85308
+2051,Street DT,Free Standing,43.193,-88.1295,N96w17698 County Line Rd.,Germantown,WI,53022
+2052,Street DT,Free Standing,41.644,-91.5539,1035 IA-1,Iowa City,IA,52246
+2053,Street Non-DT,In Line,37.9514,-121.9565,5458 Ygnacio Valley Road,Concord,CA,94521
+2054,Street Non-DT,End Cap,38.5942,-121.2853,10831 Olson Drive,Rancho Cordova,CA,95670
+2055,Street DT,Free Standing,31.367,-110.9383,402 W Mariposa Rd,Nogales,AZ,85621
+2056,Street DT,Free Standing,42.5911,-114.4806,1671 Washington St. North,Twin Falls,ID,83301
+2057,Mall,Food Court,36.204,-86.6949,455 Opry Mills Dr,Nashville,TN,37214
+2058,Street DT,Free Standing,41.7931,-88.1279,1123 E. Ogden Ave,Naperville,IL,60563
+2059,Street DT,Free Standing,18.3708,-66.0771,Carretera 1 Esquina Calle Francisco Sein,San Juan,PR,926
+2060,Street Non-DT,End Cap,34.0728,-117.3698,1605 S. Riverside Ave.,Rialto,CA,92376
+2061,Store in Store,In Line,18.4067,-66.1648,501 W Main Ave,Bayamon,PR,961
+2062,Street DT,Free Standing,29.9742,-95.6987,26230 Northwest Fwy,Cypress,TX,77429
+2063,Store in Store,In Line,18.1419,-65.8073,"Km 77.6, Pr-3",Humacao,PR,791
+2064,Store in Store,In Line,18.4678,-67.0225,3535 Military Avenue,Isabela,PR,662
+2066,Street DT,Free Standing,37.4151,-77.6417,13340 Rittenhouse Drive,Midlothian,VA,23112
+2067,Mall,Food Court,32.6802,-97.1291,3811 South Cooper Street,Arlington,TX,76015
+2068,Street DT,Free Standing,45.7844,-108.556,1551 Grand Ave.,Billings,MT,59101
+2069,Street DT,End Cap,33.9748,-117.5564,12530 Limonite Ave.,Mira Loma,CA,91752
+207,Street Non-DT,End Cap,34.6898,-118.1733,44411 Valley Central Way,Lancaster,CA,93536
+2071,Street Non-DT,End Cap,34.3435,-119.0802,545 W Harvard Blvd,Santa Paula,CA,93060
+2074,Street DT,Free Standing,30.4816,-87.2142,1270 Airport Blvd,Pensacola,FL,32504
+2078,Mall,Food Court,35.5247,-97.544,1901 Nw Expressway,Oklahoma City,OK,73118
+2079,Street DT,End Cap,38.3136,-88.9426,4201 Broadway St.,Mount Vernon,IL,62864
+2080,Street DT,End Cap,30.4186,-91.1413,3131 College Dr.,Baton Rouge,LA,70808
+2081,Street DT,Free Standing,36.7504,-108.159,3544 East Main,Farmington,NM,87402
+2082,Street Non-DT,In Line,38.0034,-122.5441,5800 Northgate Mall,San Rafael,CA,94903
+2084,Street Non-DT,End Cap,39.1816,-77.2656,19847 Century Blvd,Germantown,MD,20874
+2085,Street DT,Free Standing,32.0298,-102.1466,4505 N Midland Dr,Midland,TX,79707
+2086,Street DT,Free Standing,39.9853,-104.8205,891 South Kuner Rd,Brighton,CO,80601
+2087,Street DT,Free Standing,41.5512,-87.1762,6150 US-6,Portage,IN,46368
+2088,Street DT,Free Standing,33.2292,-97.595,700 US-81,Decatur,TX,76234
+2089,Street DT,Free Standing,35.141,-89.7963,585 N Germantown Pkwy,Memphis,TN,38018
+2090,Street DT,Free Standing,35.7419,-86.941,2004 Crossings Circle,Spring Hill,TN,37174
+2091,Street Non-DT,End Cap,32.6756,-117.0963,1115 Highland Ave.,National City,CA,91950
+2092,Street DT,Free Standing,32.7344,-96.6171,12203 Lake June Rd,Balch Springs,TX,75180
+2093,Street Non-DT,End Cap,34.078,-117.5578,9659 Milliken Ave.,Rancho Cucamonga,CA,91730
+2094,Street DT,End Cap,27.612,-99.4646,2603 North East Bob Bullock Loop,Laredo,TX,78045
+2095,Military,Food Court,38.9072,-77.0369,2024 Concessions Pentagon,Washington,DC,20310
+2097,University,Food Court,37.2008,-93.2813,Missouri State University,Springfield,MO,65807
+2098,Street Non-DT,Free Standing,45.4962,-122.4085,2402 Se Burnside Road,Gresham,OR,97080
+2099,Street Non-DT,End Cap,45.5333,-122.5374,1462 Ne 122nd Ave.,Portland,OR,97230
+2100,Street DT,Free Standing,35.159,-101.9207,4710 South Coulter Street,Amarillo,TX,79119
+2101,Mall,End Cap,42.2403,-83.751,620 Briarwood Circle,Ann Arbor,MI,48108
+2102,Street DT,Free Standing,38.5929,-89.9532,1504 W U.S. 50,O'Fallon,IL,62269
+2104,Street DT,Free Standing,43.785,-88.4788,859 W. Johnson St.,Fond Du Lac,WI,54937
+2105,Street DT,Free Standing,32.7325,-97.7928,1900 S Main St.,Weatherford,TX,76086
+2106,University,Food Court,40.765,-111.8462,200 S. Central Campus Dr.,Salt Lake City,UT,84112
+2107,Street DT,Free Standing,39.9845,-83.1503,1630 Hilliard Rome Rd,Columbus,OH,43228
+2108,University,Food Court,30.6122,-96.3411,275 Joe Routt Blvd,College Station,TX,77840
+2109,Mall,In Line,33.8496,-118.1404,500 Lakewood Center Mall,Lakewood,CA,90712
+2110,Street DT,End Cap,40.6901,-74.2996,2704 Us-22,Union,NJ,7083
+2111,Street DT,Free Standing,44.0738,-87.7036,4510 Calumet Ave.,Manitowoc,WI,54220
+2112,Mall,Food Court,38.5042,-90.3284,18 South County Centerway,Saint Louis,MO,63129
+2113,Street DT,Free Standing,38.0024,-84.5203,2433 Nicholasville Rd,Lexington,KY,40503
+2114,Street DT,Free Standing,33.4815,-111.9257,2931 N. Scottsdale Road,Scottsdale,AZ,85251
+2115,Street DT,Free Standing,29.5693,-98.3831,14072 Nacogdoches Rd,San Antonio,TX,78233
+2116,Street DT,Free Standing,39.9949,-85.9282,13305 Tegler Drive,Noblesville,IN,46060
+2117,Street DT,Free Standing,29.6232,-82.3771,3610 Sw Archer Road,Gainesville,FL,32608
+2118,Street DT,Free Standing,39.8265,-105.0536,7165 Sheridan Blvd,Westminster,CO,80003
+2119,Street DT,Free Standing,36.3802,-86.4637,707 Nashville Pike,Gallatin,TN,37066
+2120,Street DT,Free Standing,40.2048,-105.1018,2524 Main St,Longmont,CO,80504
+2121,Street DT,Free Standing,44.2443,-88.3514,N112 Stoneybrook Rd,Appleton,WI,54915
+2122,Street DT,Free Standing,27.6803,-97.3736,6153 Saratoga Blvd,Corpus Christi,TX,78414
+2123,Street DT,Free Standing,38.3263,-85.7651,1075 Veterans Parkway,Clarksville,IN,47129
+2125,Street Non-DT,End Cap,38.8047,-90.3085,2399 N Hwy 67,Florissant,MO,63031
+2126,Street Non-DT,End Cap,32.2579,-110.9432,2800 N. Campbell Ave.,Tucson,AZ,85719
+2128,Street Non-DT,End Cap,47.6937,-117.3656,3901 N. Market Street,Spokane,WA,99207
+2129,Mall,Food Court,47.7024,-117.4089,4750 North Division,Spokane,WA,99207
+2130,University,Food Court,41.3774,-83.6408,806 Ridge St,Bowling Green,OH,43403
+2131,University,Food Court,36.987,-86.4525,1509 Hilltop Dr,Bowling Green,KY,42101
+2132,University,Food Court,31.5469,-97.1211,1311 S 5th St,Waco,TX,76706
+2133,University,Food Court,44.3172,-96.7815,"1421 Student Union Lane, Box 2815b Usu Room 073",Brookings,SD,57006
+2134,Street DT,Free Standing,41.7038,-86.1875,4906 Grape Rd.,Mishawaka,IN,46544
+2135,Street Non-DT,End Cap,45.8278,-108.4702,1633 Main Street,Billings,MT,59105
+2136,Street Non-DT,End Cap,38.1045,-122.5721,975 Diablo Ave,Novato,CA,94947
+2137,Street Non-DT,End Cap,38.7811,-77.0777,"6307 Richmond Hwy, Suite G",Alexandria,VA,22306
+2138,Street DT,Free Standing,32.8761,-80.0182,4924 Centre Pointe Dr,North Charleston,SC,29418
+2139,Street Non-DT,End Cap,35.6663,-88.8593,1121 Vann Dr,Jackson,TN,38305
+214,Mall,Food Court,38.9878,-76.5446,182 Annapolis Mall,Annapolis,MD,21401
+2140,Street Non-DT,End Cap,38.6401,-121.4999,3571 N. Freeway Blvd.,Sacramento,CA,95834
+2141,Street DT,Free Standing,44.0811,-123.0419,3264 Gateway Street,Springfield,OR,97477
+2142,Street Non-DT,End Cap,33.8286,-117.8367,2318 N. Tustin St.,Orange,CA,92865
+2143,Street DT,Free Standing,37.0999,-121.0154,13046 Hwy 33,Gustine,CA,95322
+2145,Street DT,Free Standing,42.9488,-88.0086,5230 S 76th St,Greendale,WI,53129
+2146,Street DT,Free Standing,38.7396,-104.7341,6316 S Us Hwy 85-87,Fountain,CO,80817
+2147,Street DT,Free Standing,34.7484,-86.7733,8598 Hwy 72 West,Madison,AL,35758
+2148,Street DT,Free Standing,42.9789,-87.9482,3606 South 27th Street,Milwaukee,WI,53221
+2149,Street DT,Free Standing,36.0552,-94.1896,2109 W. Martin Luther King Blvd,Fayetteville,AR,72701
+2150,University,Food Court,21.3,-157.8165,2560 Mccarthy Mall,Honolulu,HI,96822
+2151,University,Food Court,36.8865,-76.3067,1200 Webb University Center,Norfolk,VA,23508
+2152,Street Non-DT,End Cap,39.0324,-95.7615,"1920 S. Wanamaker Road, Suite 160",Topeka,KS,66604
+2153,Street Non-DT,End Cap,42.4651,-92.3251,1503 E San Marnan Drive,Waterloo,IA,50702
+2154,Street Non-DT,End Cap,47.5475,-122.0402,6150 E. Lake Sammamish Parkway Se,Issaquah,WA,98029
+2155,Street Non-DT,End Cap,32.8611,-96.8588,9411 Webb Chapel Rd,Dallas,TX,75220
+2156,Street DT,Free Standing,36.1425,-97.0522,2080 North Perkins Rd.,Stillwater,OK,74075
+2157,Street Non-DT,End Cap,36.8366,-121.3896,1740 Airline Highway,Hollister,CA,95023
+2158,Street DT,Free Standing,41.1377,-112.0644,1649 North 2000 West,Clinton,UT,84015
+2159,Street DT,Free Standing,38.8156,-90.877,1985 Wentzville Pkwy,Wentzville,MO,63385
+216,Mall,Food Court,37.3208,-120.4848,710 Merced Mall,Merced,CA,95340
+2161,Street DT,Free Standing,42.7185,-87.845,5417 Washington Ave,Racine,WI,53406
+2162,Street DT,Free Standing,44.0252,-116.9399,1771 E. Idaho Ave.,Ontario,OR,97914
+2165,Military,Food Court,34.9227,-117.9082,203 West Popson Ave.,Edwards,CA,93524
+2166,CBD,Food Court,40.4574,-88.9567,3 State Farm Plaza South,Bloomington,IL,61791
+2167,University,Food Court,48.7378,-122.4868,"109 Eden's Hall, 516 High Street",Bellingham,WA,98225
+2168,Military,Food Court,36.8017,-76.0105,1449 Tomcat Blvd,Virginia Beach,VA,23460
+2169,Store in Store,In Line,18.4131,-66.2544,"Pr 2, Int. 165",Toa Baja,PR,949
+2170,Mall,Food Court,38.6033,-90.4465,188 West County Center,Des Peres,MO,63131
+2171,Street DT,Free Standing,36.3116,-94.1799,2004a South Promenade Blvd,Rogers,AR,72758
+2172,Street Non-DT,End Cap,34.1041,-118.3304,1803 N. Cahuenga Blvd.,Hollywood,CA,90028
+2173,Street DT,Free Standing,44.2612,-88.4603,3641 W. College Av,Appleton,WI,54914
+2174,Street Non-DT,Free Standing,44.5858,-123.257,1822 Nw 9th St.,Corvallis,OR,97330
+2175,Street Non-DT,End Cap,34.0935,-117.6696,140 South Mountain Ave,Upland,CA,91786
+2176,Street DT,Free Standing,29.8288,-95.3788,19 E. Crosstimbers St,Houston,TX,77022
+2177,Street Non-DT,Free Standing,21.2841,-157.8139,890 Kapahulu Avenue,Honolulu,HI,96816
+2178,Street DT,Free Standing,38.2272,-85.5783,1232 S. Hurstbourne Pkwy,Louisville,KY,40222
+2179,Store in Store,In Line,18.4471,-66.0764,701 Rh Todd Ave,San Juan,PR,907
+2181,Street DT,Free Standing,35.0459,-89.6798,540 W. Poplar Ave,Collierville,TN,38017
+2182,Street DT,Free Standing,35.0494,-89.8105,7579 Winchester Road,Memphis,TN,38125
+2183,Street DT,Free Standing,31.8977,-102.3353,4306 John Ben Shepperd Pkwy,Odessa,TX,79762
+2184,Street Non-DT,End Cap,21.3269,-158.0215,91-1061 Keaunui Drive,Ewa Beach,HI,96706
+2185,Military,Food Court,39.0021,-77.0904,"Building 82, 8901 Wisconsin Ave.",Bethesda,MD,20889
+2186,University,Food Court,28.064,-82.4139,"4103 Usf Cedar Cir, Marshall Student Center",Tampa,FL,33620
+2187,University,Food Court,43.6008,-116.1995,1910 University Dr.,Boise,ID,83725
+2189,Street DT,Free Standing,32.9237,-96.8813,13110 Josey Lane,Farmers Branch,TX,75234
+219,Street Non-DT,End Cap,34.2357,-118.5348,18427-d Nordhoff St,Northridge,CA,91325
+2190,Street Non-DT,In Line,40.8156,-96.7019,"1317 Q Street, Suite 140",Lincoln,NE,68508
+2191,Street DT,Free Standing,29.9133,-95.4833,12949 Tomball Pkwy,Houston,TX,77086
+2192,Street Non-DT,End Cap,37.464,-121.1427,1040 Sperry Ave.,Patterson,CA,95363
+2194,Street DT,Free Standing,32.4791,-99.6951,1749 Hwy 351,Abilene,TX,79601
+2195,Street DT,Free Standing,36.0513,-96.0054,7784 South Olympia Ave.,Tulsa,OK,74132
+2196,Street DT,Free Standing,29.6592,-82.4068,710 Nw 60th Street,Gainesville,FL,32607
+2197,Street Non-DT,End Cap,40.067,-85.652,4688 S. Scatterfield Rd.,Anderson,IN,46013
+2198,Theme Park,Free Standing,39.7502,-105.011,2000 Elitch Circle,Denver,CO,80204
+2199,Street DT,Free Standing,35.3914,-97.5101,116 E. I-240 Service Rd.,Oklahoma City,OK,73149
+2200,Street DT,Free Standing,18.3818,-65.964,"Pr #3, Km 9.6",Carolina,PR,979
+2201,Street Non-DT,End Cap,41.672,-86.8931,5246 Franklin St,Michigan City,IN,46360
+2203,Street DT,Free Standing,34.2008,-110.0183,5301 S. White Mountain Road,Show Low,AZ,85901
+2204,Street DT,Free Standing,33.5936,-101.87,313 University Ave.,Lubbock,TX,79415
+2205,Street DT,Free Standing,38.2325,-104.6628,2001 S. Pueblo Blvd.,Pueblo,CO,81005
+2206,Street Non-DT,End Cap,32.285,-106.7513,1400 University Ave.,Las Cruces,NM,88001
+2207,Mall,Food Court,39.2156,-76.8612,The Mall Of Columbia,Columbia,MD,21044
+2208,Street DT,Free Standing,26.1703,-97.9905,904 N. Texas Blvd.,Weslaco,TX,78596
+2210,Street Non-DT,End Cap,39.0112,-84.6469,6805 Houston Road,Florence,KY,41042
+2212,Street Non-DT,End Cap,37.6991,-122.4821,701 Westlake Mall,Daly City,CA,94015
+2213,Street Non-DT,End Cap,21.4522,-158.0056,95-1249 Meheula Parkway,Mililani,HI,96789
+2214,Street DT,Free Standing,39.4283,-87.4145,3340 South Hwy 41,Terre Haute,IN,47802
+2215,Street DT,Free Standing,40.2184,-85.4394,4605 West Clara Lane,Muncie,IN,47304
+2216,Street DT,Free Standing,29.3809,-98.6393,334 Valley Hi Drive,San Antonio,TX,78227
+2217,Street DT,Free Standing,44.1673,-93.9561,1810 Madison Ave,Mankato,MN,56001
+2218,Street Non-DT,End Cap,33.9526,-118.1838,4801 Firestone Blvd.,South Gate,CA,90280
+222,Mall,Food Court,41.8395,-88.0072,203 Yorktown,Lombard,IL,60148
+2222,Military,Food Court,36.2606,-119.9109,"796 Reeves Blvd., Building 295-b",Lemoore,CA,93246
+2225,Military,Food Court,30.3502,-87.269,250 Saufley Street #630,Pensacola,FL,32508
+2226,Mall,Food Court,48.786,-122.4907,One Bellis Fair Parkway,Bellingham,WA,98226
+2227,Mall,Food Court,39.0241,-77.146,7101 Democracy Blvd,Bethesda,MD,20817
+2228,Street DT,Free Standing,39.6142,-104.8148,5670 S Chambers Rd,Aurora,CO,80015
+2229,Street DT,Free Standing,33.8794,-98.5406,3164 Lawrence Rd,Wichita Falls,TX,76308
+2230,Street DT,Free Standing,33.4079,-111.9258,908 E. Broadway Ave.,Tempe,AZ,85282
+2231,University,Food Court,33.8625,-118.2545,1000 E. Victoria Avenue,Carson,CA,90747
+2232,Mall,End Cap,36.0682,-115.1786,6587 Las Vegas Blvd South,Las Vegas,NV,89119
+2233,Street DT,Free Standing,32.9361,-80.0393,7379 Rivers Ave,Charleston,SC,29406
+2234,Street DT,Free Standing,42.7224,-88.996,3377 Milton Ave.,Janesville,WI,53545
+2235,Street DT,Free Standing,41.2601,-96.0217,7052 Dodge St,Omaha,NE,68132
+2236,Street DT,Free Standing,45.0586,-93.3184,1520 Shingle Creek Crossing,Brooklyn Center,MN,55430
+2237,Street DT,Free Standing,38.6126,-76.9282,1100 Smallwood Dr West,Waldorf,MD,20603
+2238,Street DT,Free Standing,35.6135,-97.567,14040 N. May Ave.,Oklahoma City,OK,73134
+2239,Airport,Food Court,29.9884,-95.3386,3100 N. Terminal Road #24,Houston,TX,77032
+225,Mall,Food Court,33.6026,-111.9835,4550 E. Cactus Rd #cp-102,Phoenix,AZ,85032
+2250,Street Non-DT,End Cap,38.9242,-95.2599,3310 Iowa St,Lawrence,KS,66046
+2251,Street DT,Free Standing,40.6694,-89.5829,111 Spinder Drive,East Peoria,IL,61611
+2252,Airport,Food Court,33.9428,-118.4093,Tom Bradley Terminal West,Los Angeles,CA,90044
+2253,Street DT,Free Standing,40.9262,-98.3819,960 Allen Drive,Grand Island,NE,68803
+2254,Street Non-DT,End Cap,39.7642,-104.7727,3425 Salida Street,Aurora,CO,80011
+2255,Military,Food Court,34.1476,-119.1931,130 23rd Ave. Building 2,Port Hueneme,CA,93043
+2258,Street DT,Free Standing,29.6496,-95.1609,5230 Fairmont Parkway,Pasadena,TX,77505
+2259,Street DT,Free Standing,37.0443,-76.3903,2031 Coliseum Dr,Hampton,VA,23666
+226,Street Non-DT,End Cap,32.7656,-117.0253,8011 University Ave,La Mesa,CA,91941
+2260,Street DT,Free Standing,34.6297,-98.4922,1936 Nw 82nd Street,Lawton,OK,73505
+2261,Street DT,Free Standing,46.6161,-112.014,3075 N. Sanders St.,Helena,MT,59601
+2263,Street DT,Free Standing,36.7632,-76.2514,1220 N Battlefield Blvd,Chesapeake,VA,23320
+2264,University,Food Court,46.8922,-96.8014,1340 Administration Ave.,Fargo,ND,58102
+2265,Street DT,Free Standing,39.638,-105.0839,7850 W Quincy Ave,Littleton,CO,80123
+2266,Street DT,Free Standing,32.5324,-96.8187,102 E.ovilla Rd,Red Oak,TX,75154
+2267,Street Non-DT,In Line,37.7785,-121.9687,3141 Crow Canyon Pl.,San Ramon,CA,94583
+2268,Street DT,Free Standing,43.491,-112.0515,720 South Utah Ave.,Idaho Falls,ID,83402
+2269,Street DT,Free Standing,17.9983,-66.6405,3305 Baramaya Avenue,Ponce,PR,728
+227,Airport,Food Court,39.854,-104.6735,8900 Pena Blvd,Denver,CO,80249
+2270,Street DT,Free Standing,40.3886,-111.9171,1413 N. Redwood Rd.,Saratoga Springs,UT,84045
+2271,Street DT,Free Standing,36.01,-95.8859,10535 S. Memorial Dr,Tulsa,OK,74133
+2273,Street DT,Free Standing,38.0055,-121.8348,1953 Auto Center Dr,Antioch,CA,94509
+2274,Mall,Food Court,33.8324,-118.3476,3525 Carson Street,Torrance,CA,90503
+2275,Street DT,Free Standing,34.4248,-117.3726,13307 Main St.,Hesperia,CA,92345
+2276,Street DT,Free Standing,32.772,-115.5525,2380 S. 4th Street,El Centro,CA,92243
+2277,Street Non-DT,End Cap,37.3711,-121.8448,361 N. Capitol Ave,San Jose,CA,95132
+2278,Street DT,Free Standing,41.7234,-85.9735,2719 Cassopolis St,Elkhart,IN,46514
+2280,Street DT,Free Standing,41.3157,-96.0244,6228 N 72nd St,Omaha,NE,68134
+2281,Street DT,End Cap,31.8356,-106.5476,6900 N. Mesa St,El Paso,TX,79912
+2282,Street DT,Free Standing,37.0729,-94.4773,1531 S Rangeline Rd,Joplin,MO,64804
+2283,Street Non-DT,End Cap,30.5152,-86.4611,1352 E John Sims Pkwy,Niceville,FL,32578
+2285,Street Non-DT,End Cap,38.5526,-90.4076,10722 Sunset Hills Plaza,Saint Louis,MO,63127
+2286,Street DT,Free Standing,27.7266,-97.3817,4119 S. Staples,Corpus Christi,TX,78411
+2287,Street Non-DT,End Cap,33.6525,-117.6483,27670-b Santa Margarita Parkway,Mission Viejo,CA,92691
+2288,Street Non-DT,End Cap,39.3036,-84.316,9345 Mason Montgomery Rd,Mason,OH,45040
+2289,Street DT,Free Standing,41.2618,-85.84,1170 Lake City Hwy,Warsaw,IN,46582
+229,Mall,In Line,34.4186,-119.7002,605 Paseo Nuevo,Santa Barbara,CA,93101
+2290,Street DT,Free Standing,31.1202,-97.8657,208 Robert Griffin Iii Dr,Copperas Cove,TX,76522
+2291,Street Non-DT,End Cap,34.4687,-93.0695,1384 Higdon Ferry,Hot Springs National Park,AR,71913
+2292,Street DT,Free Standing,31.3021,-94.7278,2134 S 1st St,Lufkin,TX,75904
+2294,Street DT,Free Standing,44.0957,-93.2517,1115 Frontage Road West,Owatonna,MN,55060
+2295,Street DT,Free Standing,34.0222,-80.9561,5260 Forest Dr,Columbia,SC,29206
+2297,Street DT,End Cap,32.5417,-84.9504,5295 Whittlesey Blvd,Columbus,GA,31909
+2298,Street DT,Free Standing,43.4729,-83.9761,4505 Bay Road,Saginaw,MI,48601
+2299,Street DT,Free Standing,34.0346,-117.7579,751 Rio Rancho Rd.,Pomona,CA,91766
+2301,Airport,Food Court,33.4355,-112.0072,"3400 E. Sky Harbor Blvd., Terminal 4, Space N2-f36",Phoenix,AZ,85034
+231,Street Non-DT,End Cap,33.492,-117.697,32411 St Of The Golden Lantern,Laguna Niguel,CA,92677
+2312,Street Non-DT,End Cap,38.7421,-77.1631,6477 Old Beulah St,Alexandria,VA,22315
+2313,University,Food Court,40.0072,-105.2627,University Of Colorado,Boulder,CO,80309
+2315,Street DT,Free Standing,42.8277,-86.0933,3277 West Shore Drive,Holland,MI,49424
+2316,Street DT,Free Standing,37.1422,-93.2605,1905 E. Independence,Springfield,MO,65804
+2317,Street Non-DT,In Line,13.4701,144.7548,302 S. Route 4 O'brien Drive,Hagatna,GU,96910
+2318,Mall,End Cap,40.9279,-73.8564,3080 Mall Walk,Yonkers,NY,10704
+2319,Street DT,Free Standing,32.0857,-110.7735,9130 South Houghton Road,Tucson,AZ,85747
+2320,Mall,In Line,13.5204,144.8178,1088 W. Marine Corps Drive,Dededo,GU,96929
+2321,Street Non-DT,End Cap,37.695,-122.0513,3893 E. Castro Valley Blvd.,Castro Valley,CA,94552
+2322,Street Non-DT,End Cap,38.0665,-122.1647,804 Southampton Road,Benicia,CA,94510
+2323,Street DT,Free Standing,37.2151,-93.2612,720 N. Glenstone Avenue,Springfield,MO,65803
+2325,Street DT,Free Standing,36.1927,-86.2937,611 S Cumberland St,Lebanon,TN,37087
+2328,Street DT,Free Standing,35.898,-84.167,11480 Parkside Drive,Knoxville,TN,37934
+2329,Street DT,Free Standing,33.6591,-95.509,5280 S. E. Loop 286,Paris,TX,75460
+2330,Street DT,End Cap,43.5148,-96.7767,4203 W 41st St,Sioux Falls,SD,57106
+2331,Street DT,Free Standing,26.2,-98.2871,119 S. Shary Road,Mission,TX,78572
+2333,Street DT,Free Standing,34.1336,-116.386,58493 29 Palms Hwy,Yucca Valley,CA,92284
+2334,Street DT,Free Standing,30.6755,-88.1411,3811 Airport Blvd,Mobile,AL,36608
+2335,Street DT,Free Standing,32.6183,-83.6754,2743 Watson Blvd,Warner Robins,GA,31093
+2336,Street DT,Free Standing,29.9975,-95.4812,3420 Fm 1960 W Rd.,Houston,TX,77068
+2337,University,Food Court,33.1291,-117.1597,333 South Twin Oaks Valley Road,San Marcos,CA,92096
+2338,Street Non-DT,Free Standing,43.6129,-116.2031,601 W. Front St.,Boise,ID,83702
+2339,Street Non-DT,End Cap,38.8001,-121.2049,5410 Crossings Dr.,Rocklin,CA,95677
+2341,Street Non-DT,End Cap,40.1106,-88.2292,627 S Wright St.,Champaign,IL,61820
+2342,Street DT,Free Standing,31.7741,-106.3751,1178 Hawkins Blvd.,El Paso,TX,79925
+2343,Street DT,Free Standing,36.321,-86.598,208 Anderson Lane North,Hendersonville,TN,37075
+2345,University,Food Court,30.514,-90.4677,303 W Texas Ave,Hammond,LA,70402
+2346,Street DT,Free Standing,32.4604,-86.4142,1921 Cobbs Ford Road,Prattville,AL,36066
+2347,Street DT,Free Standing,33.1975,-87.5275,636 15th Street East,Tuscaloosa,AL,35401
+2348,Street Non-DT,End Cap,33.9876,-118.2568,5867 S. Central Avenue,Los Angeles,CA,90001
+2349,Street DT,Free Standing,29.0478,-95.4562,102 E Hwy 332,Lake Jackson,TX,77566
+2351,Street DT,Free Standing,29.1551,-82.1809,3435 Sw College Road,Ocala,FL,34474
+2352,Street DT,Free Standing,32.0697,-96.4479,2015 S. I-45,Corsicana,TX,75110
+2353,Street DT,Free Standing,33.1157,-95.5945,150 E Shannon Rd,Sulphur Springs,TX,75482
+2354,Street DT,Free Standing,30.4416,-86.6391,754 Beal Parkway,Fort Walton Beach,FL,32547
+2355,Street Non-DT,End Cap,37.2482,-121.8031,5720 Cottle Rd,San Jose,CA,95123
+2356,Street Non-DT,Free Standing,34.1226,-84.525,941 Ridgewalk Pkwy,Woodstock,GA,30188
+2362,Street Non-DT,End Cap,34.1511,-118.0682,3867 East Foothill Blvd.,Pasadena,CA,91107
+2363,Street Non-DT,End Cap,38.6266,-90.3346,1494 S Hanley,Richmond Heights,MO,63117
+2364,Mall,Food Court,40.7348,-73.8696,90-15 Queens Blvd,Elmhurst,NY,11373
+2365,Street Non-DT,End Cap,37.9738,-120.365,1031 Sanguinetti Rd.,Sonora,CA,95370
+2366,Street DT,Free Standing,30.5317,-87.2231,1779 E. Nine Mile Road,Pensacola,FL,32514
+2367,Street Non-DT,End Cap,37.3886,-121.9841,3139 Mission College Blvd,Santa Clara,CA,95054
+2368,Street DT,Free Standing,32.7129,-97.2828,2928 E. Berry St,Fort Worth,TX,76105
+2369,Street DT,Free Standing,38.5149,-90.3424,6304 S Lindbergh Blvd.,Green Park,MO,63123
+2370,Street DT,Free Standing,31.8817,-106.4197,9500 Dyer Street,El Paso,TX,79924
+2371,Mall,In Line,13.4898,144.7809,199 Chalan San Antonio,Tamuning,GU,96913
+2372,Street DT,End Cap,46.8551,-96.8612,1690 45th Street South,Fargo,ND,58103
+2373,Military,Food Court,38.9955,-76.4691,693 Kinkaid Road,Annapolis,MD,21402
+2374,Street Non-DT,End Cap,36.7347,-120.0451,14049 W. Whitesbridge Ave.,Kerman,CA,93630
+2378,Military,Food Court,32.8905,-117.1385,"Mcas Miramar Commissary Exchange, Bldg 2260, Space #c",San Diego,CA,92145
+2379,Mall,Food Court,38.774,-77.1737,6739 Springfield Mall,Springfield,VA,22150
+2380,Street DT,Free Standing,27.754,-98.0607,1205 E. Main Street,Alice,TX,78332
+2381,Mall,Food Court,36.8065,-119.7792,521 E. Shaw Avenue,Fresno,CA,93710
+2382,Street DT,Free Standing,29.8039,-94.982,5060 East Freeway,Baytown,TX,77521
+2383,Street DT,End Cap,38.4377,-121.4056,8180 Sheldon Road,Elk Grove,CA,95758
+2384,Street Non-DT,End Cap,37.3912,-122.0951,1035 El Monte Ave,Mountain View,CA,94040
+2385,Street Non-DT,End Cap,37.8307,-122.2803,1151 40th St,Emeryville,CA,94608
+2386,Street DT,Free Standing,45.7702,-122.5491,1102 S.w. Scotton Way,Battle Ground,WA,98604
+2387,Street DT,Free Standing,42.3094,-122.8538,1378 Center Drive,Medford,OR,97501
+2388,CBD,Food Court,38.8839,-77.024,429 L'enfant Plaza Sw,Washington,DC,20024
+2389,Street DT,Free Standing,30.2198,-85.8652,15485 Panama City Beach Parkway,Panama City Beach,FL,32413
+2390,Street Non-DT,In Line,21.3362,-157.8684,1620 N. School St,Honolulu,HI,96817
+2391,Street DT,Free Standing,39.9352,-91.3655,3136 Broadway St.,Quincy,IL,62301
+2392,Street DT,Free Standing,44.4961,-89.513,160 Crossroads Dr,Plover,WI,54467
+2393,Street DT,Free Standing,42.2818,-83.2064,3250 Fairlane Drive,Allen Park,MI,48101
+2394,Street DT,Free Standing,43.5439,-96.66,5509 E. Arrowhead Pkwy,Sioux Falls,SD,57110
+2395,Street DT,Free Standing,33.1964,-97.0929,1320 S Loop 288,Denton,TX,76205
+2396,Street DT,Free Standing,33.2158,-96.6266,1509 W. University Dr.,Mckinney,TX,75069
+2397,Street DT,Free Standing,36.6711,-93.226,850 Branson Hills Parkway,Branson,MO,65616
+2398,Street DT,Free Standing,32.9213,-96.9888,8411 Bent Branch Dr,Irving,TX,75063
+2399,Street DT,Free Standing,29.9354,-95.2512,9433 North Sam Houston Pkwy E,Humble,TX,77396
+2406,University,Food Court,35.9404,-83.9423,"University Of Tennessee, 1659 Cumberland Ave",Knoxville,TN,37916
+2408,Street DT,Free Standing,37.5004,-77.528,7200 Tim Price Way,Richmond,VA,23225
+2409,Street DT,Free Standing,33.2248,-86.8022,245 S. Colonial Drive,Alabaster,AL,35007
+2410,University,Food Court,42.358,-83.0709,5221 Gullen Mall,Detroit,MI,48202
+2411,University,Food Court,37.5504,-77.4515,900 W. Grace Street,Richmond,VA,23220
+2412,University,Food Court,40.5727,-105.0837,1101 Center Ave. Mall,Fort Collins,CO,80523
+2413,University,Food Court,34.6762,-82.8321,720 Mcmillan Road,Clemson,SC,29634
+2415,University,Food Court,25.7216,-80.2793,University Of Miami,Miami,FL,33124
+2416,University,Food Court,33.2145,-87.5456,751 Campus Drive,Tuscaloosa,AL,35401
+2417,Street Non-DT,End Cap,36.1466,-115.3346,"11010 Lavender Hill Drive, Suite #100",Las Vegas,NV,89135
+2418,Street Non-DT,End Cap,33.4876,-82.0813,255 Robert C Daniel Jr Pkwy,Augusta,GA,30909
+2419,Street DT,Free Standing,33.0175,-97.2185,1345 Hwy 377,Roanoke,TX,76262
+2422,Street Non-DT,End Cap,39.0148,-94.7271,12160 West Shawnee Mission Parkway,Shawnee,KS,66216
+2423,Street DT,Free Standing,37.639,-77.5145,9100 Staples Mill Rd,Henrico,VA,23228
+2425,Street DT,Free Standing,33.8733,-118.3059,1689 W Artesia Blvd.,Gardena,CA,90248
+2426,Street DT,Free Standing,33.3939,-111.8049,1210 E. Southern Ave.,Mesa,AZ,85204
+2427,Street Non-DT,End Cap,32.9006,-83.6884,120 Tom Hill Sr Blvd,Macon,GA,31210
+2428,Street Non-DT,End Cap,39.9147,-86.1384,1300 East 86th,Indianapolis,IN,46240
+2429,Street Non-DT,End Cap,42.6354,-83.1316,3105 S. Rochester Road,Rochester Hills,MI,48307
+243,Store in Store,Food Court,36.0413,-115.1028,2667 E. Windmill Pkwy,Henderson,NV,89014
+2430,Street Non-DT,End Cap,32.6601,-117.0314,4450 Bonita Rd,Bonita,CA,91902
+2431,Mall,End Cap,32.5435,-117.038,4463 Camino De La Plaza Suite 107,San Ysidro,CA,92173
+2432,Street DT,Free Standing,43.6243,-83.8936,4107 Wilder Road,Bay City,MI,48706
+2433,Street DT,Free Standing,38.9509,-92.2941,91 Conley Road,Columbia,MO,65201
+2435,Street Non-DT,In Line,21.4005,-158.0088,94-799 Lumiaina Street,Waipahu,HI,96797
+2436,Street Non-DT,End Cap,37.7869,-122.2807,2630 Fifth Street,Alameda,CA,94501
+2437,Street DT,Free Standing,42.8976,-87.9124,8041 Howell Ave,Oak Creek,WI,53154
+2439,Street DT,Free Standing,30.634,-96.3791,639 N Harvey Mitchell Pkwy,Bryan,TX,77803
+2441,Street DT,Free Standing,26.2688,-98.2214,1116 Trenton Rd.,Mcallen,TX,78504
+2442,Street DT,Free Standing,32.5497,-93.7089,2600 Airline Dr.,Bossier City,LA,71111
+2443,Street Non-DT,End Cap,37.5683,-97.2437,2006 N Rock Road,Derby,KS,67037
+2445,University,Food Court,44.9874,-93.2556,321 19th Ave S,Minneapolis,MN,55455
+2446,Street Non-DT,End Cap,40.6318,-74.3051,1255 Raritan Road,Clark,NJ,7066
+2447,Street DT,Free Standing,33.0763,-96.8669,5667 State Highway 121,The Colony,TX,75056
+2448,Street DT,Free Standing,32.7953,-96.6899,8950 East R L Thornton Fwy,Dallas,TX,75228
+2449,University,Food Court,27.7127,-97.3241,6300 Ocean Drive Unit 5763 Corpus Christi,Corpus Christi,TX,78412
+2454,University,Food Court,33.9796,-84.0018,Georgia Gwinnett College,Lawrenceville,GA,30043
+2455,University,Food Court,33.774,-84.3984,350 Ferst Drive Nw,Atlanta,GA,30332
+2456,Street Non-DT,Free Standing,41.9465,-87.7019,2949 W. Addison St.,Chicago,IL,60618
+2457,Street DT,Free Standing,32.3419,-97.4056,1304 West Henderson St,Cleburne,TX,76033
+2458,Mall,Food Court,36.1276,-115.1688,3200 S Las Vegas Blvd #3145,Las Vegas,NV,89109
+2459,Mall,In Line,39.0357,-77.0548,11160 Veirs Mill Rd,Wheaton,MD,20902
+246,Street Non-DT,End Cap,34.2213,-119.1597,2121 N. Rose Ave. Suite 480,Oxnard,CA,93030
+2460,Street Non-DT,End Cap,32.3396,-90.0704,163 Ridge Way Suite A,Flowood,MS,39232
+2462,Street DT,Free Standing,44.9172,-89.65,4400 Rib Mountain Dr.,Wausau,WI,54401
+2463,Street DT,Free Standing,31.6827,-106.2004,13910 Horizon Blvd. Bldg D,Horizon City,TX,79928
+2464,Street Non-DT,End Cap,26.2827,-80.2025,4190 N State Rd #7,Coral Springs,FL,33067
+2465,Street DT,Free Standing,34.0093,-85.986,500 East Meighan Blvd.,Gadsden,AL,35903
+2466,Street Non-DT,In Line,34.0558,-118.2702,1603 Wilshire Blvd.,Los Angeles,CA,90017
+2468,Street DT,Free Standing,30.1794,-82.6802,2916 West Us Hwy 90,Lake City,FL,32055
+2469,Street DT,Free Standing,31.3261,-85.8382,847 Boll Weevil Circle,Enterprise,AL,36330
+247,Street Non-DT,In Line,34.4042,-118.5507,25902 Mcbean Parkway #17,Santa Clarita,CA,91355
+2470,Street DT,Free Standing,29.1844,-81.0787,2310 W International Speedway Blvd,Daytona Beach,FL,32114
+2473,Mall,In Line,41.4763,-71.962,455 Trolley Line Blvd,Mashantucket,CT,6338
+2474,Street Non-DT,End Cap,42.884,-85.7421,3132 44th Street,Grandville,MI,49418
+2475,Mall,In Line,47.6179,-122.2016,119 Bellevue Way Ne,Bellevue,WA,98004
+2477,Street DT,Free Standing,33.4447,-88.8501,1004 Hwy 12 West,Starkville,MS,39759
+2478,Street DT,Free Standing,31.7088,-89.1486,1596 Mississippi Hwy 15 N,Laurel,MS,39440
+2479,Street DT,Free Standing,32.1355,-81.2459,100 Tanger Outlets Blvd,Pooler,GA,31322
+248,CBD,In Line,34.0514,-118.2516,350 S. Grand Ave Suite R-1a,Los Angeles,CA,90071
+2481,Street DT,Free Standing,35.3854,-96.9288,194 E. Shawnee Mall Dr,Shawnee,OK,74804
+2482,Street DT,Free Standing,28.6747,-81.3373,4260 S Us Hwy17-92,Casselberry,FL,32707
+2483,Street DT,Free Standing,41.5031,-87.8899,11255 Lincoln Highway,Mokena,IL,60448
+2485,Street DT,Free Standing,36.1385,-86.8806,6601 Charlotte Pike,Nashville,TN,37209
+2491,Airport,Food Court,32.7301,-117.1914,3225 North Harbor Drive,San Diego,CA,92101
+2492,Street DT,Free Standing,30.7151,-95.5676,247 I-45 South,Huntsville,TX,77340
+2493,Street DT,Free Standing,38.2141,-90.3881,612 S. Truman Blvd.,Festus,MO,63028
+2494,Street DT,End Cap,39.1897,-75.5401,1225 North Dupont Highway,Dover,DE,19901
+2495,Street DT,Free Standing,36.1815,-94.5137,2775 Hwy 412 E.,Siloam Springs,AR,72761
+2496,Street DT,Free Standing,36.0601,-87.3754,532 Highway 46 S,Dickson,TN,37055
+2497,Street DT,Free Standing,45.5205,-123.0456,2000 Baseline St.,Cornelius,OR,97113
+2498,Street DT,Free Standing,35.3538,-118.9494,4925 E Brundage Ln,Bakersfield,CA,93307
+2499,Street DT,Free Standing,40.1372,-74.9648,3570 Horizon Blvd,Trevose,PA,19053
+2500,Street DT,Free Standing,32.1339,-110.999,1606 W Valencia Rd,Tucson,AZ,85746
+2504,University,Food Court,32.9868,-96.7492,"Student Union Building, 800 W Campbell Road",Richardson,TX,75080
+2505,Hospital,Food Court,36.8441,-76.3047,620 John Paul Jones Circle,Portsmouth,VA,23708
+2506,Military,Food Court,32.9656,-79.9753,"140 Fletcher Street, Space #113",Goose Creek,SC,29445
+2507,Military,End Cap,33.3008,-117.3114,"Marine Mart, Building 15102",Camp Pendleton,CA,92055
+2508,Military,Food Court,42.3177,-87.8356,"2601 E. Paul Jones St, Building 400",Great Lakes,IL,60088
+2509,Street DT,Free Standing,36.1651,-95.7609,19353 Robson Rd,Catoosa,OK,74015
+2510,Street DT,End Cap,41.5968,-93.7526,1580 Valley West Drive,West Des Moines,IA,50266
+2511,Street DT,Free Standing,30.839,-83.3195,1082 N St. Augustine Rd,Valdosta,GA,31601
+2512,Street Non-DT,End Cap,37.9953,-122.1081,1041 Arnold Drive,Martinez,CA,94553
+2513,Street DT,Free Standing,37.9608,-121.272,1572 E. Fremont St.,Stockton,CA,95202
+2514,Street DT,Free Standing,28.8769,-96.9977,8709 N. Navarro,Victoria,TX,77904
+2515,Street DT,Free Standing,38.2428,-85.5074,13311 Shelbyville Rd. Lot 4,Louisville,KY,40223
+2516,Street DT,Free Standing,30.3486,-97.5418,11808 Ring Dr.,Manor,TX,78653
+2518,Street DT,Free Standing,41.9424,-91.7169,3510 Edgewood Rd SW,Cedar Rapids,IA,52404
+2521,Street Non-DT,End Cap,34.222,-118.3965,8315 Laurel Canyon Blvd,Sun Valley,CA,91352
+2522,Street Non-DT,End Cap,41.8855,-87.6265,"180 N. Wabash, Suite 184",Chicago,IL,60601
+2523,Street DT,Free Standing,36.8798,-76.4238,6208 College Dr,Suffolk,VA,23435
+2525,Street Non-DT,In Line,33.3725,-117.2553,1115 S Mission Road,Fallbrook,CA,92028
+2526,Street DT,End Cap,42.5157,-83.1839,30766 Woodward Ave,Royal Oak,MI,48073
+2527,Street Non-DT,End Cap,46.7326,-117.0281,1932 W. Pullman Road,Moscow,ID,83843
+2528,Street DT,Free Standing,35.8368,-83.5715,1526 Parkway,Sevierville,TN,37862
+2529,Street DT,Free Standing,33.4524,-104.5234,4506 N Main St.,Roswell,NM,88201
+2530,Street DT,Free Standing,42.2669,-84.4235,1520 North West Ave,Jackson,MI,49202
+2531,Street DT,Free Standing,42.342,-87.8958,960 S. Waukegan Rd.,Waukegan,IL,60085
+2532,Street DT,Free Standing,29.7282,-98.0765,109 Creekside Crossing,New Braunfels,TX,78130
+2533,Street DT,Free Standing,43.5931,-84.7668,1107 S. Mission St,Mount Pleasant,MI,48858
+2534,Street DT,Free Standing,40.8089,-77.9049,1870 North Atherton Street,State College,PA,16803
+2535,Street DT,Free Standing,34.3099,-88.7065,3940 N Gloster St,Tupelo,MS,38804
+2536,Street DT,Free Standing,40.3482,-79.9467,2070 Lebanon Church Rd,West Mifflin,PA,15122
+2537,Street DT,End Cap,42.4517,-96.3332,5745 Sunnybrook Dr.,Sioux City,IA,51106
+2538,Street DT,Free Standing,42.626,-82.9796,14812 Hall Road,Sterling Heights,MI,48313
+2539,Street DT,End Cap,27.5179,-99.4491,2324 Bob Bullock Loop,Laredo,TX,78043
+254,Mall,Food Court,32.6783,-97.3985,4800 South Hulen St #2110,Fort Worth,TX,76132
+2545,Street Non-DT,In Line,40.7658,-73.9578,1277 1st Ave,New York,NY,10021
+2547,Street Non-DT,End Cap,40.8631,-73.9014,1 West Fordham Road,Bronx,NY,10468
+2548,Street Non-DT,End Cap,34.0393,-118.1431,2086 S. Atlantic Blvd.,Monterey Park,CA,91754
+2549,Street Non-DT,End Cap,40.0316,-75.0997,4600 Roosevelt Boulevard,Philadelphia,PA,19124
+2550,Street DT,Free Standing,36.195,-94.1817,1087 N. 48th St.,Springdale,AR,72762
+2551,Street DT,End Cap,37.6503,-77.6066,11286 West Broad St,Glen Allen,VA,23060
+2552,Mall,Food Court,44.8562,-93.2419,370 Central Parkway,Bloomington,MN,55425
+2553,Street DT,Free Standing,31.3221,-89.384,6129 Us 98,Hattiesburg,MS,39402
+2554,Street DT,Free Standing,32.3618,-106.7452,3311 Rinconada Blvd,Las Cruces,NM,88011
+2555,Street DT,Free Standing,29.109,-81.0363,5441 S Williamson Blvd,Port Orange,FL,32128
+2556,Street DT,Free Standing,34.1376,-80.9561,443 Killian Rd,Columbia,SC,29203
+2557,Mall,Food Court,42.3681,-71.0762,100 Cambridgeside Place,Cambridge,MA,2141
+2558,Street DT,Free Standing,40.4123,-120.6391,106 Robs Way,Susanville,CA,96130
+2559,Street DT,Free Standing,28.5326,-81.7344,2591 Us Hwy 27,Clermont,FL,34711
+2560,Street DT,Free Standing,39.9928,-75.0976,3551 Aramingo Ave,Philadelphia,PA,19134
+2561,Street DT,End Cap,40.431,-111.8867,3601 North Digital Drive,Lehi,UT,84043
+2562,Street Non-DT,End Cap,21.9688,-159.3867,4454 Nuhou St. Suite 512,Lihue,HI,96766
+2564,Casino,Food Court,35.1177,-83.9945,777 Casino Parkway,Murphy,NC,28906
+2566,University,Food Court,39.7736,-86.1757,420 University Blvd.,Indianapolis,IN,46202
+2568,University,Food Court,42.9629,-85.8886,10670 S Campus Dr,Allendale,MI,49401
+2569,University,Food Court,29.8875,-97.9424,100 W. Woods Street,San Marcos,TX,78666
+2570,Military,Food Court,21.349,-157.9461,"810 Williamette St., Bldg. 1786 Space #42",Jbphh,HI,96860
+2573,University,Food Court,40.8627,-74.1977,"Montclair State Dining, 1 Normal Ave.",Montclair,NJ,7043
+2574,University,Food Court,42.6744,-83.2168,312 Meadow Brook Rd Suite#146,Rochester,MI,48309
+2575,University,Food Court,44.0448,-123.0738,University Of Oregon,Eugene,OR,97403
+2576,Street Non-DT,End Cap,45.0943,-93.4423,12725 Elm Creek Blvd N,Maple Grove,MN,55369
+2577,Street DT,Free Standing,30.1385,-81.5469,12697 Bartram Park Blvd.,Jacksonville,FL,32258
+2578,Street Non-DT,In Line,38.9803,-76.9388,7316 Baltimore Ave,College Park,MD,20740
+2579,Street DT,Free Standing,61.23,-149.7423,1178 N Muldoon Rd,Anchorage,AK,99504
+2580,Street DT,Free Standing,44.9617,-92.7264,2200 Badger Dr.,Hudson,WI,54016
+2581,Street DT,Free Standing,43.4046,-88.1817,1200 S. Main St,West Bend,WI,53095
+2582,Street DT,End Cap,39.4464,-77.9876,927 Foxcroft Ave,Martinsburg,WV,25401
+2583,Street Non-DT,End Cap,37.7114,-120.9581,"2207 Claribel Rd., Suite E",Riverbank,CA,95367
+2584,Street DT,Free Standing,37.163,-80.4279,250 Peppers Ferry Rd. Nw,Christiansburg,VA,24073
+2585,Street DT,Free Standing,32.2739,-95.3061,6910 S Broadway Ave.,Tyler,TX,75703
+2586,Street DT,Free Standing,61.5787,-149.4121,1491 E Parks Hwy,Wasilla,AK,99654
+2587,Street DT,Free Standing,32.6965,-115.4984,2530 Rockwood Ave,Calexico,CA,92231
+2588,Street DT,Free Standing,40.8602,-81.4325,5448 Dressler Rd,North Canton,OH,44720
+2589,Street DT,Free Standing,28.0356,-80.6661,185 Palm Bay Road Ne,Melbourne,FL,32904
+259,University,Food Court,44.5648,-123.2794,2501 Sw Jefferson Way,Corvallis,OR,97331
+2590,University,Food Court,35.3053,-80.7331,Cone University Center,Charlotte,NC,28223
+2591,Street DT,Free Standing,36.5502,-82.4938,2632 East Stone Drive,Kingsport,TN,37660
+2592,University,Food Court,33.5095,-112.13,Grand Canyon University,Phoenix,AZ,85017
+2593,Street Non-DT,End Cap,37.3454,-79.1888,4010 Wards Rd,Lynchburg,VA,24502
+2594,Street DT,Free Standing,35.5309,-108.759,508 N. U.s. Highway 491,Gallup,NM,87301
+2595,Street Non-DT,End Cap,40.7562,-73.9701,835 Third Ave,New York,NY,10022
+2596,Street Non-DT,End Cap,34.0495,-118.3758,1544 S La Cienega Blvd,Los Angeles,CA,90035
+2597,Street DT,Free Standing,39.4597,-76.3167,403 Constant Friendship Blvd,Abingdon,MD,21009
+2598,Street DT,Free Standing,32.8547,-96.6449,1360 W Centerville Rd.,Garland,TX,75041
+2599,Street DT,Free Standing,38.7707,-90.7849,6200 Ronald Reagan Dr,Lake Saint Louis,MO,63367
+260,University,Food Court,34.4116,-119.8478,University Center Bldg 558,Santa Barbara,CA,93106
+2600,Street DT,Free Standing,40.7229,-99.0848,4910 Third Ave,Kearney,NE,68847
+2601,Street DT,Free Standing,26.01,-80.2075,5860 Hollywood Blvd,Hollywood,FL,33021
+2602,Street Non-DT,End Cap,45.6802,-111.0632,1919 W. Main,Bozeman,MT,59715
+2604,Street DT,End Cap,38.0727,-97.899,1528 E. 17th Ave,Hutchinson,KS,67501
+2605,Street Non-DT,End Cap,47.6297,-122.141,2192 148th Ave,Redmond,WA,98052
+2606,Street DT,Free Standing,38.746,-90.6354,6081 Mid Rivers Mall Dr,Cottleville,MO,63304
+2608,Street DT,End Cap,42.5407,-83.7859,8589 West Grand River Ave,Brighton,MI,48116
+2609,Street DT,Free Standing,26.2574,-98.3162,220 East 3 Mile Rd,Palmhurst,TX,78573
+2610,Street DT,Free Standing,31.9245,-106.4397,10820 Martin Luther King Jr Blvd,El Paso,TX,79934
+2611,Street DT,Free Standing,29.5684,-95.388,15758 South Freeway,Pearland,TX,77584
+2613,Street Non-DT,In Line,40.75,-73.9947,414 Eighth Avenue,New York,NY,10001
+2614,Street Non-DT,End Cap,40.692,-73.9881,423 Fulton Street,Brooklyn,NY,11201
+2617,Street DT,Free Standing,41.5025,-81.5367,2100 Warrensville Center Rd.,South Euclid,OH,44121
+2618,Street DT,Free Standing,39.6607,-84.1067,5381 Cornerstone North Blvd,Dayton,OH,45440
+2619,Street DT,End Cap,43.6488,-116.4336,4865 N. Ten Mile Rd,Meridian,ID,83646
+2620,Street Non-DT,End Cap,33.7272,-116.4023,"72-363 Highway 111, Suite C,",Palm Desert,CA,92260
+2621,Street DT,Free Standing,34.0216,-84.1216,2240 Peachtree Industrial Blvd,Duluth,GA,30097
+2622,Street Non-DT,End Cap,40.761,-73.9911,663 Ninth Avenue,New York,NY,10036
+2623,Street Non-DT,End Cap,34.0462,-118.434,2011 Westwood Blvd,Los Angeles,CA,90025
+2624,Street Non-DT,In Line,21.3905,-157.7397,200 Hamakua Dr,Kailua,HI,96734
+2625,Street DT,Free Standing,38.0152,-84.4604,2399 Richmond Road,Lexington,KY,40502
+2626,Street DT,Free Standing,30.1558,-92.0475,4531 Ambassador Caffery Pkwy,Lafayette,LA,70508
+2627,Street DT,Free Standing,34.4715,-84.9211,755 Ga Highway 53,Calhoun,GA,30701
+2628,Street DT,Free Standing,33.6084,-85.7866,20 Commons Way,Oxford,AL,36203
+2629,Street DT,Free Standing,36.5904,-82.2643,251 Pinnacle Pkwy,Bristol,TN,37620
+2630,Street DT,Free Standing,28.1916,-82.3824,2468 Sun Vista Drive,Lutz,FL,33559
+2631,Street DT,Free Standing,33.3775,-86.803,3780 Lorna Rd,Hoover,AL,35244
+2632,Street Non-DT,End Cap,38.5579,-121.4355,5801 Folsom Blvd,Sacramento,CA,95819
+2633,Street Non-DT,End Cap,38.9395,-121.0971,2775 Grass Valley Hwy,Auburn,CA,95603
+2634,Street DT,Free Standing,39.6311,-75.6616,1120 Pulaski Highway,Bear,DE,19701
+2635,Street DT,End Cap,42.5618,-113.7916,200 E 5th St,Burley,ID,83318
+2636,Street Non-DT,End Cap,37.5956,-122.5038,500 Linda Mar Blvd,Pacifica,CA,94044
+2637,Street DT,End Cap,21.3492,-158.065,91-0710 Farrington Highway,Kapolei,HI,96707
+2638,Street DT,Free Standing,33.9236,-116.8095,49204 Seminole Drive,Cabazon,CA,92230
+2641,Military,End Cap,38.8824,-77.0807,"931 Pershing Drive, Building 441",Ft Myer,VA,22211
+2642,Airport,Food Court,29.9855,-95.3498,2800 Terminal Road Terminal A North,Houston,TX,77032
+2643,University,Food Court,41.0756,-81.5124,303 Carroll Street,Akron,OH,44325
+2644,University,Food Court,37.3126,-89.531,One University Plaza Ms1700,Cape Girardeau,MO,63701
+2645,University,Food Court,35.6087,-77.3647,501 East 10th Street,Greenville,NC,27858
+2646,Street DT,Free Standing,30.1212,-94.1658,4135 Dowlen N Rd,Beaumont,TX,77706
+2647,Street DT,Free Standing,39.4981,-121.5707,"460 Oro Dam Blvd., Lot 1",Oroville,CA,95965
+2648,Street Non-DT,Free Standing,34.0348,-118.2157,741 S Soto,Los Angeles,CA,90023
+2649,Street DT,Free Standing,30.5324,-97.79,2725 E. Whitestone Blvd.,Cedar Park,TX,78613
+2651,Street DT,Free Standing,30.3826,-87.6834,2230 S. Mckenzie St,Foley,AL,36535
+2652,Street DT,Free Standing,32.9077,-96.5726,3209 Lakeview Parkway,Rowlett,TX,75088
+2653,Street DT,End Cap,39.4452,-75.7348,663 Middletown-warwick Road,Middletown,DE,19709
+2654,Street Non-DT,End Cap,44.8838,-93.2498,1638 66th St E,Richfield,MN,55423
+2655,Street DT,Free Standing,33.8049,-117.226,1840 N. Perris Blvd.,Perris,CA,92571
+2656,Street DT,Free Standing,32.8383,-96.9861,3133 W. Airport Freeway,Irving,TX,75062
+2657,Street DT,Free Standing,31.239,-81.4921,10305 Canal Crossing,Brunswick,GA,31525
+2658,Street DT,Free Standing,38.2954,-85.5554,10600 Westport Road,Louisville,KY,40241
+2659,Street DT,Free Standing,33.655,-112.031,2388 E Union Hills Dr,Phoenix,AZ,85024
+2660,University,Food Court,39.1836,-96.5717,"918 N. 17th Street #143, Student Union",Manhattan,KS,66506
+2661,Street DT,Free Standing,41.4687,-82.0195,1401 Center Rd,Avon,OH,44011
+2662,Street DT,Free Standing,46.9045,-114.0378,3918 N. Reserve,Missoula,MT,59803
+2663,Street DT,Free Standing,27.2633,-80.4316,11071 Sw Village Pkwy,Port Saint Lucie,FL,34987
+2664,Street DT,Free Standing,37.7281,-89.1998,1039 E. Main St.,Carbondale,IL,62901
+2665,Street DT,Free Standing,41.6764,-81.3114,9184 Mentor Ave,Mentor,OH,44060
+2666,Street DT,Free Standing,42.3822,-83.3336,13701 Middlebelt Road,Livonia,MI,48150
+2667,Street DT,End Cap,42.4371,-123.3029,211 Ne Terry Lane,Grants Pass,OR,97526
+2668,Street DT,Free Standing,40.6825,-80.1008,20111 Route 19,Cranberry Township,PA,16066
+2669,Street DT,Free Standing,28.347,-81.6069,7945 W Irlo Bronson Memorial Hwy,Kissimmee,FL,34747
+2670,Street DT,Free Standing,42.0273,-91.6307,229 Collins Rd Ne,Cedar Rapids,IA,52402
+2671,Street DT,Free Standing,40.4982,-111.4136,785 S. Main St.,Heber City,UT,84032
+2672,Street Non-DT,End Cap,40.7115,-73.8593,90-04 Metropolitan Ave,Forest Hills,NY,11375
+2673,Street DT,Free Standing,30.1895,-85.65,524 E 23rd St,Panama City,FL,32405
+2676,University,Food Court,30.2877,-97.7416,24th Street And Guadalupe,Austin,TX,78712
+2678,Street Non-DT,In Line,33.8747,-117.8902,501 N State College Blvd,Fullerton,CA,92831
+2679,Street Non-DT,In Line,40.6321,-73.9479,2166 Nostrand Avenue,Brooklyn,NY,11210
+268,Mall,Food Court,20.8872,-156.475,275 Kaahumanu Ave,Kahului,HI,96732
+2680,Street DT,End Cap,37.2322,-80.4317,900 Prices Fork Rd.,Blacksburg,VA,24060
+2681,Street Non-DT,End Cap,42.1415,-83.2243,19200 West Rd,Woodhaven,MI,48183
+2682,Street DT,Free Standing,33.0992,-96.1054,6809 Hwy 30,Greenville,TX,75402
+2683,Street Non-DT,End Cap,34.6115,-120.1883,211 E. Highway 246,Buellton,CA,93427
+2684,Street Non-DT,In Line,37.2927,-121.9304,"1700 S Bascom Ave,",Campbell,CA,95008
+2685,Street DT,Free Standing,41.7747,-87.7418,6501 S. Cicero Ave,Chicago,IL,60638
+2686,Street DT,Free Standing,32.0052,-81.1125,318 Mall Boulevard,Savannah,GA,31406
+2689,Street DT,Free Standing,29.3927,-100.9063,2400 Veterans Blvd. Suite 30,Del Rio,TX,78840
+2690,Street DT,Free Standing,33.9904,-117.933,17184 Colima Rd.,Hacienda Heights,CA,91745
+2691,Street DT,Free Standing,33.4244,-84.1851,1400 Georgia Hwy 20,Mcdonough,GA,30253
+2692,Street DT,Free Standing,41.0284,-80.6362,935 Windham Ct,Youngstown,OH,44512
+2693,Street Non-DT,End Cap,41.8449,-87.7003,3000 W. 26th Street,Chicago,IL,60623
+2694,Street DT,Free Standing,41.3782,-81.7347,6895 Ridge Road,Parma,OH,44129
+2696,Military,Free Standing,27.695,-97.2744,"Naval Air Station, Building 335",Corpus Christi,TX,78418
+2697,Military,Food Court,38.8745,-77.0012,1244 Patterson Ave. Bldg 22,Washington Navy Yard,DC,20374
+2698,Street Non-DT,End Cap,33.7889,-117.9624,9755 Chapman Ave,Garden Grove,CA,92843
+2699,Street DT,Free Standing,35.822,-84.2703,185 Market Drive,Lenoir City,TN,37771
+2700,Street DT,Free Standing,41.6121,-83.7008,6629 Airport Hwy,Holland,OH,43528
+2701,Street DT,Free Standing,37.1147,-76.4689,5009 Victory Blvd,Yorktown,VA,23693
+2702,Street DT,Free Standing,32.2027,-98.244,2861 W Washington St,Stephenville,TX,76401
+2703,Street Non-DT,End Cap,34.3083,-118.431,13681 Foothill Blvd #c,Sylmar,CA,91342
+2704,Street Non-DT,End Cap,37.9787,-122.0583,1100 Concord Avenue,Concord,CA,94520
+2705,Street DT,Free Standing,41.4562,-91.0228,3014 Highway 61 North,Muscatine,IA,52761
+2706,Street DT,Free Standing,32.7188,-96.3222,1390 Fm 148,Terrell,TX,75160
+2707,Street DT,Free Standing,36.7554,-90.4082,337 South Westwood Blvd.,Poplar Bluff,MO,63901
+2708,Street DT,Free Standing,32.4062,-81.7699,101 Brampton Ave,Statesboro,GA,30458
+2709,Mall,Food Court,21.3354,-158.0569,Ka Makana Ali'i Mall,Kapolei,HI,96707
+2710,Street DT,Free Standing,41.7092,-93.5811,2155 Se Delaware Avenue,Ankeny,IA,50021
+2711,Street DT,Free Standing,32.3072,-95.2711,3904 Troup Hwy,Tyler,TX,75703
+2712,Street DT,Free Standing,41.9382,-88.091,181 West Army Trail Road,Glendale Heights,IL,60139
+2713,Street DT,Free Standing,41.4389,-97.3263,120 E 23rd St.,Columbus,NE,68601
+2714,Street Non-DT,End Cap,35.1025,-89.8632,"5955 Us Hwy 72, Suite 102",Memphis,TN,38119
+2715,Street DT,Free Standing,29.5356,-95.523,9717 Highway 6,Missouri City,TX,77459
+2716,Street DT,Free Standing,36.0086,-84.2645,375 S Illinois Ave,Oak Ridge,TN,37830
+2717,Street DT,End Cap,61.1948,-149.9179,1818 W. Northern Lights Blvd,Anchorage,AK,99517
+2718,Street DT,Free Standing,42.0176,-93.6096,436 South Duff Avenue,Ames,IA,50010
+2720,Airport,In Line,27.9801,-82.5381,4200 George J. Bean Parkway,Tampa,FL,33607
+2721,University,Food Court,38.036,-84.5028,"University Of Kentucky Student Center, 160 Avenue Of Champions",Lexington,KY,40506
+2722,University,Food Court,34.365,-89.5375,"University Of Mississippi, 1 Student Union Drive",University,MS,38677
+2723,Street DT,Free Standing,39.3677,-76.4511,5351 Campbell Blvd,Rosedale,MD,21237
+2725,Street Non-DT,End Cap,42.7339,-84.4788,439 E Grand River Ave.,East Lansing,MI,48823
+2726,Street DT,Free Standing,33.9986,-84.5874,1380 Ernest Barrett Pkwy,Kennesaw,GA,30144
+2727,Street DT,Free Standing,33.1784,-111.5822,1680 W. Hunt Hwy,San Tan Valley,AZ,85143
+2728,Street Non-DT,End Cap,37.2589,-121.877,5150 Cherry Ave.,San Jose,CA,95118
+2729,Street DT,Free Standing,30.0727,-95.2452,25631 U.s. Hwy 59,Kingwood,TX,77339
+2730,Street DT,Free Standing,33.6098,-112.4201,16760 W Waddell Rd,Surprise,AZ,85388
+2731,Street DT,Free Standing,41.4508,-96.4583,3030 East Elk Lane,Fremont,NE,68025
+2732,Street Non-DT,End Cap,33.7606,-117.8904,1601 W 17th St,Santa Ana,CA,92706
+2733,Street DT,Free Standing,33.4893,-101.9049,11411 Quaker Ave,Lubbock,TX,79423
+2734,Street DT,Free Standing,43.8553,-111.7774,"1490 N 2nd E,",Rexburg,ID,83440
+2735,Street DT,Free Standing,42.7076,-83.2815,900 Brown Rd.,Auburn Hills,MI,48326
+2736,Street DT,Free Standing,46.1476,-123.9155,1550 Se Discovery Lane,Warrenton,OR,97146
+2740,University,Food Court,35.9607,-83.921,1502 Cumberland Ave,Knoxville,TN,37996
+2741,University,Food Court,33.9572,-83.3741,"Tate Student Center, 3rd Floor Room 362c, 45 Baxter Street",Athens,GA,30602
+2743,University,Food Court,35.2485,-91.729,915 E Market,Searcy,AR,72143
+2745,University,Food Court,43.5136,-83.9612,7400 Bay Road,University Center,MI,48710
+2746,University,Food Court,39.3937,-76.6182,8000 York Rd,Towson,MD,21252
+2748,Military,Food Court,38.543,-89.8526,207 W Winters St,Scott Air Force Base,IL,62225
+2749,Military,Food Court,31.0443,-93.2182,7742 Colorado Ave,Fort Polk,LA,71459
+275,Street Non-DT,End Cap,34.1515,-118.4507,14561 Ventura Bl.,Sherman Oaks,CA,91403
+2750,University,Food Court,37.2992,-78.3979,201 High Street,Farmville,VA,23909
+2751,University,Food Court,32.8397,-83.6276,Student Center,Macon,GA,31207
+2752,University,Food Court,38.2174,-85.7561,2100 South Floyd St.,Louisville,KY,40292
+2753,University,Food Court,41.8712,-87.648,750 South Halsted Street,Chicago,IL,60607
+2754,Airport,In Line,33.943,-118.3974,"Terminal 8, 1 World Way",Los Angeles,CA,90045
+2755,Mall,Food Court,34.0867,-117.6951,5060 E. Montclair Plaza,Montclair,CA,91763
+2756,Street Non-DT,End Cap,44.9,-123.0394,3883 Commercial St Se,Salem,OR,97302
+2757,Street Non-DT,End Cap,47.8016,-122.3304,21940 Pacific Hwy 99,Edmonds,WA,98026
+2758,Street DT,Free Standing,33.5083,-112.3577,13880 W Camelback Rd,Litchfield Park,AZ,85340
+2759,Street Non-DT,In Line,34.171,-118.57,20041 Ventura Blvd.,Woodland Hills,CA,91364
+2760,Street DT,Free Standing,31.783,-85.9554,1139 Us Hwy 231 S,Troy,AL,36081
+2761,Street DT,Free Standing,34.2065,-86.8659,5505 Al Hwy 157 Nw,Cullman,AL,35058
+2762,Street DT,End Cap,30.1308,-95.2355,11939 N. Grand Parkway E,New Caney,TX,77357
+2763,Street Non-DT,End Cap,26.1493,-80.2566,1740 N. University Dr.,Plantation,FL,33322
+2764,Street DT,Free Standing,36.5951,-87.2871,3073 Wilma Rudolph Blvd,Clarksville,TN,37040
+2766,Street DT,Free Standing,30.3513,-97.388,1338 West Us 290,Elgin,TX,78621
+2767,Street DT,Free Standing,40.4392,-79.7654,4155 William Penn Hwy,Monroeville,PA,15146
+2768,Street Non-DT,End Cap,27.842,-82.7949,11167 Park Blvd,Seminole,FL,33772
+2769,Street Non-DT,In Line,40.6225,-74.0282,416 86th Street,Brooklyn,NY,11209
+277,Mall,Food Court,43.6324,-70.3337,364 Maine Mall Rd,Portland,ME,4106
+2770,Street DT,Free Standing,35.4844,-97.7593,1521 Garth Brooks Blvd,Yukon,OK,73099
+2771,Street DT,Free Standing,33.0257,-97.2817,3540 Highway 114,Fort Worth,TX,76177
+2772,Street DT,Free Standing,32.9017,-97.3201,9013 North Freeway,Fort Worth,TX,76177
+2773,Street DT,Free Standing,32.7074,-97.023,2620 State Highway 161,Grand Prairie,TX,75052
+2774,Street DT,Free Standing,31.2589,-85.4358,3777 Montgomery Hwy,Dothan,AL,36303
+2775,Street DT,Free Standing,34.3534,-84.047,85 Marketplace Blvd,Dawsonville,GA,30534
+2776,Street DT,Free Standing,39.1899,-96.5539,501 Mccall Rd,Manhattan,KS,66502
+2777,Street DT,Free Standing,30.2061,-95.4707,3375 College Park Dr,Conroe,TX,77384
+2778,University,Food Court,32.7289,-97.1152,300 W 1st Street,Arlington,TX,76019
+2779,Street DT,Free Standing,43.149,-93.2546,3550 4th Street Sw,Mason City,IA,50401
+2780,Street DT,Free Standing,35.7703,-95.3767,1102 W Shawnee,Muskogee,OK,74401
+2781,Street Non-DT,End Cap,42.4835,-83.4757,26150 Novi Rd,Novi,MI,48375
+2782,Street DT,Free Standing,31.4289,-100.5118,5578 Sherwood Way,San Angelo,TX,76901
+2783,Street DT,Free Standing,39.7223,-75.6602,4704 Kirkwood Hwy,Wilmington,DE,19808
+2784,Street DT,Free Standing,33.4255,-86.7053,101 Resource Center Parkway,Birmingham,AL,35242
+2785,Street DT,Free Standing,29.9101,-95.7263,8935 Fry Road,Cypress,TX,77433
+2786,Street Non-DT,End Cap,38.9204,-76.9525,2440 Market St. Ne,Washington,DC,20018
+2787,Street DT,Free Standing,36.3273,-119.6033,2263 Lacey Blvd.,Hanford,CA,93230
+2788,Street Non-DT,End Cap,39.1141,-77.536,1008 Edwards Ferry Road Ne Ste. 170,Leesburg,VA,20176
+2789,Street DT,Free Standing,32.4607,-96.9933,340 East Highway 287,Midlothian,TX,76065
+2790,Street Non-DT,End Cap,38.945,-76.7346,15437 Excelsior Drive,Bowie,MD,20716
+2791,Street Non-DT,End Cap,39.9512,-75.1567,942 Market Street,Philadelphia,PA,19107
+2792,Street Non-DT,In Line,40.8045,-73.966,2852 Broadway,New York,NY,10025
+2793,Street DT,Free Standing,33.1314,-97.0403,8131 I-35 E.,Corinth,TX,76208
+2794,Street DT,Free Standing,29.5097,-98.372,5738 Walzem Rd,San Antonio,TX,78218
+2795,Street DT,Free Standing,29.5718,-98.2398,713 Cibolo Valley Dr,Cibolo,TX,78108
+2796,Street DT,Free Standing,37.5032,-77.6262,12600 Stone Village Way,Midlothian,VA,23113
+2797,Street DT,Free Standing,31.8206,-81.6004,801 W Oglethorpe Hwy,Hinesville,GA,31313
+2798,Street DT,Free Standing,35.9886,-115.1411,3564 St. Rose Parkway,Henderson,NV,89052
+2799,Street Non-DT,End Cap,36.7717,-119.8343,1987 W. Clinton Avenue,Fresno,CA,93705
+2800,Street DT,Free Standing,29.8015,-98.4191,350 Singing Oaks,Spring Branch,TX,78070
+2801,Street DT,Free Standing,37.3873,-120.7367,"412 Winton Pkwy,",Livingston,CA,95334
+2805,University,Food Court,34.8092,-87.6783,Guillot University Center,Florence,AL,35632
+2807,Mall,Food Court,34.1831,-118.3117,201 E. Magnolia Blvd,Burbank,CA,91501
+2808,Street DT,Free Standing,38.8128,-94.494,1927 W. Foxwood Dr.,Raymore,MO,64083
+2809,Street DT,Free Standing,37.3022,-89.5826,130 Siemers Dr.,Cape Girardeau,MO,63701
+2810,Street DT,Free Standing,36.8499,-76.0272,1768 Laskin Road,Virginia Beach,VA,23454
+2811,Street DT,Free Standing,36.3244,-82.3944,922 N State Of Franklin Road,Johnson City,TN,37604
+2812,Street DT,Free Standing,36.1385,-85.5127,1020 S. Walnut Ave,Cookeville,TN,38501
+2813,Street DT,Free Standing,38.7385,-90.3992,963 Northwest Plaza Dr,Saint Ann,MO,63074
+2814,Street DT,Free Standing,37.7276,-85.8859,1513 Ring Rd,Elizabethtown,KY,42701
+2815,Street DT,Free Standing,40.2235,-74.7133,1660 Nottingham Way,Hamilton,NJ,8619
+2816,Street DT,Free Standing,41.4702,-87.0269,2904 John Howell Drive,Valparaiso,IN,46385
+2817,Street DT,Free Standing,36.8292,-76.3399,1130 Frederick Blvd,Portsmouth,VA,23707
+2818,Street DT,Free Standing,33.5216,-81.7266,1065 Pine Log Rd,Aiken,SC,29801
+2819,Street DT,Free Standing,30.6035,-87.1203,4880 Highway 90,Milton,FL,32571
+2820,Street DT,Free Standing,31.6172,-94.6525,1602 North Street,Nacogdoches,TX,75965
+2821,Street DT,Free Standing,41.4617,-81.8527,21085 Center Ridge Road,Fairview Park,OH,44126
+2822,Street DT,Free Standing,39.8396,-89.6037,2730 N Dirksen Pkwy,Springfield,IL,62702
+2823,Street DT,Free Standing,33.1363,-94.9677,1907 S. Jefferson Street,Mount Pleasant,TX,75455
+2824,Street DT,Free Standing,41.472,-90.4852,3714 39th Avenue Dr,Moline,IL,61265
+2825,Street DT,End Cap,30.0892,-97.8221,340 Old San Antonio Rd - Ste 110,Buda,TX,78610
+2826,Street DT,Free Standing,40.4514,-80.1625,202 Robinson Center Dr,Pittsburgh,PA,15205
+2827,Street DT,Free Standing,61.3334,-149.5656,12520 Old Glenn Hwy,Eagle River,AK,99577
+2828,Street Non-DT,End Cap,38.4631,-121.4929,"8166 Delta Shores Cir. S.,",Sacramento,CA,95832
+2829,Street DT,Free Standing,29.6933,-95.8317,26810 Fm 1093,Richmond,TX,77406
+2830,Street DT,Free Standing,36.0266,-83.928,4833 N Broadway St.,Knoxville,TN,37918
+2832,Store in Store,Food Court,33.0018,-96.7022,1201 State Street Suite 250,Richardson,TX,75082
+2833,Military,End Cap,38.2721,-76.4567,"22099 Cuddihy Road, Building 2369",Patuxent River,MD,20670
+2834,University,Food Court,37.7479,-84.2947,521 Lancaster Avenue,Richmond,KY,40475
+2836,Street DT,Free Standing,40.1163,-88.205,106 E. University Ave.,Urbana,IL,61801
+2837,Theme Park,Free Standing,35.1032,-80.9437,3900 Avenue Of The Carolinas,Fort Mill,SC,29708
+2838,Street DT,Free Standing,41.5433,-83.5868,9990 Olde Us 20,Rossford,OH,43460
+2840,Street Non-DT,In Line,41.8674,-87.6394,1250 South Canal Street,Chicago,IL,60607
+2841,Street DT,Free Standing,29.4018,-95.0352,6602 Gulf Fwy,La Marque,TX,77568
+2842,Street DT,Free Standing,39.641,-79.9982,100 Sesame Drive,Morgantown,WV,26501
+2843,Street DT,Free Standing,43.0394,-82.4567,4795 24th Avenue,Fort Gratiot,MI,48059
+2845,Street Non-DT,In Line,40.7037,-73.799,160-02 Jamaica Ave,Jamaica,NY,11432
+2846,Street DT,Free Standing,41.1496,-81.508,2855 State Road,Cuyahoga Falls,OH,44223
+2847,Street DT,Free Standing,36.196,-115.1596,1350 W Lake Mead Blvd,Las Vegas,NV,89106
+2848,Street DT,Free Standing,42.9781,-83.7664,4409 Miller Road,Flint,MI,48507
+2849,Street DT,Free Standing,32.9651,-96.3427,526 W. Interstate 30,Royse City,TX,75189
+2850,Street DT,Free Standing,43.0365,-88.1401,18190 Bluemound Road,Brookfield,WI,53045
+2851,Street DT,Free Standing,34.832,-82.3085,"1102 Woodruff Road,",Greenville,SC,29607
+2854,Street DT,Free Standing,28.0043,-81.7244,301 Cypress Gardens Blvd,Winter Haven,FL,33884
+2855,Street DT,Free Standing,21.4974,-158.0256,609 California Avenue,Wahiawa,HI,96786
+2856,Airport,Food Court,35.2226,-80.946,Concourse E/ Gate 27 5501 Josh Birmingham Prkw,Charlotte,NC,28208
+2857,Street DT,Free Standing,39.9051,-86.0507,6010 E. 82nd Street,Indianapolis,IN,46250
+2858,University,Food Court,28.6069,-81.1973,12715 Pegasus Drive,Orlando,FL,32826
+2859,Military,Food Court,33.4238,-82.1395,"407 B Street, Building 29722",Augusta,GA,30905
+286,University,Food Court,33.7805,-118.1143,6049 E 7th St,Long Beach,CA,90840
+2860,Military,Free Standing,30.3763,-81.41,Naval Station Mayport,Jacksonville,FL,32228
+2861,University,Food Court,30.0439,-94.0708,Setzer Student Center,Beaumont,TX,77710
+2862,Casino,Food Court,39.5318,-119.8155,500 N Sierra St.,Reno,NV,89503
+2863,Street Non-DT,In Line,32.8234,-116.9032,13465 Camino Canada,El Cajon,CA,92021
+2864,Mall,End Cap,40.7693,-111.9025,188 South Rio Grande St.,Salt Lake City,UT,84101
+2866,Street Non-DT,End Cap,28.3887,-81.245,9985 Tagore Place,Orlando,FL,32832
+2867,Street DT,Free Standing,45.3045,-122.9551,2401-b E Portland Rd,Newberg,OR,97132
+2868,Street DT,Free Standing,30.5912,-98.2729,2009 Us Hwy 281,Marble Falls,TX,78654
+2869,Street DT,Free Standing,34.0375,-84.0539,3276 Lawrenceville Suwanee Rd,Suwanee,GA,30024
+2870,Street DT,Free Standing,33.6411,-97.1393,1800 I-35,Gainesville,TX,76240
+2871,Street DT,End Cap,34.8313,-87.6242,"2851 Florence Blvd.,",Florence,AL,35630
+2872,Street DT,Free Standing,42.9884,-88.2213,601 E Sunset Dr.,Waukesha,WI,53189
+2873,Street Non-DT,Free Standing,40.4869,-79.8869,1028 Freeport Rd,Pittsburgh,PA,15238
+2874,Street DT,Free Standing,47.4934,-111.2156,1020 57th Street South,Great Falls,MT,59405
+2875,Street DT,Free Standing,47.4504,-120.334,1920 N Wenatchee Ave,Wenatchee,WA,98801
+2876,Street DT,End Cap,27.9821,-81.9569,4620 S Florida Ave,Lakeland,FL,33813
+2877,Street DT,Free Standing,36.8238,-76.4115,4111 Portsmouth Blvd,Chesapeake,VA,23321
+2878,Street Non-DT,Free Standing,37.6106,-77.5642,1782 N Parham Rd,Richmond,VA,23229
+2879,Street DT,Free Standing,39.438,-119.7634,547 S. Meadows Pkwy,Reno,NV,89521
+2880,Street DT,Free Standing,33.8428,-78.6606,1598 Hwy 17 N,North Myrtle Beach,SC,29582
+2882,Street DT,Free Standing,39.665,-75.6054,113 South Dupont Highway,New Castle,DE,19720
+2883,Street DT,Free Standing,41.9456,-83.3998,1710 N. Telegraph Road,Monroe,MI,48162
+2884,Street DT,Free Standing,34.7965,-77.4112,4121 Western Blvd,Jacksonville,NC,28546
+2885,Street DT,Free Standing,35.5962,-82.5332,54 Tunnel Rd,Asheville,NC,28805
+2886,Street DT,Free Standing,41.6295,-86.2487,209 E. Ireland Rd.,South Bend,IN,46614
+2887,Street DT,Free Standing,38.6739,-90.4093,10445 Olive Blvd,Creve Coeur,MO,63141
+2888,Street DT,Free Standing,39.4853,-75.0473,1169 W Landis Ave,Vineland,NJ,8360
+2890,Street DT,Free Standing,19.7202,-155.0833,376 Kilauea Ave,Hilo,HI,96720
+2892,University,Food Court,40.2768,-111.7143,800 W University Pkwy,Orem,UT,84058
+2893,Street DT,Free Standing,42.6747,-82.8332,50972 Gratiot Avenue,Chesterfield,MI,48051
+2894,Street DT,Free Standing,31.9583,-110.9819,750 S. Rancho Sahuarita Blvd,Sahuarita,AZ,85629
+2895,Street DT,Free Standing,42.1499,-88.4318,12340 Route 47,Huntley,IL,60142
+2896,Street DT,Free Standing,35.4413,-119.0841,35093 Merle Haggard Dr,Bakersfield,CA,93308
+2898,Street DT,Free Standing,39.9571,-104.9809,550 E 144th Ave,Thornton,CO,80023
+2899,Street DT,End Cap,33.6411,-78.9907,112 Loyola Dr,Myrtle Beach,SC,29588
+2900,Street DT,Free Standing,33.8502,-83.9189,205 Athens Highway,Loganville,GA,30052
+2901,Street DT,Free Standing,42.5301,-82.916,31621 Gratiot Ave,Roseville,MI,48066
+2902,Street Non-DT,End Cap,39.2483,-76.6701,3611 Washington Blvd # 100,Halethorpe,MD,21227
+2903,Street DT,Free Standing,38.8678,-76.8505,1620 Ritchie Station Ct,Capitol Heights,MD,20743
+2905,Street DT,Free Standing,37.7359,-84.3258,2011 Colby Taylor Dr,Richmond,KY,40475
+2906,Street DT,Free Standing,37.9999,-87.4931,2445 Menards Dr,Evansville,IN,47715
+2907,Mall,Food Court,38.5814,-121.5019,405 K St,Sacramento,CA,95814
+2908,Street DT,Free Standing,35.7426,-83.9935,506 Foothills Plaza Drive,Maryville,TN,37801
+2909,Street DT,Free Standing,31.9583,-95.2683,701 S.jackson Street,Jacksonville,TX,75766
+2910,Street DT,Free Standing,34.1354,-117.3921,1170 W. Renaissance Pkwy,Rialto,CA,92376
+2913,Street DT,Free Standing,40.5367,-80.0114,7223 Mcknight Rd,Pittsburgh,PA,15237
+2914,Street Non-DT,End Cap,34.0836,-118.0732,3640 Rosemead Blvd.,Rosemead,CA,91770
+2915,Street DT,Free Standing,39.9387,-75.0448,500 Route 38,Cherry Hill,NJ,8002
+2916,Street DT,Free Standing,33.582,-112.1342,3448 W Peoria Avenue,Phoenix,AZ,85029
+2919,Street Non-DT,In Line,33.9892,-118.309,1810 W Slauson Ave,Los Angeles,CA,90047
+2920,Street DT,End Cap,35.086,-106.6847,4100 Central Avenue Sw,Albuquerque,NM,87105
+2921,Street Non-DT,End Cap,34.0282,-118.2599,524 E. Washington Blvd,Los Angeles,CA,90015
+2922,University,Food Court,44.0514,-91.6385,250 W Howard St,Winona,MN,55987
+2923,University,Food Court,35.3543,-119.1028,9001 Stockdale Highway,Bakersfield,CA,93311
+2924,University,Food Court,35.0441,-85.2975,615 Mccallie Ave,Chattanooga,TN,37403
+2925,University,Food Court,34.0375,-84.5838,395 Cobb Ave.,Kennesaw,GA,30144
+2926,University,Food Court,35.8484,-86.3624,"1672 Greenland Drive, Kuc 204",Murfreesboro,TN,37132
+2927,Street DT,Free Standing,42.0506,-87.8344,9347 N Milwaukee Ave,Niles,IL,60714
+2928,Street Non-DT,In Line,34.1409,-118.1321,216 S. Lake Ave.,Pasadena,CA,91101
+2929,Street DT,Free Standing,32.3914,-94.8657,1201 N.kilgore St.,Kilgore,TX,75662
+2930,Street DT,Free Standing,31.2955,-92.5133,6209 Coliseum Blvd.,Alexandria,LA,71303
+2931,Street DT,Free Standing,36.7426,-95.9534,2307 Se Adams Blvd.,Bartlesville,OK,74006
+2932,Street DT,Free Standing,36.8117,-76.0697,808 Lynnhaven Pkwy,Virginia Beach,VA,23452
+2933,Street DT,Free Standing,32.4977,-92.0671,4431 Pecanland Mall Dr.,Monroe,LA,71203
+2935,Street DT,Free Standing,34.9666,-81.8941,1021 Fernwood Glendale Rd,Spartanburg,SC,29307
+2936,Street DT,Free Standing,34.2878,-83.843,418 Pearl Nix Parkway Sw,Gainesville,GA,30501
+2937,Military,Food Court,47.099,-122.5702,11566 41st Division Way,Tacoma,WA,98433
+2938,University,Food Court,29.7197,-95.3432,4455 University Dr Ste 150,Houston,TX,77204
+2940,Street DT,Free Standing,37.7428,-88.9704,2708 Walton Way,Marion,IL,62959
+2941,Airport,Food Court,33.9467,-118.4074,300 World Way,Los Angeles,CA,90045
+2946,Street DT,Free Standing,40.1221,-111.6497,748 E. Commerce Way,Spanish Fork,UT,84660
+2947,Airport,Food Court,32.9042,-97.0449,2141 International Pkwy,Dallas,TX,75261
+2949,Military,Food Court,36.9081,-76.1473,1170 Amphibious Dr Bldg#3443,Virginia Beach,VA,23459
+2950,University,Food Court,30.7128,-95.5507,1802 Avenue I,Huntsville,TX,77340
+2951,Street Non-DT,In Line,32.8008,-117.2398,1656 Garnet Ave,San Diego,CA,92109
+2952,Street Non-DT,In Line,34.0431,-118.3101,1713 S Western Ave,Los Angeles,CA,90019
+2953,Mall,Food Court,38.7949,-90.6178,1600 Mid Rivers Mall,Saint Peters,MO,63376
+2954,Street DT,Free Standing,31.2679,-92.4591,2810 S Macarthur Dr,Alexandria,LA,71303
+2955,Street DT,Free Standing,41.0527,-83.6126,1843 Tiffin Ave,Findlay,OH,45840
+2956,Street DT,Free Standing,30.6828,-97.7182,4512 Williams Drive,Georgetown,TX,78628
+2957,Street Non-DT,End Cap,37.5111,-121.9409,44047 Osgood Road,Fremont,CA,94539
+2958,Street Non-DT,End Cap,37.8347,-122.2499,5108 Broadway,Oakland,CA,94611
+2959,Street DT,End Cap,39.1315,-121.634,1260 Bridge St,Yuba City,CA,95991
+2960,Street DT,Free Standing,41.4613,-81.6904,3244 Steelyard Drive,Cleveland,OH,44109
+2961,Street DT,Free Standing,42.7407,-84.6128,4433 W. Saginaw Highway,Lansing,MI,48917
+2962,Street DT,Free Standing,35.8397,-78.6128,4215 Wake Forest Rd,Raleigh,NC,27609
+2963,Street DT,Free Standing,43.0306,-85.6907,3715 Alpine Ave Nw,Comstock Park,MI,49321
+2964,Street DT,Free Standing,38.4754,-77.421,320 Garrisonville Rd,Stafford,VA,22554
+2965,Street DT,Free Standing,38.5937,-90.2945,4400 Hampton Ave,Saint Louis,MO,63109
+2966,Street DT,Free Standing,47.7026,-117.0293,6291 W. Pointe Parkway,Post Falls,ID,83854
+2967,Street DT,Free Standing,32.159,-94.3656,1531 W. Panola St.,Carthage,TX,75633
+2968,Street DT,Free Standing,41.3023,-84.3601,1455 North Clinton Street,Defiance,OH,43512
+2969,Street DT,Free Standing,41.8091,-88.0115,1010 Ogden Ave,Downers Grove,IL,60515
+297,Street Non-DT,End Cap,42.0814,-87.7564,3232 Lake Ave.,Wilmette,IL,60091
+2970,Street DT,Free Standing,39.5832,-82.9516,1445 S. Court St.,Circleville,OH,43113
+2971,Street DT,Free Standing,38.7851,-90.5328,2919 Veterans Memorial Pkwy,Saint Charles,MO,63303
+2972,Street DT,Free Standing,30.63,-81.5588,463693 State Road 200,Yulee,FL,32097
+2973,Street DT,Free Standing,38.4688,-121.822,2580 N First Street,Dixon,CA,95620
+2974,Street DT,Free Standing,43.0423,-88.256,2720 N. Grandview Blvd,Waukesha,WI,53188
+2975,Street DT,Free Standing,41.7085,-111.8346,16 North Hwy 165,Providence,UT,84332
+2976,Street Non-DT,Free Standing,39.3728,-76.5434,7699 Harford Rd,Parkville,MD,21234
+2977,Street DT,Free Standing,42.564,-83.1284,3110 Rochester Rd,Troy,MI,48083
+2978,Street DT,Free Standing,39.9494,-86.3406,6745 Whitestown Pkwy,Zionsville,IN,46077
+2983,Military,Food Court,38.8171,-76.882,Building 1811 G Street,Andrews Afb,MD,20762
+2984,University,Food Court,33.2934,-93.232,100 East University,Magnolia,AR,71753
+2985,Street DT,Free Standing,34.5647,-87.0093,1642 Beltline Rd Sw,Decatur,AL,35601
+2986,Street DT,Free Standing,29.9488,-93.9885,3080 Hwy 365,Port Arthur,TX,77642
+2987,Street DT,Free Standing,31.8831,-106.5821,7826 Paseo Del Norte,El Paso,TX,79932
+2988,Street DT,Free Standing,33.1105,-83.2549,2407 N Columbia St,Milledgeville,GA,31061
+2989,Street DT,Free Standing,32.6066,-97.4071,5369 Mcpherson Blvd.,Fort Worth,TX,76036
+299,Street Non-DT,In Line,41.8793,-87.6251,77 E Adams St,Chicago,IL,60604
+2990,Street DT,Free Standing,34.1212,-117.199,27720 Base Line Street,Highland,CA,92346
+2991,Street Non-DT,End Cap,38.5408,-121.4827,"3640 Crocker Drive, Suite 140",Sacramento,CA,95818
+2992,Street DT,Free Standing,30.6699,-88.2283,865 Schillinger Rd S,Mobile,AL,36695
+2993,Travel Plaza,Food Court,39.6622,-75.6914,530 Jfk Memorial Hwy,Newark,DE,19702
+2994,University,Food Court,30.6949,-88.174,350 Campus Drive,Mobile,AL,36688
+2996,Street DT,Free Standing,32.1321,-94.8039,2123 Us Hwy 79 S,Henderson,TX,75654
+2997,Street Non-DT,End Cap,42.2069,-71.153,125 University Ave,Westwood,MA,2090
+2998,Street Non-DT,End Cap,42.7131,-71.4429,219 Daniel Webster Highway,Nashua,NH,3060
+2999,Street DT,Free Standing,33.2252,-96.9869,11401 Us-380,Crossroads,TX,76227
+3000,Street DT,Free Standing,32.7651,-97.4754,450 N Jim Wright Fwy,White Settlement,TX,76108
+3001,Street Non-DT,End Cap,42.4101,-71.0865,491 Riverside Ave,Medford,MA,2155
+3003,Street DT,Free Standing,39.9758,-82.0144,2966 Maple Avenue,Zanesville,OH,43701
+3004,Street DT,Free Standing,30.5406,-97.5627,612 Us Highway 79,Hutto,TX,78634
+3006,Street DT,End Cap,38.3035,-76.5221,"44980 St. Andrews Church Road, Suite F",California,MD,20619
+3007,Street Non-DT,End Cap,26.8816,-80.1226,5400 Donald Ross Rd.,Palm Beach Gardens,FL,33418
+3008,Street DT,Free Standing,39.2004,-85.9484,2005 Jonathan Moore Pike,Columbus,IN,47201
+3009,Street Non-DT,End Cap,30.4005,-97.7456,"10900 Research Blvd Sb, Unit B-230",Austin,TX,78759
+3010,Street Non-DT,End Cap,40.0753,-75.154,2385 Cheltenham Avenue,Wyncote,PA,19095
+3011,Street DT,Free Standing,35.1269,-85.2412,484 Northgate Mall Dr,Chattanooga,TN,37415
+3012,Street DT,Free Standing,40.15,-82.9799,1388 Gemini Place,Columbus,OH,43240
+3013,Street DT,Free Standing,35.0849,-85.0658,8967 Old Lee Highway,College Dale,TN,37363
+3014,Street DT,Free Standing,32.5762,-96.3091,1 Oak Creek Dr,Kaufman,TX,75142
+3015,Street DT,Free Standing,40.4712,-78.4064,240 Park Hills Plaza,Altoona,PA,16602
+3016,Street DT,Free Standing,46.8002,-96.8434,3751 53rd Ave South,Fargo,ND,58104
+3017,Street DT,Free Standing,40.7691,-84.162,3200 Elida Road,Lima,OH,45807
+3018,Mall,Food Court,37.5373,-122.2992,74 Hillsdale Mall,San Mateo,CA,94403
+3019,Street Non-DT,End Cap,38.6503,-121.0668,"4354 Town Center Blvd.,",El Dorado Hills,CA,95762
+3022,Street DT,Free Standing,40.5396,-122.3502,4660 Churn Creek Road,Redding,CA,96002
+3023,Mall,In Line,32.7688,-117.148,1640 Camino Del Rio N #120,San Diego,CA,92108
+3027,Street DT,Free Standing,33.1753,-96.5183,601 W. Princeton Rd.,Princeton,TX,75407
+3028,Street DT,Free Standing,36.2821,-115.1328,6778 N 5th St,North Las Vegas,NV,89084
+3029,Street DT,Free Standing,33.597,-86.6438,1465 Gadsden Hwy,Birmingham,AL,35235
+3030,Street DT,Free Standing,40.7386,-96.7015,1540 Pine Lake Rd,Lincoln,NE,68512
+3031,Street DT,Free Standing,26.1723,-97.6715,2205 S 77 Sunshine Strip,Harlingen,TX,78550
+3032,Street DT,Free Standing,28.7079,-100.4837,231 S Bibb Ave,Eagle Pass,TX,78852
+3033,Street DT,Free Standing,39.9584,-104.775,3586 Eagle Blvd,Brighton,CO,80601
+3034,Street DT,Free Standing,41.1122,-83.2114,840 W. Market Street,Tiffin,OH,44883
+3035,Street DT,End Cap,39.1288,-123.1985,1236 Airport Park Blvd,Ukiah,CA,95482
+3036,Street DT,Free Standing,27.7916,-82.3294,10771 Big Bend Rd.,Riverview,FL,33579
+304,CBD,In Line,34.0507,-118.2552,630 W. 5th Street,Los Angeles,CA,90071
+3041,Military,Food Court,37.246,-77.346,300 A Ave 1605 Building,Fort Lee,VA,23801
+3042,Military,Food Court,44.0436,-75.8073,10730 Enduring Freedom Dr.,Fort Drum,NY,13603
+3043,Airport,Food Court,44.8826,-93.2095,4300 Glumack Dr,Minneapolis,MN,55450
+3044,University,Food Court,47.489,-117.5748,526 5th St,Cheney,WA,99004
+3045,Street DT,Free Standing,37.1,-113.5374,605 S. Mall Drive,Saint George,UT,84790
+3047,University,Food Court,30.2783,-81.5091,1 Unf Dr. Bldg#58,Jacksonville,FL,32224
+3048,University,Food Court,39.9812,-75.1554,1620 North Park Avenue,Philadelphia,PA,19122
+305,Store in Store,Food Court,33.8411,-118.1828,4550 Atlantic Blvd.,Long Beach,CA,90807
+3052,Street Non-DT,End Cap,39.5344,-119.8653,5115 Mae Anne Ave.,Reno,NV,89523
+3054,Street Non-DT,End Cap,38.9478,-119.9578,3640a Lake Tahoe Blvd.,South Lake Tahoe,CA,96150
+3056,Street Non-DT,End Cap,28.3933,-81.4864,11537 Regency Village Dr,Orlando,FL,32821
+3057,Street DT,Free Standing,36.9525,-86.4254,2500 Scottsville Rd,Bowling Green,KY,42104
+3058,Street DT,Free Standing,37.3589,-77.4142,12131 Jefferson Davis Hwy,Chester,VA,23831
+3059,Street DT,Free Standing,30.4245,-95.4799,12725 I-45 N,Willis,TX,77318
+3067,Street DT,Free Standing,32.9788,-96.7622,1240 W Campbell Rd,Richardson,TX,75080
+3068,Street DT,End Cap,29.5056,-98.5848,2323 Babcock Rd,San Antonio,TX,78229
+3069,Street DT,Free Standing,28.4489,-81.4266,8025 S John Young Pkwy,Orlando,FL,32819
+3070,Street DT,Free Standing,37.1326,-93.4562,1472 Us Hwy 60 E,Republic,MO,65738
+3071,Street DT,Free Standing,30.5981,-88.1639,4429 Rangeline Road,Mobile,AL,36619
+3073,Street DT,Free Standing,38.0718,-84.4807,506 W New Circle Rd,Lexington,KY,40511
+3074,Street DT,Free Standing,32.3615,-86.1562,7781 Eastchase Pkwy,Montgomery,AL,36117
+3075,Street Non-DT,In Line,34.2183,-118.6073,8201 Topanga Canyon Blvd,Canoga Park,CA,91304
+3076,Street DT,Free Standing,42.9115,-85.5889,3170 28th Street,Kentwood,MI,49508
+3077,University,Food Court,37.7194,-97.2929,1845 Fairmount St,Wichita,KS,67260
+3078,Street DT,End Cap,47.9206,-122.2285,8417 Evergreen Way,Everett,WA,98208
+3079,Street Non-DT,End Cap,34.2332,-118.4396,9007 Woodman Ave,Arleta,CA,91331
+3080,Street DT,Free Standing,39.0449,-94.4137,14050 E 42nd St S,Independence,MO,64055
+3081,Street DT,Free Standing,40.0002,-105.008,16816 Sheridan Pkwy,Broomfield,CO,80023
+3082,Street DT,Free Standing,33.7623,-96.5847,3405 Fm 120,Denison,TX,75020
+3083,Street Non-DT,End Cap,39.1968,-76.6135,6620-a Ritchie Hwy,Glen Burnie,MD,21061
+3084,Street DT,Free Standing,41.2454,-81.3573,9540 State Route 14,Streetsboro,OH,44241
+3085,Street DT,Free Standing,29.5995,-95.3541,4041 S. Sam Houston Pkwy E.,Houston,TX,77047
+3087,Street DT,Free Standing,33.3917,-112.0847,"935 W. Southern Ave,",Phoenix,AZ,85041
+3088,Street DT,Free Standing,40.5453,-111.9864,11513 South 4000 West,South Jordan,UT,84009
+3090,Street DT,Free Standing,32.9385,-111.7567,2878 N. Pinal Ave,Casa Grande,AZ,85122
+3091,Street Non-DT,End Cap,28.2055,-82.667,3198 Word Way,New Port Richey,FL,34655
+3092,Airport,Food Court,40.6895,-74.1745,"3 Brewster Rd, Space B7b",Newark,NJ,7114
+3093,Military,Food Court,31.8691,-81.609,"Building 419, Vilseck Road",Fort Stewart,GA,31314
+3094,University,Food Court,37.3344,-121.8806,"1 Washington Sq, San Jose, Ca",San Jose,CA,95192
+3095,University,Food Court,25.7566,-80.3761,11200 Sw 8th Street Dc#104,Miami,FL,33199
+3098,Military,Food Court,39.0979,-76.729,"2799 Rose Street, Suite 17",Fort George G Meade,MD,20755
+3101,University,Food Court,33.7524,-84.3862,55 Gilmer Street Se,Atlanta,GA,30302
+3102,Street DT,Free Standing,32.5795,-95.8557,17210 I-20 Frontage Road,Canton,TX,75103
+3103,Street DT,Free Standing,35.1817,-97.4164,3281 Classen Blvd,Norman,OK,73071
+3104,Street DT,Free Standing,37.826,-121.2887,15099 S. Old Harlan Rd,Lathrop,CA,95330
+3105,Street Non-DT,End Cap,37.6967,-121.8467,3010 W Jack London Blvd,Livermore,CA,94551
+3106,Street DT,Free Standing,32.8245,-97.0602,4208 Hwy 360,Fort Worth,TX,76155
+3107,Street DT,Free Standing,30.391,-87.0624,3868 Gulf Breeze Pkwy,Gulf Breeze,FL,32563
+3109,Street DT,Free Standing,36.7388,-119.6997,445 S. Clovis Ave,Fresno,CA,93727
+3110,Street Non-DT,End Cap,40.5372,-74.2955,314 Us Hwy 9 N,Woodbridge,NJ,7095
+3112,Street DT,End Cap,35.091,-92.4208,811 East Oak St,Conway,AR,72032
+3113,Street DT,Free Standing,34.1876,-97.1491,1595 12th Ave Nw,Ardmore,OK,73401
+3114,Street DT,Free Standing,39.8857,-104.8075,15481 E 104th Ave,Commerce City,CO,80022
+3115,Street DT,Free Standing,40.4739,-86.1094,1227 S. Reed Rd,Kokomo,IN,46902
+3116,Street DT,Free Standing,30.3222,-81.494,11929 Atlantic Blvd,Jacksonville,FL,32225
+3119,Street Non-DT,End Cap,33.9959,-117.7175,4021 Grand Ave,Chino,CA,91710
+317,Mall,Food Court,45.45,-122.7803,9641 SW Washington Square Rd,Portland,OR,97223
+318,Mall,Food Court,30.4708,-97.807,11200 Lake Stop Blvd Vc-4,Cedar Park,TX,78613
+3201,Airport,Food Court,29.9922,-90.259,900 Airline Dr,Kenner,LA,70062
+3202,Mall,In Line,33.784,-117.894,20 City Blvd W,Orange,CA,92868
+3203,Street DT,Free Standing,32.3379,-96.6174,408 N I-45,Ennis,TX,75119
+3204,Street DT,Free Standing,31.1177,-97.4153,6840 W Adams Ave,Temple,TX,76502
+3205,Street Non-DT,End Cap,34.1559,-118.3463,353 N Pass Ave.,Burbank,CA,91505
+3206,Street DT,Free Standing,38.9845,-94.4627,10139 E 350 Hwy,Raytown,MO,64138
+3207,Street DT,Free Standing,30.7187,-86.5691,4305 S Ferdon Blvd,Crestview,FL,32536
+3209,Street DT,End Cap,33.7738,-117.9929,12971 Beach Blvd,Garden Grove,CA,92841
+321,Airport,Food Court,45.5891,-122.5938,7000 N. Airport Way #tf-3,Portland,OR,97218
+3210,University,Food Court,47.0068,-120.536,401 East Dean Nicholson Blvd,Ellensburg,WA,98926
+3211,Casino,Food Court,34.9377,-106.6617,11000 Broadway Southeast,Albuquerque,NM,87105
+3212,Street DT,Free Standing,36.1885,-80.2772,5990 University Pkwy,Winston Salem,NC,27105
+3213,Street DT,Free Standing,40.5815,-83.084,1692 Marion Mt. Gilead Rd.,Marion,OH,43302
+3215,Airport,Food Court,29.9857,-95.3359,3950 S Terminal Road,Houston,TX,77032
+3216,Military,Food Court,38.2721,-121.9399,"461 Skymaster Dr, Bldg 648",Travis Afb,CA,94535
+3217,Airport,Food Court,32.8901,-97.0362,2400 Aviation Dr,Dallas,TX,75261
+3218,Street DT,Free Standing,37.7533,-121.1404,1422 W Colony Road,Ripon,CA,95366
+3219,Street DT,Free Standing,37.1252,-120.2517,313 Prosperity Blvd,Chowchilla,CA,93610
+3220,Street DT,Free Standing,33.5284,-82.1223,515 Mullins Colony Dr,Evans,GA,30809
+3221,Street DT,Free Standing,38.5367,-91.0007,1200 Washington Square,Washington,MO,63090
+3222,Street Non-DT,End Cap,36.5966,-121.8944,570 Munras Ave.,Monterey,CA,93940
+3223,Street DT,Free Standing,41.1012,-81.386,233 Tallmadge Road,Kent,OH,44240
+3225,Street DT,Free Standing,34.245,-77.8735,11 Van Campen Blvd,Wilmington,NC,28403
+3227,Street DT,Free Standing,36.1495,-86.668,2740 Elm Hill Pike,Nashville,TN,37214
+3228,Street DT,Free Standing,37.9947,-85.708,335 Keystone Crossroad Dr,Shepherdsville,KY,40165
+323,Store in Store,Food Court,32.8073,-117.1165,3550 Murphy Canyon,San Diego,CA,92123
+3239,Street DT,Free Standing,33.2193,-96.772,2251 E University Dr,Prosper,TX,75078
+3251,Street DT,Free Standing,42.6342,-83.7485,10550 Hartland Square Dr,Hartland,MI,48353
+3252,Street DT,Free Standing,36.2397,-115.1686,1740 W. Craig Rd,North Las Vegas,NV,89032
+3253,Street DT,Free Standing,41.5481,-88.2027,1451 Il Route 59,Joliet,IL,60431
+3254,Street DT,Free Standing,43.6595,-84.2472,6902 Eastman Ave,Midland,MI,48642
+3255,Street DT,Free Standing,41.6743,-83.7186,7330 W Central Ave,Toledo,OH,43617
+3257,Military,Food Court,35.1237,-78.9907,2171 Reilly Rd,Fort Bragg,NC,28307
+3258,Casino,Food Court,33.3126,-112.1593,15091 South Komatke Lane,Laveen,AZ,85339
+3259,Casino,Food Court,33.2886,-111.9429,1077 S Kyrene Rd,Chandler,AZ,85226
+3260,Military,Food Court,38.9365,-77.1865,Dolley Madison Blvd,Mc Lean,VA,22101
+3261,Airport,Food Court,44.8807,-93.2249,4300 Glumack Dr.,Minneapolis,MN,55450
+3262,Street DT,Free Standing,32.7965,-96.563,164 S Collins Rd.,Sunnyvale,TX,75182
+3264,Street DT,Free Standing,45.8519,-119.2897,1530 N. 1st Street.,Hermiston,OR,97838
+3265,Street DT,End Cap,40.7794,-82.5893,994 North Lexington Springmill Road,Ontario,OH,44906
+3267,Street Non-DT,End Cap,32.9125,-117.1492,"8120 Mira Mesa Blvd, Suite 101",San Diego,CA,92126
+3270,Street Non-DT,End Cap,34.0348,-84.4637,3460 Sandy Plains Rd Ne,Marietta,GA,30066
+3272,Street Non-DT,End Cap,34.1598,-118.5075,17200 Ventura Blvd,Encino,CA,91316
+3274,Street DT,Free Standing,36.1791,-86.5168,300 Pleasant Grove Rd,Mount Juliet,TN,37122
+3277,Street DT,Free Standing,43.5,-116.3931,1309 N. Jacksonmill Ave.,Kuna,ID,83634
+3279,Street DT,Free Standing,34.6074,-92.5308,20810 I-30 North,Benton,AR,72019
+3280,Street DT,Free Standing,30.4673,-90.9178,27698 Juban Rd,Denham Springs,LA,70726
+3281,University,Food Court,37.659,-122.0621,25800 Carlos Bee Blvd,Hayward,CA,94542
+3284,Street Non-DT,End Cap,33.8318,-118.1595,2718 E Carson St,Lakewood,CA,90712
+3285,Street DT,Free Standing,33.4133,-111.5457,165 S. Idaho Rd,Apache Junction,AZ,85119
+329,Mall,Food Court,47.83,-122.2726,"3000 184th St., Sw #830",Lynnwood,WA,98037
+3294,University,Food Court,35.1498,-90.0492,499 University Center,Memphis,TN,38152
+3295,University,Food Court,33.4535,-112.0731,120 E. Taylor Street,Phoenix,AZ,85004
+3301,Street DT,Free Standing,33.4747,-84.4409,1195 Highway 85 N,Fayetteville,GA,30214
+3303,Street DT,Free Standing,34.9528,-85.2462,1125 Battlefield Pkwy,Fort Oglethorpe,GA,30742
+3315,Military,Food Court,32.3662,-84.9555,9220 Marne Road,Fort Benning,GA,31905
+3316,University,Food Court,42.2753,-83.7415,530 S State Street,Ann Arbor,MI,48109
+3321,University,Food Court,34.224,-77.8701,601 S College Rd,Wilmington,NC,28403
+335,Mall,Food Court,35.5793,-82.5255,3 South Tunnel Road #m-2,Asheville,NC,28805
+351,Mall,Food Court,34.0363,-118.0845,1632 Montebello Town Center,Montebello,CA,90640
+352,Mall,Food Court,36.0673,-115.0421,1300 Sunset Road Space #32833,Henderson,NV,89014
+354,Mall,Food Court,26.1178,-80.2547,8000 W. Broward Blvd,Plantation,FL,33388
+355,Street Non-DT,Free Standing,34.1357,-118.3616,3728 Cahuenga Blvd,Studio City,CA,91604
+356,Street Non-DT,Free Standing,33.8787,-118.3963,125 S Sepulveda Blvd,Manhattan Beach,CA,90266
+363,Mall,Food Court,39.5617,-104.8788,8515 Park Meadows Center Drive,Littleton,CO,80124
+364,Mall,Food Court,38.9564,-94.7194,11515 W. 95th H,Overland Park,KS,66214
+366,Store in Store,Food Court,34.272,-118.4985,16830 San Fernando Mission Bl.,Granada Hills,CA,91344
+368,Mall,Food Court,33.9097,-117.4578,1299 Galleria @tyler,Riverside,CA,92503
+378,Store in Store,Food Court,33.8052,-118.3305,24325 Crenshaw Blvd,Torrance,CA,90505
+379,University,In Line,42.0236,-93.6456,2229 Lincoln Way,Ames,IA,50011
+382,Mall,Food Court,26.1694,-81.7943,1852 Tamiami Trail N,Naples,FL,34102
+385,Mall,Food Court,34.0734,-117.5568,1 Mill Circle Space F3,Ontario,CA,91764
+386,Street DT,Free Standing,34.47,-117.3404,14799 Bear Valley Road,Hesperia,CA,92345
+387,University,Food Court,37.7636,-122.4588,500 Parnassus Ave,San Francisco,CA,94143
+389,CBD,Food Court,41.8851,-87.6317,100 W. Randolph C#17,Chicago,IL,60601
+393,Store in Store,Food Court,33.1787,-117.3266,2560 El Camino Real,Carlsbad,CA,92008
+402,Mall,Food Court,44.2693,-88.4705,4301 W. Wisconsin Ave.,Appleton,WI,54915
+411,Mall,Food Court,32.9662,-97.0425,3000 Grapevine Mills Parkway,Grapevine,TX,76051
+412,Street Non-DT,In Line,34.038,-118.4408,2204 Sawtelle Blvd.,Los Angeles,CA,90064
+415,Mall,Food Court,32.8735,-117.2101,"4545 La Jolla Village Dr.,",San Diego,CA,92122
+417,Mall,Food Court,37.6716,-122.4718,86 Serramonte Center #703,Daly City,CA,94015
+423,Mall,Food Court,41.7188,-87.7825,482 Chicago Ridge Mall,Chicago Ridge,IL,60415
+426,Street Non-DT,End Cap,34.2646,-118.5248,18080 Chatsworth St. #b,Granada Hills,CA,91344
+427,Street Non-DT,In Line,38.2834,-122.275,255 Soscol Ave.,Napa,CA,94559
+433,Street Non-DT,Free Standing,34.2576,-118.5805,20515 Devonshire St.,Chatsworth,CA,91311
+434,Street Non-DT,Free Standing,34.1059,-117.5298,12629 Foothill Blvd.,Rancho Cucamonga,CA,91739
+435,Street Non-DT,Free Standing,34.0258,-118.2772,2828 S. Figueroa St.,Los Angeles,CA,90007
+436,Mall,Food Court,41.1152,-85.1392,4201 Cold Water Rd.,Fort Wayne,IN,46805
+437,Mall,Food Court,41.6909,-91.6019,1451 Coral Ridge Ave.,Coralville,IA,52241
+440,Casino,Food Court,35.6108,-115.3861,31900 Las Vegas Blvd S,Primm,NV,89019
+447,Street Non-DT,End Cap,33.5392,-112.0481,7000 16th St. #100,Phoenix,AZ,85020
+448,Street Non-DT,End Cap,36.1501,-115.2427,1980 S. Rainbow Blvd #102,Las Vegas,NV,89146
+450,Street Non-DT,End Cap,36.1454,-115.0648,2288 S.nellis Blvd Suite 2,Las Vegas,NV,89104
+455,Mall,Food Court,40.2169,-111.6628,1200 Towne Centre #2072,Provo,UT,84601
+459,Street Non-DT,End Cap,33.8034,-117.8881,2055 East Katella Av,Anaheim,CA,92803
+461,Mall,Food Court,41.7238,-71.4769,400 Bald Hill Road #f10,Warwick,RI,2886
+464,Street Non-DT,End Cap,38.425,-121.3931,9154 East Stockton 140,Elk Grove,CA,95624
+465,University,Food Court,42.7266,-84.4807,427 North Shaw Lane,East Lansing,MI,48824
+466,Street Non-DT,End Cap,21.4214,-157.8029,46-047 Kamehameha Highway,Kaneohe,HI,96744
+467,Casino,Food Court,36.0605,-115.0411,1301 West Sunset Rd. C107,Henderson,NV,89014
+469,Street Non-DT,End Cap,36.1449,-115.2041,4590 W. Sahara Ave. Sp#101,Las Vegas,NV,89102
+471,Mall,Food Court,42.7031,-83.2967,4420 Baldwin Rd,Auburn Hills,MI,48326
+473,Street Non-DT,End Cap,36.0902,-115.1721,3999 Las Vegas Blvd. South,Las Vegas,NV,89119
+474,Street Non-DT,End Cap,38.289,-122.0337,3334 N. Texas St. Suite D,Fairfield,CA,94533
+480,Street Non-DT,End Cap,37.6917,-121.7735,2100-a Portola Ave,Livermore,CA,94550
+481,Mall,End Cap,21.2773,-157.7865,4211 Waialae Ave. A1&a2,Honolulu,HI,96816
+482,Street Non-DT,In Line,34.1496,-118.2463,249 N Glendale Ave,Glendale,CA,91206
+487,Street Non-DT,In Line,34.2837,-118.7192,2667 Tapo Canyon Rd Food Court,Simi Valley,CA,93063
+488,Street Non-DT,End Cap,33.6377,-112.2174,7369 W. Bell Rd. Suite 1,Peoria,AZ,85382
+490,Mall,Food Court,41.4703,-87.307,2282 Southlake Mall,Merrillville,IN,46410
+491,Mall,Food Court,40.1423,-88.2429,2000 N. Neil St,Champaign,IL,61820
+496,Street Non-DT,End Cap,36.1156,-115.1023,3318 E. Flamingo Rd. Suite A,Las Vegas,NV,89121
+498,Casino,Food Court,36.1229,-115.1685,3355 Las Vegas Blvd. South,Las Vegas,NV,89109
+499,Street Non-DT,End Cap,33.8052,-118.3508,3737 Pch Suite A,Torrance,CA,90505
+500,Street Non-DT,End Cap,33.0673,-117.2624,1084 N. El Camino Real #e,Encinitas,CA,92024
+502,University,In Line,40.7982,-77.8615,7 Hub/robeson Center,University Park,PA,16802
+506,Street Non-DT,End Cap,40.6253,-111.8505,6927 Park Centre Dr,Salt Lake City,UT,84121
+508,Mall,In Line,21.4192,-157.805,46-056 Kamehameha Highway,Kaneohe,HI,96744
+509,Street Non-DT,End Cap,33.6108,-111.9964,3923 E. Thunderbird Rd. #111,Phoenix,AZ,85032
+510,Mall,Food Court,45.4364,-122.5729,12000 Se 82nd Ave.,Happy Valley,OR,97086
+511,Mall,Food Court,33.5247,-117.1546,40820 Winchester Rd,Temecula,CA,92591
+512,Mall,Food Court,43.6086,-116.2781,350 N. Milwaukee,Boise,ID,83704
+515,Street Non-DT,In Line,42.0519,-87.9988,1454 Golf Rd.,Rolling Meadows,IL,60008
+516,Street Non-DT,End Cap,42.3851,-87.9779,7105 Grand Ave.,Gurnee,IL,60031
+517,Street Non-DT,End Cap,37.8181,-121.9969,495 San Ramon Valley Blvd,Danville,CA,94526
+518,Street Non-DT,End Cap,37.9299,-122.0152,2280 Oak Grove Rd.,Walnut Creek,CA,94598
+522,Street Non-DT,End Cap,40.7246,-111.8586,1126 E. 2100 South Suite B,Salt Lake City,UT,84106
+523,Mall,Food Court,40.5621,-111.895,10450 S. State St.,Sandy,UT,84070
+524,Street Non-DT,End Cap,18.3959,-65.9973,"Plaza Escorial, Ave Regimiento 65 De Infanteria",San Juan,PR,924
+527,Street Non-DT,Free Standing,40.2728,-111.6831,494 E 1300 S,Orem,UT,84097
+528,Street Non-DT,End Cap,33.6667,-112.1236,3013 W. Agua Fria Freeway C1-a,Phoenix,AZ,85027
+529,Street DT,Free Standing,33.3643,-111.9124,1714 E. Guadalupe Rd,Tempe,AZ,85283
+530,Theme Park,In Line,34.1362,-118.3537,1000 Universal Terrace Pkwy,Universal City,CA,91608
+531,Store in Store,Food Court,33.7902,-118.0292,11861 Valley View Blvd.,Garden Grove,CA,92845
+532,Street Non-DT,End Cap,37.3226,-121.9941,5180 Stevens Creek Road #e,San Jose,CA,95129
+533,Street Non-DT,End Cap,34.1394,-118.0138,682 W. Huntington Dr.,Monrovia,CA,91016
+534,Street Non-DT,End Cap,34.5997,-118.1471,39450 10th St. West Suite C,Palmdale,CA,93551
+537,Street Non-DT,End Cap,40.6258,-111.9391,6910 S. Redwood Rd. Space A,West Jordan,UT,84084
+538,Street Non-DT,End Cap,37.8917,-122.1235,3608 Mt. Diablo Blvd Bldg B,Lafayette,CA,94549
+539,Street Non-DT,In Line,37.1118,-113.5553,245 N. Red Cliffs Dr #15,Saint George,UT,84790
+541,Street Non-DT,End Cap,33.48,-111.9979,3923 E Thomas Rd,Phoenix,AZ,85018
+542,Street Non-DT,End Cap,32.7501,-117.1638,120 Washington St.,San Diego,CA,92103
+543,Street Non-DT,End Cap,33.8594,-117.9232,150 E. Orangethorpe Ave.,Fullerton,CA,92832
+544,Street Non-DT,Free Standing,39.8801,-105.0917,8461 Church Ranch Blvd,Westminster,CO,80020
+545,Street Non-DT,End Cap,39.5431,-104.9425,9563 South University Blvd.,Highlands Ranch,CO,80126
+546,Street Non-DT,In Line,32.9378,-117.1008,12030 Scripps Summit Drive,San Diego,CA,92131
+554,Mall,In Line,39.9172,-88.9606,1085 Hickory Point Mall,Forsyth,IL,62535
+555,Street Non-DT,End Cap,33.6399,-112.0609,903 E. Bell Rd #101,Phoenix,AZ,85022
+556,Street Non-DT,End Cap,36.101,-115.0544,5516 Boulder Highway,Las Vegas,NV,89122
+560,Street Non-DT,End Cap,33.6568,-117.9188,2300 Harbor Boulevard N-8,Costa Mesa,CA,92626
+562,Street Non-DT,End Cap,36.8479,-119.7914,7685 N. Blackstone Ave.,Fresno,CA,93720
+565,Street Non-DT,End Cap,33.9522,-118.1635,8616 Garfield Ave,South Gate,CA,90280
+566,Street Non-DT,End Cap,47.0483,-122.832,4210 Martin Way Se #107,Olympia,WA,98516
+568,Street Non-DT,End Cap,36.0012,-115.1053,2654 W Horizon Ridge Pkwy,Henderson,NV,89052
+569,Mall,Food Court,33.5615,-117.6698,27000 Crown Valley Parkway,Mission Viejo,CA,92691
+571,Street Non-DT,End Cap,35.1133,-106.7015,2760 Coors Blvd NW,Albuquerque,NM,87120
+574,Street Non-DT,End Cap,47.8493,-122.2542,1402 164th St. Sw #301,Lynnwood,WA,98037
+575,Street Non-DT,End Cap,34.1955,-118.6064,6859 Topanga Canyon Blvd.,Canoga Park,CA,91303
+578,Street Non-DT,End Cap,45.5052,-122.4411,1089 N.w. Civic Dr. #j1,Gresham,OR,97030
+579,Street DT,Free Standing,35.1351,-106.6115,1408 Mercantile Ave,Albuquerque,NM,87107
+581,Casino,Food Court,36.1128,-115.0623,5111 Boulder Highway,Las Vegas,NV,89122
+582,Street DT,Free Standing,36.0716,-115.0906,3840 E. Sunset Road,Las Vegas,NV,89120
+583,Street Non-DT,End Cap,41.9204,-88.2751,110 S. Kirk Rd.,Saint Charles,IL,60175
+586,Street Non-DT,End Cap,33.3798,-111.6871,1959 South Power Rd. Space#107,Mesa,AZ,85208
+587,University,Food Court,34.0577,-117.8234,"Campus Center, 3801 W Temple Ave",Pomona,CA,91768
+590,University,In Line,32.2328,-110.952,1303 E University Blvd,Tucson,AZ,85719
+591,CBD,In Line,41.8779,-87.634,302 S. Wells,Chicago,IL,60606
+593,Mall,Food Court,42.7205,-84.4199,1982 W Grand River Ave F8,Okemos,MI,48864
+594,Street Non-DT,End Cap,33.6671,-112.1872,20020 N. 59th Ave. Space# 101,Glendale,AZ,85308
+596,Street Non-DT,End Cap,36.1585,-115.3112,9795 W. Charleston Blvd.,Las Vegas,NV,89117
+599,Mall,Food Court,47.6596,-117.4236,808 W. Main St. Space Fc-4,Spokane,WA,99201
+600,Mall,Food Court,36.715,-121.661,1340 Northridge Mall,Salinas,CA,93906
+602,Street Non-DT,End Cap,33.1082,-96.8068,3511 Preston Road Suite #1,Frisco,TX,75034
+605,Street Non-DT,End Cap,29.5702,-98.3269,8250 Agora Parkway #148,Selma,TX,78154
+606,Street Non-DT,End Cap,32.7799,-117.0096,"5500 Grossmont Cntr Drive,",La Mesa,CA,91942
+609,Street Non-DT,End Cap,38.8039,-121.2734,2210 Sunset Blvd. Space# 100,Rocklin,CA,95765
+610,Street Non-DT,End Cap,40.6435,-111.8894,5888 South State Street,Murray,UT,84107
+611,Street Non-DT,End Cap,40.6498,-111.9394,5594 S Redwood Road,Taylorsville,UT,84123
+613,Street Non-DT,End Cap,29.5496,-98.6656,11619 Bandera Road #101,San Antonio,TX,78250
+615,Street Non-DT,End Cap,43.6187,-116.3538,1500 North Eagle Rd.,Meridian,ID,83642
+616,Street Non-DT,End Cap,35.6419,-106.0127,3522 Zafarano Dr. Suite F1,Santa Fe,NM,87505
+618,Street Non-DT,End Cap,34.0173,-118.4084,3812 Midway,Culver City,CA,90232
+619,Street Non-DT,End Cap,38.6722,-121.2721,5871 Sunrise Blvd,Citrus Heights,CA,95610
+620,Casino,Food Court,36.0207,-115.0902,2300 Paseo Verde #2006,Henderson,NV,89012
+621,Casino,Food Court,36.1145,-115.1948,4321 West Flamingo Road #1241,Las Vegas,NV,89103
+625,Street Non-DT,End Cap,38.6509,-121.1648,1840 Prairie City Rd #300,Folsom,CA,95630
+626,Mall,Food Court,33.3017,-111.8985,3111 West Chandler Blvd,Chandler,AZ,85226
+627,Street Non-DT,End Cap,33.6407,-112.3544,13732 W. Bell Rd. Space# 16,Surprise,AZ,85374
+628,Street Non-DT,End Cap,32.252,-110.8933,2485 N. Swan Rd. Space# 101,Tucson,AZ,85712
+629,Street Non-DT,Free Standing,32.9876,-96.8417,17602 Midway Road,Dallas,TX,75287
+631,Street Non-DT,End Cap,33.3796,-111.756,3440 East Baseline Road,Mesa,AZ,85204
+632,Street Non-DT,Free Standing,32.9423,-97.116,215 North Kimball Ave.,Southlake,TX,76092
+633,Mall,Food Court,37.3253,-121.9454,2855 Stevens Creek Blvd,Santa Clara,CA,95050
+635,Store in Store,Food Court,33.1037,-117.2687,6951 El Camino Real,Carlsbad,CA,92009
+638,Street Non-DT,End Cap,34.066,-117.2696,745 E. Hospitality Lane,San Bernardino,CA,92408
+639,Street Non-DT,End Cap,45.5181,-122.5598,10090 S.e. Washington St. #120,Portland,OR,97216
+640,Street Non-DT,In Line,33.6764,-111.9737,21001 Tatum Blvd,Phoenix,AZ,85050
+641,Mall,In Line,40.3917,-86.85,2415 Sagamore Pkwy.,Lafayette,IN,47905
+642,Casino,Food Court,36.2499,-115.2441,4949 North Rancho Drive,Las Vegas,NV,89130
+643,Street Non-DT,End Cap,34.4263,-118.5388,26447 Bouquet Canyon Road,Santa Clarita,CA,91350
+644,Street Non-DT,End Cap,39.7064,-105.082,7660 W. Virginia Ave Unit D,Lakewood,CO,80226
+647,Street DT,Free Standing,34.1901,-118.3272,1541 N. Victory Pl.,Burbank,CA,91506
+648,Street Non-DT,End Cap,38.2486,-122.6237,301 S. Mcdowell Blvd Space #a,Petaluma,CA,94952
+649,Street Non-DT,End Cap,33.8789,-117.9634,1931 W. Malvern Ave.,Fullerton,CA,92833
+650,Street Non-DT,End Cap,33.9158,-117.9686,1350 S Beach Blvd Suite A,La Habra,CA,90631
+651,Street Non-DT,End Cap,36.013,-114.964,591 College Drive Suite #d,Henderson,NV,89015
+655,Street Non-DT,End Cap,36.1195,-115.1381,3825 South Maryland Pky,Las Vegas,NV,89119
+657,Street Non-DT,End Cap,37.6542,-120.9587,801 Oakdale Road Space #b-1,Modesto,CA,95354
+658,Street Non-DT,In Line,37.7029,-121.065,3801 Pelandale Dr. Suite A-3,Modesto,CA,95356
+660,Store in Store,Food Court,34.0846,-118.3272,727 North Vine St.,Los Angeles,CA,90038
+662,Street Non-DT,End Cap,35.0806,-106.6137,2820 Central Ave S.e.,Albuquerque,NM,87106
+664,Mall,Food Court,33.981,-84.0808,5900 Sugarloaf Parkway #fc-5.,Lawrenceville,GA,30043
+669,Street Non-DT,End Cap,42.0125,-87.9602,930 Busse Rd.,Elk Grove Village,IL,60007
+674,Street Non-DT,End Cap,39.6197,-105.0167,5350 S Santa Fe Dr,Littleton,CO,80120
+676,Street Non-DT,End Cap,33.8592,-118.09,11449 South Street,Cerritos,CA,90703
+677,Street Non-DT,End Cap,41.8599,-88.006,411 E. Roosevelt Rd.,Lombard,IL,60148
+680,Street Non-DT,End Cap,33.9529,-84.2333,3200 Holcomb Bridge Rd.,Norcross,GA,30092
+682,Street DT,Free Standing,38.867,-77.229,3071 Gatehouse Plaza,Falls Church,VA,22042
+686,Street Non-DT,End Cap,39.5122,-104.7659,11153 South Parker Rd. Unite D,Parker,CO,80134
+687,Street Non-DT,End Cap,38.9381,-104.7606,3560 East Woodmen Rd Suite 140,Colorado Springs,CO,80920
+689,Street Non-DT,End Cap,35.384,-119.1048,9200 Rosedale Highway #300,Bakersfield,CA,93312
+690,Casino,In Line,35.1635,-114.5722,1900 S. Casino Dr.,Laughlin,NV,89029
+691,Street Non-DT,End Cap,42.1402,-87.9101,300 East Dundee Rd.,Wheeling,IL,60090
+692,Street Non-DT,End Cap,33.9168,-117.4536,9867 Magnolia Ave. Suite A,Riverside,CA,92503
+694,Street Non-DT,End Cap,45.4897,-122.795,11490 Sw Canyon Rd #100,Beaverton,OR,97005
+695,Street Non-DT,End Cap,34.0361,-84.5723,741 Townpark Lane Suite 10,Kennesaw,GA,30144
+696,Street Non-DT,End Cap,33.7182,-117.8856,2130 S. Bristol St. Space #b,Santa Ana,CA,92704
+697,Street Non-DT,End Cap,42.0075,-87.8858,7028 Mannheim Rd,Rosemont,IL,60018
+698,Street Non-DT,End Cap,34.2589,-119.2106,1722 Victoria Ave Space C,Ventura,CA,93003
+700,Street Non-DT,End Cap,38.8976,-104.8516,1320 Garden Of The Gods Road,Colorado Springs,CO,80907
+701,Mall,Food Court,45.0314,-93.022,3001 White Bear Ave,North Saint Paul,MN,55109
+702,Street Non-DT,In Line,40.7212,-111.543,1748 W. Redstone Ctr Drive,Park City,UT,84098
+703,Street Non-DT,End Cap,36.0654,-115.0367,641 Marks Street Suite D,Henderson,NV,89014
+704,Mall,In Line,40.0511,-82.9153,120 Easton Station,Columbus,OH,43219
+705,Street Non-DT,End Cap,36.8087,-119.8607,3698 West Shaw Ave,Fresno,CA,93711
+707,Street Non-DT,End Cap,30.4047,-97.6734,500 W. Canyon Ridge Dr. #l100,Austin,TX,78753
+708,Street Non-DT,End Cap,46.9996,-122.9155,575 Trosper Road Sw Suite A,Tumwater,WA,98512
+709,Mall,Food Court,42.246,-88.9756,7200 Harrison Ave,Rockford,IL,61112
+710,Street Non-DT,In Line,18.2396,-66.0412,Highway Pr 52 Bocanabon,Caguas,PR,725
+711,Street Non-DT,End Cap,39.9145,-104.976,901 East 120th Ave. Unit A,Thornton,CO,80233
+713,Street Non-DT,In Line,37.3001,-121.7716,4898 San Felipe Rd Suite 140,San Jose,CA,95135
+714,Street Non-DT,End Cap,32.8808,-97.102,1301 West Glade Suite 136,Euless,TX,76039
+715,Street Non-DT,End Cap,32.8074,-116.9613,131 Broadway Ave. Suite 1,El Cajon,CA,92021
+717,Street Non-DT,End Cap,33.7477,-116.9963,2350 West Florida Ave,Hemet,CA,92545
+719,Street Non-DT,End Cap,37.2671,-121.8326,171 Branham Lane Suite 7,San Jose,CA,95136
+720,Street Non-DT,End Cap,36.1015,-115.2054,4780 W. Tropicana Ave.,Las Vegas,NV,89103
+721,Street Non-DT,End Cap,39.6518,-104.8764,9500 East Hampden Ave. #d,Denver,CO,80231
+723,Store in Store,Food Court,34.155,-118.2448,561 North Glendale Ave,Glendale,CA,91206
+724,Street Non-DT,End Cap,40.2511,-111.6582,1240 N. University Ave,Provo,UT,84604
+725,Street Non-DT,End Cap,34.5566,-118.0448,37134 47th Street E.,Palmdale,CA,93552
+726,Street Non-DT,Free Standing,34.2013,-118.1939,700 Foothill Blvd.,La Canada Flintridge,CA,91011
+727,Street Non-DT,End Cap,33.5752,-117.7244,26841 Aliso Creek Dr Space A,Aliso Viejo,CA,92656
+729,Mall,In Line,33.1262,-117.3228,5630 Paseo Del Norte #141,Carlsbad,CA,92008
+730,Street Non-DT,End Cap,34.1538,-118.7964,5752 Lindero Canyon,Westlake Village,CA,91361
+731,Street Non-DT,Free Standing,33.6925,-117.9892,18575 Beach Blvd.,Huntington Beach,CA,92648
+733,Street Non-DT,End Cap,36.8389,-119.6837,1805 Herndon Ave #c,Clovis,CA,93611
+734,Street Non-DT,End Cap,37.3317,-121.811,2980 E. Capitol Expressway,San Jose,CA,95148
+735,Mall,Food Court,39.0459,-94.358,18813 E. 39th St. S,Independence,MO,64057
+737,Street Non-DT,End Cap,35.0837,-114.5971,2840 AZ-95,Bullhead City,AZ,86442
+738,Street Non-DT,End Cap,33.2004,-117.2452,20 Main St,Vista,CA,92084
+739,Street Non-DT,End Cap,32.8388,-116.9824,9862 Mission Gorge Rd. #g,Santee,CA,92071
+740,Street Non-DT,End Cap,41.7578,-111.8206,545 East 1400 North Suite 100,Logan,UT,84341
+741,Street Non-DT,End Cap,39.3759,-77.4117,5281 Buckeystown Pike,Frederick,MD,21703
+742,Mall,Food Court,44.0686,-123.105,293 Valley River Ctr,Eugene,OR,97401
+744,Street Non-DT,End Cap,33.2059,-117.2884,4121 Oceanside Blvd Suite 200,Oceanside,CA,92056
+745,Street Non-DT,End Cap,33.8009,-116.3886,34151 Monterey Ave. #105,Rancho Mirage,CA,92270
+748,Street Non-DT,End Cap,37.6728,-122.0853,783 A Street,Hayward,CA,94541
+749,Street Non-DT,End Cap,40.5264,-111.8889,64 East 12300 South St.,Draper,UT,84020
+751,Street Non-DT,End Cap,33.5089,-112.2647,9524 W. Camelback Rd Space 180,Glendale,AZ,85308
+752,Street Non-DT,End Cap,37.2908,-121.9924,1320 El Paseo De Saratoga,San Jose,CA,95130
+753,Street Non-DT,End Cap,36.1977,-115.2601,7560 W Lake Mead Blvd,Las Vegas,NV,89128
+754,Street Non-DT,End Cap,38.2597,-122.0588,1630 Gateway Blvd Suite A,Fairfield,CA,94533
+755,Street Non-DT,End Cap,33.4519,-111.6829,2015 N Power Rd,Mesa,AZ,85215
+757,Street Non-DT,End Cap,41.5067,-87.7303,4700 Lincoln Hwy,Matteson,IL,60443
+758,Street Non-DT,End Cap,32.7496,-117.1004,4371 University Ave. Suite 100,San Diego,CA,92105
+759,Street DT,Free Standing,34.12,-117.489,7376 Cherry Ave,Fontana,CA,92336
+760,Street Non-DT,End Cap,39.7677,-104.9006,7507 E 36th Avenue Suite 103,Denver,CO,80207
+761,Street Non-DT,End Cap,39.3265,-120.2058,11262 Donner Pass Road Suite A,Truckee,CA,96161
+762,Street Non-DT,End Cap,34.2365,-119.0375,2500 Las Posas Rd. #f,Camarillo,CA,93010
+763,Street Non-DT,End Cap,33.4806,-112.2211,7510 West Thomas Rd.,Phoenix,AZ,85033
+764,Street Non-DT,In Line,33.1328,-117.062,1485 E. Valley Parkway,Escondido,CA,92027
+765,Street Non-DT,In Line,32.752,-117.2061,3146 Sports Arena Blvd. #2,San Diego,CA,92110
+766,Street Non-DT,End Cap,37.7062,-121.9274,6851 Amador Plaza Rd Space 101,Dublin,CA,94568
+767,Mall,Food Court,39.7319,-105.1581,14500 W Colfax Ave Fc-8,Golden,CO,80401
+769,Street Non-DT,End Cap,33.1374,-117.1784,670 W. San Marcos Blvd.,San Marcos,CA,92069
+770,Street Non-DT,End Cap,33.5943,-112.2207,7521 W. Cactus Road Space 104,Peoria,AZ,85381
+771,Street Non-DT,In Line,37.7102,-122.1632,1271 Marina Blvd,San Leandro,CA,94577
+772,Mall,In Line,42.7122,-88.9998,2500 Milton Ave.,Janesville,WI,53545
+773,Street Non-DT,End Cap,39.7177,-86.3559,2667 E. Main St.,Plainfield,IN,46168
+776,Street Non-DT,End Cap,39.4751,-119.7922,5140 Kietzke Lane Suite E,Reno,NV,89509
+777,Street Non-DT,End Cap,39.541,-119.7161,745 Sparks Blvd #105,Sparks,NV,89434
+778,Street Non-DT,End Cap,33.4653,-112.2773,10110 Mcdowell #150,Avondale,AZ,85323
+780,Street Non-DT,End Cap,40.6094,-111.9806,3758 West 7800 South #c,West Jordan,UT,84088
+781,Street Non-DT,End Cap,40.3646,-111.7531,148 S. Pleasant Grove Blvd,Pleasant Grove,UT,84062
+782,Street Non-DT,End Cap,33.293,-111.8227,1020 E. Pecos Road #9,Chandler,AZ,85225
+783,Street Non-DT,End Cap,33.7728,-118.1897,501 Long Beach Blvd.,Long Beach,CA,90802
+784,Street Non-DT,End Cap,32.8311,-117.1305,9211 Clairemont Mesa Blvd.,San Diego,CA,92123
+785,Street Non-DT,End Cap,37.5213,-120.8808,3180 Country Side Dr,Turlock,CA,95380
+786,University,Food Court,32.8797,-117.2366,9500 Gilman Dr,La Jolla,CA,92093
+787,Mall,Food Court,42.5364,-83.1116,498 W 14 Mile Rd,Troy,MI,48083
+788,Street Non-DT,End Cap,33.5843,-111.9768,10637 N Tatum Blvd #105,Phoenix,AZ,85028
+789,Street Non-DT,End Cap,38.7141,-121.3672,4141 Elverta Rd. Space # 10,Antelope,CA,95843
+790,Street DT,Free Standing,39.3362,-76.4903,6419 Petrie Way,Rosedale,MD,21237
+791,Street Non-DT,End Cap,33.7218,-116.3646,74520 Hwy. 111 #1,Palm Desert,CA,92260
+792,Street Non-DT,In Line,34.1267,-118.2634,2919 Los Feliz Blvd #4,Los Angeles,CA,90039
+795,Street Non-DT,End Cap,38.3484,-122.7197,431 Rohnert Park,Rohnert Park,CA,94928
+796,Street Non-DT,End Cap,34.0958,-118.1267,5 E. Main St.,Alhambra,CA,91801
+797,Street Non-DT,End Cap,39.7129,-104.8211,14302 E. Cedar Ave. Unit A,Aurora,CO,80012
+798,Mall,Food Court,33.7242,-116.3943,72840 CA-111 #347,Palm Desert,CA,92260
+799,Street Non-DT,End Cap,36.0127,-115.136,1263 E. Silverado Ranch Blvd,Las Vegas,NV,89123
+800,Street DT,Free Standing,34.986,-118.9464,5810 Dennis Mccarthy Blvd,Lebec,CA,93243
+801,Mall,Food Court,34.4157,-118.5578,24201 West Valencia Blvd. #122,Valencia,CA,91355
+802,University,Food Court,38.9886,-76.9392,University Of Maryland,College Park,MD,20742
+803,Street Non-DT,End Cap,33.6727,-112.2379,20783 N 83rd Ave #106,Peoria,AZ,85382
+804,Street Non-DT,End Cap,33.932,-118.184,10923 Atlantic Blvd.,Lynwood,CA,90262
+806,Street Non-DT,End Cap,34.4081,-118.579,26826 The Old Rd,Valencia,CA,91355
+807,Street Non-DT,End Cap,37.7556,-121.4665,2441 N. Naglee Rd. Space# 7f,Tracy,CA,95304
+808,Street Non-DT,End Cap,37.9913,-122.3065,1473 Fitzgerald Dr. Suite 101,Pinole,CA,94564
+809,Street Non-DT,End Cap,37.1266,-113.6021,1091 N. Bluff St. Space# 104,Saint George,UT,84770
+810,Street Non-DT,End Cap,43.6149,-116.2838,1124 N. Milwaukee,Boise,ID,83709
+811,Street Non-DT,End Cap,32.6481,-116.9661,2295 Otay Lakes Rd,Chula Vista,CA,91915
+812,Street Non-DT,End Cap,33.5522,-112.2579,9230 W Northern Ave Unit 101,Glendale,AZ,85305
+813,Street Non-DT,End Cap,33.3362,-111.7906,756 South Gilbert Rd,Gilbert,AZ,85296
+815,Street Non-DT,End Cap,47.7003,-117.4445,2223 W. Wellesley Rd Space A,Spokane,WA,99205
+816,Street Non-DT,End Cap,34.2162,-119.0717,199 West Ventura Blvd,Camarillo,CA,93010
+817,Mall,Food Court,45.6583,-122.5837,8700 Ne Vancouver Mall Dr.,Vancouver,WA,98662
+818,Street Non-DT,End Cap,40.884,-111.8864,245 West 500 South Space B,Bountiful,UT,84010
+819,Street Non-DT,Free Standing,38.8725,-104.7175,2850 New Center Point Drive,Colorado Springs,CO,80922
+820,Street Non-DT,End Cap,41.2444,-111.9751,206 E 12th Street Suite D,Ogden,UT,84404
+821,Street Non-DT,End Cap,33.4632,-112.3415,1550 N Dysart Rd a11,Goodyear,AZ,85338
+822,Street Non-DT,End Cap,33.9459,-118.3313,3351 W. Century Blvd Space 101,Inglewood,CA,90303
+825,Street Non-DT,End Cap,37.6948,-121.7465,4223 First Street,Livermore,CA,94551
+826,Street Non-DT,End Cap,38.7304,-121.2734,970 Sunrise Ave Space #170,Roseville,CA,95661
+827,Street Non-DT,End Cap,18.3586,-66.1111,"State Road #20, Km 3.4.",Guaynabo,PR,969
+830,Street DT,Free Standing,37.0573,-120.8228,2108 Pacheco Blvd,Los Banos,CA,93635
+832,Street DT,Free Standing,37.3187,-120.4978,1786 W. Olive Ave.,Merced,CA,95348
+833,Street Non-DT,Food Court,36.1193,-115.1718,3475 S. Las Vegas Boulevard,Las Vegas,NV,89109
+834,Street Non-DT,End Cap,33.4812,-117.0969,32195 Highway 79 Suite C,Temecula,CA,92592
+835,Casino,Food Court,38.8404,-121.314,1200 Athens Ave,Lincoln,CA,95648
+836,Street Non-DT,In Line,37.1511,-121.6547,250 Cochrane Plaza,Morgan Hill,CA,95037
+837,Street Non-DT,End Cap,35.3555,-119.0584,5120 Stockdale Hwy Space A,Bakersfield,CA,93309
+838,Mall,Food Court,37.2525,-121.863,925 Blossom Hill Rd.,San Jose,CA,95123
+839,Street Non-DT,End Cap,38.0204,-121.3197,616 W. Hammer Ln. Space A,Stockton,CA,95207
+840,Street DT,Free Standing,36.3285,-119.6726,1690 W Lacey Blvd Space A,Hanford,CA,93230
+842,Street Non-DT,End Cap,34.1072,-117.6115,8880 Foothill Blvd Space C-1,Rancho Cucamonga,CA,91730
+844,Street Non-DT,End Cap,37.9625,-121.7373,5789 Lone Tree Way Space B,Antioch,CA,94509
+845,Street Non-DT,End Cap,37.7832,-122.4324,1480 Fillmore St.,San Francisco,CA,94115
+846,Street Non-DT,End Cap,40.5549,-112.2976,1181 North Main Street,Tooele,UT,84074
+848,Street Non-DT,End Cap,40.5595,-111.9382,10555 S. Redwood Rd. Suite B,South Jordan,UT,84095
+849,Street DT,Free Standing,38.5906,-121.5546,735 Harbor Point Place,West Sacramento,CA,95605
+850,Street DT,Free Standing,37.6681,-121.0302,2053 Evergreen Ave,Modesto,CA,95350
+851,Street Non-DT,End Cap,36.1253,-115.2462,7017 Spring Mountain Road,Las Vegas,NV,89117
+852,Street DT,Free Standing,32.894,-97.2582,8440 Denton Hwy,Watauga,TX,76148
+854,Street Non-DT,End Cap,34.0913,-84.276,5230 Windward Parkway,Alpharetta,GA,30004
+856,Street Non-DT,End Cap,40.6695,-111.9858,4645 South 4000 West Space A1,West Valley City,UT,84120
+857,Street Non-DT,End Cap,41.1888,-111.9839,4115 Riverdale Road Space A,Riverdale,UT,84405
+859,Street Non-DT,End Cap,36.7801,-119.7865,2045 E. Shields Ave.,Fresno,CA,93726
+860,Street Non-DT,In Line,33.7587,-117.8346,2270-2272 17th St.,Santa Ana,CA,92705
+861,Street Non-DT,End Cap,35.2939,-120.6723,789 E. Foothill Blvd,San Luis Obispo,CA,93405
+862,Street Non-DT,End Cap,35.6927,-105.9507,500 N. Guadalupe,Santa Fe,NM,87501
+863,Street Non-DT,End Cap,33.2176,-111.8264,975 E. Riggs Rd Space 1,Chandler,AZ,85249
+864,Street Non-DT,End Cap,33.7919,-118.1379,1994 Ximeno Ave,Long Beach,CA,90815
+865,Street Non-DT,End Cap,33.5227,-112.1521,4309 W. Bethany Home Rd,Glendale,AZ,85301
+866,Street Non-DT,End Cap,36.2928,-119.3121,4134 S. Mooney Blvd.,Visalia,CA,93277
+867,Street Non-DT,End Cap,38.9267,-94.4063,1684 Nw Chipman Road,Lees Summit,MO,64081
+868,Street Non-DT,Food Court,34.8914,-116.999,1611 E. Main St.,Barstow,CA,92311
+870,Street Non-DT,End Cap,36.2612,-115.1808,5595 Simmons St.,North Las Vegas,NV,89031
+871,Street Non-DT,In Line,33.6957,-117.7988,15333 Culver Drive Space #400,Irvine,CA,92604
+874,Street DT,Free Standing,36.1418,-115.1192,2625 S Eastern Ave.,Las Vegas,NV,89102
+875,Street Non-DT,End Cap,37.4343,-121.9002,70 N. Milpitas Blvd.,Milpitas,CA,95035
+876,Street Non-DT,End Cap,32.8791,-111.7123,1747 E. Florence Blvd.,Casa Grande,AZ,85122
+877,Street DT,Free Standing,34.0289,-117.836,558 Grand Ave.,Walnut,CA,91789
+878,Street DT,Free Standing,37.0035,-121.5514,6975 Camino Arroyo,Gilroy,CA,95020
+879,Street Non-DT,Free Standing,38.9042,-104.7738,5071 N. Academy Blvd.,Colorado Springs,CO,80918
+881,Street Non-DT,End Cap,33.3769,-111.6373,9115 E. Baseline Rd,Mesa,AZ,85208
+882,Street DT,Free Standing,33.5692,-112.1856,9111 North 59th Ave,Glendale,AZ,85302
+883,Casino,Food Court,35.0157,-114.6412,10000 Aha Macav Pkwy,Laughlin,NV,89029
+884,Mall,Food Court,47.0419,-122.9338,625 Black Lake Blvd. Space Fc3,Olympia,WA,98502
+885,University,Food Court,32.7721,-117.0727,5500 Campanile Dr.,San Diego,CA,92182
+886,Street Non-DT,End Cap,33.563,-117.6294,27602 Antonio Parkway,Ladera Ranch,CA,92694
+887,Street Non-DT,End Cap,37.9993,-121.3154,5350 Pacific Ave. Space J1,Stockton,CA,95207
+888,Street Non-DT,End Cap,34.0857,-117.8705,980 E. Badillo St.,Covina,CA,91724
+889,Street Non-DT,End Cap,36.0957,-115.2967,5130 S. Fort Apache Road.,Las Vegas,NV,89148
+890,Street Non-DT,End Cap,34.5882,-112.34,3140 N Glassford Hill Road,Prescott Valley,AZ,86314
+891,Casino,Food Court,36.1978,-115.1919,2101 Texas Star Lane,North Las Vegas,NV,89032
+892,Street Non-DT,End Cap,33.8891,-117.3242,8974 Trautwein Road Space B,Riverside,CA,92508
+893,Street Non-DT,End Cap,34.113,-117.7603,2371 Foothill Blvd.,La Verne,CA,91750
+896,Street DT,Free Standing,40.2968,-111.6937,80 East Center St.,Orem,UT,84057
+897,Street Non-DT,In Line,34.439,-119.7492,3849 State St. Space I-58,Santa Barbara,CA,93101
+898,Street Non-DT,End Cap,34.4061,-118.4663,26913 Sierra Hwy,Santa Clarita,CA,91321
+901,Street Non-DT,End Cap,18.4069,-66.1648,Caribbean Cinemas Boulevard 90,Bayamon,PR,961
+903,Street Non-DT,End Cap,38.4184,-122.7124,2020 Santa Rosa Ave.,Santa Rosa,CA,95407
+905,Street Non-DT,End Cap,38.1151,-121.3085,2624 W Kettleman Ln,Lodi,CA,95242
+906,Mall,Food Court,36.1035,-115.1723,3785 S. Las Vegas Blvd.,Las Vegas,NV,89109
+907,Street Non-DT,In Line,37.5768,-122.3491,1453 Burlingame Ave.,Burlingame,CA,94010
+908,Street Non-DT,End Cap,32.8111,-96.6245,1715 N. Town East Blvd.,Mesquite,TX,75150
+909,Street Non-DT,End Cap,33.8171,-116.53,425 S. Sunrise Way,Palm Springs,CA,92262
+910,Street DT,Free Standing,34.0735,-84.1653,3585 Peachtree Parkway,Suwanee,GA,30024
+912,Street Non-DT,End Cap,29.4891,-98.5355,1803 Vance Jackson Rd,San Antonio,TX,78213
+913,Street Non-DT,In Line,33.9694,-118.1642,7000 Eastern Ave.,Bell Gardens,CA,90201
+914,Street Non-DT,End Cap,31.5344,-97.1925,5401 Bosque Blvd. Suite #100,Waco,TX,76710
+915,Street Non-DT,End Cap,36.0398,-114.9804,120 E. Lake Mead Parkway,Henderson,NV,89015
+916,Street Non-DT,End Cap,38.6615,-121.3548,4701 Madison Ave.,Sacramento,CA,95841
+918,Street Non-DT,End Cap,33.6577,-84.5007,3360 Shelby Lane Suite #1060,East Point,GA,30344
+919,Street Non-DT,Free Standing,34.0487,-118.0839,1683 Walnut Grove Av,Rosemead,CA,91770
+921,Street Non-DT,End Cap,29.3523,-98.4365,3207 Se Military Dr #104,San Antonio,TX,78223
+923,Street Non-DT,End Cap,33.893,-118.3531,15207 Hawthorne Blvd,Lawndale,CA,90260
+924,Street Non-DT,End Cap,32.2069,-110.7884,9565 E. 22nd Street,Tucson,AZ,85748
+925,Street Non-DT,End Cap,38.748,-121.2535,1450 Lead Hill Blvd,Roseville,CA,95678
+926,Street Non-DT,End Cap,36.174,-115.0797,4416 E. Bonanza Blvd,Las Vegas,NV,89110
+932,Street Non-DT,End Cap,35.1205,-120.6057,1401 E. Grand Ave.,Arroyo Grande,CA,93420
+934,Street Non-DT,End Cap,39.11,-119.7767,921 Topsy Lane,Carson City,NV,89705
+939,Street Non-DT,End Cap,36.7943,-119.6827,3170 N. Fowler Ave.,Clovis,CA,93611
+941,Street DT,Free Standing,33.1989,-117.3746,1068 Mission Ave.,Oceanside,CA,92054
+943,Street Non-DT,End Cap,36.7006,-121.6167,1570 Constitution Blvd.,Salinas,CA,93906
+944,Street Non-DT,End Cap,39.2875,-76.7361,5860 Baltimore National Pike,Catonsville,MD,21228
+945,Street Non-DT,End Cap,34.201,-118.8678,1744 Moorpark Rd,Thousand Oaks,CA,91360
+946,Street Non-DT,End Cap,33.1337,-117.1222,708 Center Dr.,San Marcos,CA,92069
+947,Street Non-DT,In Line,33.6582,-111.9305,"7000 E. Mayo, Suite 1026",Phoenix,AZ,85054
+948,Street Non-DT,End Cap,34.136,-118.2153,4947 Eagle Rock Blvd,Los Angeles,CA,90041
+949,Street Non-DT,End Cap,33.4495,-111.7349,4425 E. Mckellips Rd.,Mesa,AZ,85215
+950,Street Non-DT,End Cap,37.9247,-121.7233,3140 Balfour Rd.,Brentwood,CA,94513
+951,Street Non-DT,End Cap,33.2648,-111.6856,8495 S. Power Road,Queen Creek,AZ,85142
+952,Street DT,Free Standing,29.4925,-98.4353,1446 Austin Hwy.,San Antonio,TX,78209
+953,Street DT,Free Standing,33.816,-116.4594,68900 Ramon Rd,Cathedral City,CA,92234
+955,Street Non-DT,End Cap,37.3226,-122.0411,21000 Stevens Creek Blvd,Cupertino,CA,95014
+957,Street Non-DT,End Cap,35.2962,-119.0268,2200 Panama Lane,Bakersfield,CA,93307
+958,Street Non-DT,End Cap,36.2263,-119.3282,1196 E Prosperity,Tulare,CA,93274
+960,Street Non-DT,End Cap,32.6093,-117.0811,1120 Broadway,Chula Vista,CA,91911
+961,Street Non-DT,End Cap,30.6184,-96.3234,1400 Texas Ave. South,College Station,TX,77840
+962,Street Non-DT,End Cap,38.7701,-76.8889,"8871 Branch Ave., Suite #e",Clinton,MD,20735
+963,Street Non-DT,End Cap,33.8915,-117.2077,25970 Iris Ave.,Moreno Valley,CA,92551
+964,Travel Plaza,Food Court,42.234,-88.8348,2510-2518 Pearl St.,Belvidere,IL,61008
+966,Street DT,Free Standing,41.088,-111.9837,1950 North 1000 West,Layton,UT,84041
+967,Street Non-DT,End Cap,33.8773,-84.0122,1830 Scenic Highway 124,Snellville,GA,30078
+970,Street Non-DT,End Cap,38.5684,-121.4862,1802 19th Street,Sacramento,CA,95814
+971,Street DT,End Cap,36.2161,-115.9933,280 S. Nevada Hwy 160,Pahrump,NV,89048
+972,Street Non-DT,End Cap,37.6525,-122.1043,24387 Southland Dr.,Hayward,CA,94545
+973,Street Non-DT,End Cap,34.4416,-119.8329,131 N. Fairview Ave.,Goleta,CA,93117
+974,Street Non-DT,End Cap,38.3043,-77.5095,1680 Carl D Silver Pky,Fredericksburg,VA,22401
+975,Street Non-DT,End Cap,33.5542,-117.1965,25312 Madison Ave.,Murrieta,CA,92562
+976,Street Non-DT,End Cap,36.2813,-115.2873,6630 N. Durango Dr,Las Vegas,NV,89149
+979,Street DT,End Cap,33.047,-97.0102,101 N. Stemmons Fwy.,Lewisville,TX,75067
+981,Street Non-DT,End Cap,36.6188,-121.8418,1968 Del Monte Ave,Seaside,CA,93955
+982,Street Non-DT,End Cap,33.8478,-118.3885,417 N. Pacific Coast Hwy,Redondo Beach,CA,90277
+983,Street DT,Free Standing,33.8268,-84.0973,4875 Stone Mountain Hwy,Lilburn,GA,30047
+985,Street Non-DT,End Cap,33.0071,-96.9792,2325 S. Stemmons Fwy,Lewisville,TX,75067
+986,Street DT,Free Standing,41.526,-87.4706,10329 Indianapolis Blvd.,Highland,IN,46322
+987,Mall,Food Court,34.1123,-117.5343,12434 N. Main St.,Rancho Cucamonga,CA,91739
+988,Street Non-DT,End Cap,34.6903,-118.0952,44421 20th Street East,Lancaster,CA,93535
+989,Street Non-DT,End Cap,32.1625,-110.9901,1209 W. Irvington Road,Tucson,AZ,85706
+990,Street Non-DT,In Line,41.83,-88.1056,264 Danada Square West,Wheaton,IL,60187
+991,Theme Park,Free Standing,34.1379,-118.3529,100 Universal City Plaza,Universal City,CA,91608
+992,Street Non-DT,End Cap,32.8536,-96.7684,5500 Greenville Ave,Dallas,TX,75206
+993,Street Non-DT,End Cap,36.8734,-119.7767,9423 N. Fort Washington Rd.,Fresno,CA,93720
+994,University,Food Court,36.8127,-119.7484,5280 North Jackson Ave.,Fresno,CA,93740
+995,Street Non-DT,End Cap,33.847,-117.9887,8317 La Palma Ave.,Buena Park,CA,90620
+996,Street Non-DT,End Cap,34.1937,-118.6262,22910 W. Vanowen St.,West Hills,CA,91307
+997,Street Non-DT,End Cap,32.5912,-96.9355,455 E. F.m. 1382,Cedar Hill,TX,75104
+998,Street Non-DT,End Cap,38.1334,-122.2225,972 Admiral Callaghan Lane,Vallejo,CA,94591
+999,Street Non-DT,End Cap,30.4535,-97.8263,11521 N. Fm. 620 Rd.,Austin,TX,78726
