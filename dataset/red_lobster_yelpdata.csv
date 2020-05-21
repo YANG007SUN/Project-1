@@ -1,0 +1,697 @@
+,Address,Zip Code,Latitude,Longitude,yelp_rating,price_tag,review_count,business_name
+0,"1805 Opelika Rd, Auburn, AL 36830",36830,32.626715999999995,-85.443242,2.5,$$,26.0,red-lobster-auburn
+1,"3525 Roosevelt Blvd, Birmingham, AL 35235",35235,33.605686999999996,-86.635594,3.0,$$,44.0,red-lobster-birmingham-2
+2,"2027 Beltline Rd SW, Decatur, AL 35601",35601,34.5778,-87.019933,2.0,,13.0,red-lobster-decatur-2
+3,"3116 Montgomery Hwy, Dothan, AL 36303",36303,31.252109,-85.427155,3.0,$$,26.0,red-lobster-dothan
+4,"243 Cox Creek Pkwy, Florence, AL 35630",35630,34.834153,-87.630025,3.0,$$$,6.0,red-lobster-florence-3
+5,"1725 Rainbow Dr, Gadsden, AL 35901",35901,33.980628,-86.007564,3.0,$$,26.0,red-lobster-gadsden
+6,"1818 University Dr NW, Huntsville, AL 35801",35801,34.741258,-86.599288,2.5,$$,41.0,red-lobster-huntsville
+7,"3941 Airport Blvd, Mobile, AL 36608",36608,30.675613000000002,-88.146068,3.0,$$,32.0,red-lobster-mobile
+8,"300 Eastdale Cir, Montgomery, AL 36117",36117,32.38259,-86.207348,2.5,$$,36.0,red-lobster-montgomery
+9,"515 Quintard Drive, Oxford, AL 36203",36203,33.616783,-85.827221,2.5,$$,20.0,red-lobster-oxford
+10,"2620 McFarland Blvd E, Tuscaloosa, AL 35405",35405,33.185072999999996,-87.526797,2.5,$$,27.0,red-lobster-tuscaloosa
+11,"1030 Montgomery Hwy, Vestavia Hills, AL 35216",35216,33.43865,-86.789728,2.5,$$,72.0,red-lobster-vestavia-hills
+12,"7240 W Ray Rd, Chandler, AZ 85226",85226,33.320471000000005,-111.96779199999999,3.0,$$,163.0,red-lobster-chandler-2
+13,"6149 E Southern Ave, Superstition Springs Mall Cir East, Mesa, AZ 85206",85206,33.39347,-111.69845900000001,3.0,$$,102.0,red-lobster-east-mesa-2
+14,"1403 S Alma School Rd, Fiesta Mall, Mesa, AZ 85210",85210,33.387793,-111.85681299999999,3.5,$$,158.0,red-lobster-mesa-2
+15,"2500 S Beulah Blvd, Flagstaff, AZ 86001",86001,35.176703,-111.66251499999998,3.5,$$,85.0,red-lobster-flagstaff
+16,"3845 S Gilbert Rd, Gilbert, AZ 85297",85297,33.280351,-111.789189,3.5,$$,144.0,red-lobster-gilbert
+17,"15311 W McDowell Rd, Goodyear, AZ 85395",85395,33.464166,-112.38848300000001,3.0,$$,127.0,red-lobster-goodyear
+18,"11695 N Oracle Rd, Oro Valley, AZ 85737",85737,32.418603999999995,-110.938204,3.0,$$,50.0,red-lobster-oro-valley
+19,"7921 W Bell Rd, Peoria, AZ 85382",85382,33.637768,-112.229603,3.0,$$,166.0,red-lobster-peoria
+20,"10220 N 28th Dr, Phoenix, AZ 85051",85051,33.579057,-112.122169,3.0,$$,134.0,red-lobster-phoenix
+21,"2810 N 75th Ave, Phoenix, AZ 85035",85035,33.478782,-112.22127900000001,2.5,$$,60.0,red-lobster-phoenix-2
+22,"4802 E Cactus Rd, Scottsdale, AZ 85254",85254,33.598226000000004,-111.97756799999999,3.0,$$,181.0,red-lobster-scottsdale
+23,"13709 W Bell Rd, Surprise, AZ 85374",85374,33.638333,-112.350904,3.0,$$,112.0,red-lobster-surprise
+24,"Phoenix, AZ 85042",85042,33.3911169,-111.9800592,3.0,$$,163.0,red-lobster-chandler-2
+25,"1821 E State Rte 69, Prescott, AZ 86301",86301,34.549467,-112.43501699999999,3.5,$$,75.0,red-lobster-prescott
+26,"5061 N Oracle Rd, Tucson, AZ 85704",85704,32.297953,-110.97906699999999,3.0,$$,82.0,red-lobster-tucson-2
+27,"5315 S Calle Santa Cruz, Tucson, AZ 85706",85706,32.155301,-110.98728500000001,3.5,$$,63.0,red-lobster-tucson
+28,"5870 E Broadway Blvd Suite E-5, Tucson, AZ 85711",85711,32.221076000000004,-110.86799099999999,3.0,$$,109.0,red-lobster-tucson-3
+29,"1521 S, Yuma Palms Pkwy, Yuma, AZ 85365",85365,32.699676000000004,-114.60183799999999,3.0,$$,70.0,red-lobster-yuma
+30,"3885 N Shiloh Dr, Fayetteville, AR 72703",72703,36.122318,-94.145804,3.5,$$,18.0,red-lobster-fayetteville-2
+31,"7401 Rogers Ave, Fort Smith, AR 72903",72903,35.353029,-94.35036099999999,2.5,$$,25.0,red-lobster-fort-smith
+32,"4500 Central Ave, Hot Springs, AR 71913",71913,34.451256,-93.078929,3.5,$$,27.0,red-lobster-hot-springs
+33,"2642 Red Wolf Blvd, Jonesboro, AR 72401",72401,35.810915,-90.668653,2.5,$$,23.0,red-lobster-jonesboro-2
+34,"8407 W Markham St, Little Rock, AR 72205",72205,34.751995,-92.367239,3.0,$$,36.0,red-lobster-little-rock
+35,"3707 McCain Blvd, North Little Rock, AR 72116",72116,34.792937,-92.230257,3.0,$$,52.0,red-lobster-north-little-rock
+36,"The Pines Mall, 3000 Pines Mall Dr, Pine Bluff, AR 71601",71601,34.208459999999995,-91.970558,2.5,$$,11.0,red-lobster-pine-bluff
+37,"1710 S 46th St, Rogers, AR 72758",72758,36.316262,-94.183881,3.5,$$,47.0,red-lobster-rogers
+38,"8180 Rosedale Hwy, Bakersfield, CA 93312",93312,35.383860999999996,-119.093014,3.0,$$,194.0,red-lobster-bakersfield
+39,"250 Brea Mall Way, Brea, CA 92821",92821,33.915278,-117.883224,3.5,$$,417.0,red-lobster-brea
+40,"22800 Vanowen St Ave, Canoga Park, CA 91307",91307,34.193374,-118.62378000000001,3.0,$$,538.0,red-lobster-canoga-park
+41,"2010 Business Ln, Chico, CA 95928",95928,39.726287,-121.806513,2.5,$$,88.0,red-lobster-chico
+42,"598 H St, Chula Vista, CA 91910",91910,32.630734999999994,-117.08910800000001,3.0,$$,291.0,red-lobster-chula-vista-3
+43,"6231 Sunrise Blvd, Citrus Heights, CA 95610",95610,38.679483000000005,-121.27221899999999,3.0,$$,349.0,red-lobster-citrus-heights
+44,"17601 East, Castleton St, City of Industry, CA 91748",91748,33.994442,-117.919629,3.0,$$,350.0,red-lobster-city-of-industry-2
+45,"1525 Travis Blvd, Fairfield, CA 94533",94533,38.258468,-122.057722,3.0,$$,241.0,red-lobster-fairfield
+46,"39401 Fremont Blvd, Fremont, CA 94538",94538,37.544978,-121.98253999999999,2.5,$$,579.0,red-lobster-fremont
+47,"1460 E Shaw Ave, Fresno, CA 93710",93710,36.808919,-119.761948,3.5,$$,186.0,red-lobster-fresno
+48,"12892 Harbor Blvd, Garden Grove, CA 92840",92840,33.77555,-117.91750800000001,3.0,$$,582.0,red-lobster-garden-grove
+49,"3400 W Century Blvd, Inglewood, CA 90303",90303,33.945231,-118.331305,2.5,$$,527.0,red-lobster-inglewood
+50,"8703 Murray Dr, La Mesa, CA 91942",91942,32.775721000000004,-117.010834,2.5,$$,414.0,red-lobster-la-mesa
+51,"4333 Candlewood St, Lakewood, CA 90712",90712,33.854124,-118.141097,3.0,$$,533.0,red-lobster-lakewood
+52,"503 E Calaveras Blvd, Milpitas, CA 95035",95035,37.433246000000004,-121.896325,3.0,$$,517.0,red-lobster-milpitas
+53,"3000 Sisk Rd, Modesto, CA 95350",95350,37.682462,-121.049231,3.0,$$,304.0,red-lobster-modesto
+54,"928 W Huntington Dr, Monrovia, CA 91016",91016,34.139736,-118.01893100000001,3.5,$$,569.0,red-lobster-monrovia
+55,"9345 Monte Vista Ave, Montclair, CA 91763",91763,34.084115999999995,-117.697225,3.0,$$,296.0,red-lobster-montclair
+56,"El Camino Real, 2471 Vista Way, Oceanside, CA 92054",92054,33.181665,-117.334428,3.5,$$,340.0,red-lobster-oceanside
+57,"4413 E, Mills Cir, Ontario, CA 91764",91764,34.076976,-117.55668700000001,3.0,$$,362.0,red-lobster-ontario
+58,"1740 Ventura Blvd, Oxnard, CA 93036",93036,34.224548999999996,-119.154705,3.0,$$,226.0,red-lobster-oxnard
+59,"72291 CA-111, Palm Desert, CA 92260",92260,33.728929,-116.40376,3.0,$$,252.0,red-lobster-palm-desert
+60,"1041 W Avenue P, Palmdale, CA 93551",93551,34.605123999999996,-118.148905,3.0,$$,218.0,red-lobster-palmdale
+61,"4095 Century Blvd, Pittsburg, CA 94565",94565,38.007622,-121.843883,3.5,$$,262.0,red-lobster-pittsburg
+62,"1345 Dana Dr, Redding, CA 96003",96003,40.585285,-122.346915,3.5,$$,88.0,red-lobster-redding
+63,"3700 Park Sierra Dr, Riverside, CA 92505",92505,33.903726,-117.47153700000001,3.0,$$,363.0,red-lobster-riverside
+64,"6440 Redwood Dr, Rohnert Park, CA 94928",94928,38.347423,-122.714901,3.0,$$,179.0,red-lobster-rohnert-park
+65,"1400 Howe Ave, Sacramento, CA 95825",95825,38.591155,-121.41486200000001,3.0,$$,472.0,red-lobster-sacramento
+66,"1720 N Main St, Salinas, CA 93906",93906,36.716227,-121.654473,3.5,$$,135.0,red-lobster-salinas
+67,"195 E Hospitality Ln, San Bernardino, CA 92408",92408,34.065644,-117.28380600000001,3.0,$$,284.0,red-lobster-san-bernardino
+68,"1210 El Camino Real, San Bruno, CA 94066",94066,37.638774,-122.42178100000001,3.0,$$,614.0,red-lobster-san-bruno
+69,"8330 Mira Mesa Blvd, San Diego, CA 92126",92126,32.913129999999995,-117.144782,3.5,$$,352.0,red-lobster-san-diego
+70,"3780 Sports Arena Blvd, San Diego, CA 92110",92110,32.754811,-117.21668000000001,3.0,$$,332.0,red-lobster-san-diego-2
+71,"2040 Aborn Rd, San Jose, CA 95121",95121,37.310955,-121.80773500000001,3.0,$$,323.0,red-lobster-san-jose
+72,"5343 Almaden Expy, San Jose, CA 95118",95118,37.252342999999996,-121.87621999999999,2.5,$$,501.0,red-lobster-san-jose-2
+73,"1525 S Bradley Rd, Santa Maria, CA 93454",93454,34.93319,-120.41854599999999,3.5,$$,139.0,red-lobster-santa-maria
+74,"2283 W March Ln, Stockton, CA 95207",95207,37.98622,-121.334376,3.0,$$,250.0,red-lobster-stockton
+75,"41649 Margarita Rd, Temecula, CA 92591",92591,33.520215,-117.1526,3.0,$$,348.0,red-lobster-temecula
+76,"21233 Hawthorne Blvd, Torrance, CA 90503",90503,33.836236,-118.35645900000002,3.0,$$,441.0,red-lobster-torrance
+77,"27524 The Old Rd, Valencia, CA 91355",91355,34.421369,-118.58326799999999,3.0,$$,361.0,red-lobster-valencia
+78,"1180 Admiral Callaghan Ln, Vallejo, CA 94591",94591,38.13521,-122.21503700000001,3.0,$$,356.0,red-lobster-vallejo
+79,"12180 Amargosa Rd, Victorville, CA 92392",92392,34.472065,-117.34616899999999,3.5,$$,195.0,red-lobster-victorville
+80,"1545 S Mooney Blvd, Visalia, CA 93277",93277,36.316696,-119.314574,3.0,$$,116.0,red-lobster-visalia
+81,"6139 S Southlands Pkwy, Aurora, CO 80016",80016,39.604723,-104.71149100000001,2.5,$$,96.0,red-lobster-aurora
+82,"10854 E Alameda Ave, Aurora, CO 80012",80012,39.710633,-104.86201000000001,3.0,$$,84.0,red-lobster-aurora-3
+83,"9067 East, Westview Rd, Lone Tree, CO 80124",80124,39.565523,-104.88386200000001,3.0,$$,95.0,red-lobster-lone-tree-3
+84,"8268 E, Northfield Blvd, Denver, CO 80238",80238,39.779486999999996,-104.89305300000001,2.5,$$,82.0,red-lobster-denver
+85,"4925 N Academy Blvd, Colorado Springs, CO 80918",80918,38.902828,-104.769699,3.0,$$,65.0,red-lobster-colorado-springs
+86,"3510 New Center Point, Colorado Springs, CO 80922",80922,38.88231,-104.71906899999999,3.5,$$,105.0,red-lobster-colorado-springs-2
+87,"3301 S College Ave, Fort Collins, CO 80525",80525,40.542023,-105.07778400000001,3.0,$$,45.0,red-lobster-fort-collins
+88,"575 24 1/2 Rd, Grand Junction, CO 81505",81505,39.088358,-108.59945900000001,3.0,$$,38.0,red-lobster-grand-junction
+89,"2885 23rd Ave, Greeley, CO 80631",80631,40.391144,-104.71646,2.5,$$,41.0,red-lobster-greeley
+90,"810 S Wadsworth Blvd, Lakewood, CO 80226",80226,39.703416,-105.081023,3.5,$$,79.0,red-lobster-lakewood-3
+91,"5656 S Wadsworth Blvd, Littleton, CO 80123",80123,39.613577,-105.090369,2.5,$$,63.0,red-lobster-littleton-2
+92,"2177 Ken Pratt Blvd, Longmont, CO 80501",80501,40.142410999999996,-105.12910500000001,3.0,$$,38.0,red-lobster-longmont
+93,"1350 W 104th Ave, Northglenn, CO 80234",80234,39.884607,-105.003099,3.0,$$,111.0,red-lobster-northglenn
+94,"3306 N Elizabeth St, Pueblo, CO 81008",81008,38.304332,-104.614067,2.5,$$,38.0,red-lobster-pueblo
+95,"4455 Wadsworth Blvd, Wheat Ridge, CO 80033",80033,39.777651,-105.081942,2.5,$$,67.0,red-lobster-wheat-ridge
+96,"4485 Main St, Bridgeport, CT 06606",6606,41.220451000000004,-73.217502,3.0,$$,66.0,red-lobster-bridgeport
+97,"34 Backus Ave, Danbury, CT 06810",6810,41.375003,-73.486089,3.0,$$,61.0,red-lobster-danbury
+98,"320 Universal Dr N, North Haven, CT 06473",6473,41.353958,-72.872727,3.0,$$,72.0,red-lobster-north-haven
+99,"1324 Silas Deane Hwy, Wethersfield, CT 06109",6109,41.684579,-72.65421500000001,3.0,$$,113.0,red-lobster-wethersfield
+100,"271 N Dupont Hwy, Dover, DE 19901",19901,39.170983,-75.51843199999999,2.5,$$,53.0,red-lobster-dover
+101,"1249 New Churchman's Rd, Newark, DE 19713",19713,39.690131,-75.66123,2.5,$$,51.0,red-lobster-newark
+102,"309 Rocky Run Pkwy, Talleyville, DE 19803",19803,39.819585,-75.549315,3.0,$$,42.0,red-lobster-talleyville
+103,"2314 N Salisbury Blvd, Salisbury, MD 21801",21801,38.398579999999995,-75.569937,3.5,$$,33.0,red-lobster-salisbury
+104,"340 W State Rd 436, Altamonte Springs, FL 32714",32714,28.661328,-81.395474,3.0,$$,79.0,red-lobster-altamonte-springs
+105,"700 N Congress Ave, Boynton Beach, FL 33426",33426,26.533684,-80.090038,3.5,$$,86.0,red-lobster-boynton-beach
+106,"5711 14th St W, Bradenton, FL 34207",34207,27.440029,-82.575057,3.0,$$,42.0,red-lobster-bradenton
+107,"2604 W Brandon Blvd, Brandon, FL 33511",33511,27.940752000000003,-82.325452,2.5,$$,123.0,red-lobster-brandon
+108,"26320 U.S. 19th North, Clearwater, FL 33761",33761,28.0118,-82.734786,3.0,$$,65.0,red-lobster-clearwater
+109,"2475 S Hwy 27, Clermont, FL 34711",34711,28.537091999999998,-81.736731,3.0,$$,58.0,red-lobster-clermont
+110,"2000 N University Dr, Coral Springs, FL 33071",33071,26.256021,-80.252425,3.0,$$,123.0,red-lobster-coral-springs
+111,"2625 W International Speedway Blvd, Daytona Beach, FL 32114",32114,29.175724,-81.081808,3.0,$$,44.0,red-lobster-daytona-beach-3
+112,"3162 S Atlantic Ave, Daytona Beach Shores, FL 32118",32118,29.160774,-80.97506,3.5,$$,54.0,red-lobster-daytona-beach-shores
+113,"Doral, FL 33126",33126,25.789757100000003,-80.3357561,3.0,$$,112.0,red-lobster-doral-2
+114,"1750 W 49th St, Hialeah, FL 33012",33012,25.866204999999997,-80.318342,3.0,$$,69.0,red-lobster-hialeah
+115,"11550 SW 88th St, Miami, FL 33176",33176,25.685951,-80.383432,3.0,$$,136.0,red-lobster-miami
+116,"8705 SW 136th St, Miami, FL 33176",33176,25.645167999999998,-80.33431800000001,3.0,$$,50.0,red-lobster-miami-2
+117,"13300 Biscayne Blvd, North Miami, FL 33181",33181,25.898051000000002,-80.161592,3.0,$$,111.0,red-lobster-north-miami
+118,"5950 N Federal Hwy, Fort Lauderdale, FL 33308",33308,26.201726999999998,-80.108804,3.0,$$,96.0,red-lobster-fort-lauderdale
+119,"3801 Cleveland Ave, Fort Myers, FL 33901",33901,26.606972999999996,-81.87151999999999,2.5,$$,62.0,red-lobster-fort-myers
+120,"6401 Darter Ct, Fort Pierce, FL 34945",34945,27.414263000000002,-80.390547,3.0,$$,30.0,red-lobster-fort-pierce
+121,"326 Miracle Strip Pkwy SW, Fort Walton Beach, FL 32548",32548,30.405596999999997,-86.63502700000001,3.0,$$,57.0,red-lobster-fort-walton-beach
+122,"6910 W Newberry Rd, Gainesville, FL 32605",32605,29.660594,-82.41674300000001,3.0,$$,41.0,red-lobster-gainesville
+123,"2900 Oakwood Blvd, Hollywood, FL 33020",33020,26.03774,-80.162828,2.5,$$,115.0,red-lobster-hollywood
+124,"2301 NE 8th St, Homestead, FL 33033",33033,25.478046,-80.443674,2.5,$$,63.0,red-lobster-homestead
+125,"13090 City Station Dr, Jacksonville, FL 32218",32218,30.475358,-81.643905,2.5,$$,57.0,red-lobster-jacksonville-3
+126,"32 Blanding Blvd, Orange Park, FL 32073",32073,30.187878,-81.740033,2.5,$$,57.0,red-lobster-orange-park
+127,"416 Commerce Center Dr, Jacksonville, FL 32225",32225,30.329711,-81.55096800000001,3.0,$$,59.0,red-lobster-jacksonville
+128,"8720 Baymeadows Rd, Jacksonville, FL 32256",32256,30.220389,-81.577526,3.0,$$,76.0,red-lobster-jacksonville-4
+129,"3544 NW Federal Hwy, Jensen Beach, FL 34957",34957,27.244533,-80.272524,3.0,$$,50.0,red-lobster-jensen-beach
+130,"4010 W Vine St, Kissimmee, FL 34741",34741,28.303974,-81.44310300000001,3.0,$$,62.0,red-lobster-kissimmee-2
+131,"7780 W Irlo Bronson Memorial Hwy, Kissimmee, FL 34747",34747,28.339274,-81.59718000000001,3.0,$$,70.0,red-lobster-kissimmee
+132,"5690 W Irlo Bronson Memorial Hwy, Kissimmee, FL 34746",34746,28.332183,-81.513215,3.0,$$,47.0,red-lobster-kissimmee-3
+133,"2847 W US Hwy 90, Lake City, FL 32055",32055,30.180366999999997,-82.678973,3.5,$$,23.0,red-lobster-lake-city
+134,"6638 Lake Worth Rd, Lake Worth, FL 33467",33467,26.617234000000003,-80.149276,2.5,$$,58.0,red-lobster-lake-worth
+135,"3706 North Dr #98, Lakeland, FL 33809",33809,28.089436,-81.974407,3.0,$$,50.0,red-lobster-lakeland
+136,"10500 E Ulmerton Rd, Largo, FL 33771",33771,27.894097,-82.782614,2.5,$$,69.0,red-lobster-largo
+137,"10010 US-441, Leesburg, FL 34788",34788,28.823765,-81.790695,3.5,$$,26.0,red-lobster-leesburg
+138,"2355 W New Haven Ave, Melbourne, FL 32904",32904,28.078257,-80.660904,3.0,$$,53.0,red-lobster-melbourne
+139,"215 E Merritt Island Causeway, Merritt Island, FL 32952",32952,28.356648999999997,-80.695842,3.0,$$,43.0,red-lobster-merritt-island
+140,"1695 NW 87th Ave, Doral, FL 33172",33172,25.789372,-80.33639000000001,3.0,$$,112.0,red-lobster-doral-2
+141,"2355 Tamiami Trail N, Naples, FL 34103",34103,26.176354999999997,-81.800236,2.5,$$,53.0,red-lobster-naples
+142,"3393 SW College Rd, Ocala, FL 34474",34474,29.15697,-82.178883,3.0,$$,53.0,red-lobster-ocala
+143,"3552 E Colonial Dr, Orlando, FL 32803",32803,28.553022,-81.339985,3.0,$$,83.0,red-lobster-orlando-2
+144,"7373 W Colonial Dr, Orlando, FL 32818",32818,28.552549,-81.480343,2.5,$$,45.0,red-lobster-orlando-4
+145,"5936 International Dr, Orlando, FL 32819",32819,28.461768,-81.46155999999999,3.0,$$,84.0,red-lobster-orlando
+146,"9892 International Dr, Orlando, FL 32819",32819,28.424539000000003,-81.46165699999999,3.5,$$,121.0,red-lobster-orlando-5
+147,"8003 Golden Sky Ln, Orlando, FL 32809",32809,28.45008,-81.393477,3.5,$$,49.0,red-lobster-orlando-3
+148,"12557 FL-535, Orlando, FL 32836",32836,28.381024,-81.502994,4.0,$$,92.0,red-lobster-orlando-7
+149,"450 S Orange Ave, Orlando, FL 32801",32801,28.537175,-81.3791295,3.0,$$,83.0,red-lobster-orlando-2
+150,"617 N Alafaya Trail, Orlando, FL 32828",32828,28.554431,-81.205673,3.0,$$,84.0,red-lobster-orlando-6
+151,"910 E 23rd St, Panama City, FL 32405",32405,30.188907,-85.64558000000001,2.5,$$,33.0,red-lobster-panama-city
+152,"296 N University Dr, Pembroke Pines, FL 33024",33024,26.011328,-80.248692,2.0,$$,133.0,red-lobster-pembroke-pines
+153,"Cordova Mall, 5110 N 9th Ave, Pensacola, FL 32504",32504,30.475802,-87.210379,2.5,$$,64.0,red-lobster-pensacola
+154,"803 S University Dr, Plantation, FL 33324",33324,26.113155,-80.25133100000001,2.5,$$,99.0,red-lobster-plantation
+155,"1331 Tamiami Trail, Port Charlotte, FL 33948",33948,27.011956,-82.146564,3.5,$$,39.0,red-lobster-port-charlotte
+156,"8909 US-19, Port Richey, FL 34668",34668,28.286799,-82.71406400000001,2.5,$$,43.0,red-lobster-port-richey
+157,"100 FL-312 W, St. Augustine, FL 32086",32086,29.867396999999997,-81.323833,3.0,$$,43.0,red-lobster-saint-augustine
+158,"6151 34th St N, St. Petersburg, FL 33714",33714,27.82785,-82.67926999999999,2.5,$$,60.0,red-lobster-saint-petersburg
+159,"20 Towne Center Cir, Sanford, FL 32771",32771,28.807269,-81.335509,3.0,$$,57.0,red-lobster-sanford
+160,"6747 S Tamiami Trail, Sarasota, FL 34231",34231,27.257372999999998,-82.519164,3.0,$$,36.0,red-lobster-sarasota
+161,"721 US-27, Sebring, FL 33870",33870,27.489831,-81.484185,3.0,$$,21.0,red-lobster-sebring
+162,"2328 Commercial Way, Spring Hill, FL 34606",34606,28.46632,-82.621408,2.5,$$,51.0,red-lobster-spring-hill
+163,"2583 N Monroe St, Tallahassee, FL 32303",32303,30.476340000000004,-84.296401,3.0,$$,66.0,red-lobster-tallahassee
+164,"17021 Palm Pointe Dr, Tampa, FL 33647",33647,28.117482,-82.379968,3.0,$$,78.0,red-lobster-tampa-3
+165,"2625 E Busch Blvd, Tampa, FL 33612",33612,28.032213,-82.429262,2.5,$$,48.0,red-lobster-tampa
+166,"11601 N Dale Mabry Hwy, Tampa, FL 33618",33618,28.054555999999998,-82.503337,3.0,$$,104.0,red-lobster-tampa-2
+167,"3830 Wedgewood Ln, The Villages, FL 32162",32162,28.927854999999997,-82.024156,3.0,$$,37.0,red-lobster-the-villages
+168,"2201 Palm Beach Lakes Blvd, West Palm Beach, FL 33409",33409,26.711689,-80.096749,2.5,$$,102.0,red-lobster-west-palm-beach
+169,"230 Cypress Gardens Blvd, Winter Haven, FL 33880",33880,28.003608000000003,-81.72505100000001,2.5,$$,46.0,red-lobster-winter-haven
+170,"2403 N Slappey Blvd, Albany, GA 31701",31701,31.60955,-84.176177,2.5,$$,21.0,red-lobster-albany-2
+171,"1956 W Broad St, Athens, GA 30606",30606,33.95179,-83.403083,2.0,$$,41.0,red-lobster-athens
+172,"3360 Camp Creek Pkwy, Atlanta, GA 30344",30344,33.656963,-84.49983399999999,3.0,$$,103.0,red-lobster-atlanta
+173,"440 Walton Way, Augusta, GA 30901",30901,33.465216,-81.96136,3.5,$$,33.0,red-lobster-augusta
+174,"2847 Washington Rd, Augusta, GA 30909",30909,33.511441999999995,-82.035651,2.0,$$,64.0,red-lobster-augusta-2
+175,"1805 East-West Connector S.W, Austell, GA 30106",30106,33.853639,-84.605487,2.5,$$,69.0,red-lobster-austell
+176,"3230 Buford Dr, Buford, GA 30519",30519,34.064976,-83.99007900000001,2.5,$$,115.0,red-lobster-buford
+177,"1405 Riverstone Pkwy, Canton, GA 30114",30114,34.249995,-84.477069,3.0,$$,38.0,red-lobster-canton
+178,"375 Cherokee Pl, Cartersville, GA 30121",30121,34.172686999999996,-84.782001,3.0,$$,25.0,red-lobster-cartersville
+179,"1425 13th St, Columbus, GA 31901",31901,32.471507,-84.971129,2.5,$$,25.0,red-lobster-columbus-6
+180,"2679 Adams Farm Dr, Columbus, GA 31909",31909,32.544371999999996,-84.948409,2.5,$$,38.0,red-lobster-columbus
+181,"1560 Dogwood Dr SE, Conyers, GA 30013",30013,33.647864,-83.99439100000001,2.0,$$,69.0,red-lobster-conyers
+182,"901 W Bridge Rd, Dalton, GA 30720",30720,34.760018,-85.003411,3.5,$$,28.0,red-lobster-dalton
+183,"2522 Candler Rd, Decatur, GA 30032",30032,33.716444,-84.273663,2.5,$$,58.0,red-lobster-decatur
+184,"3100 Bill Arp Rd, Douglasville, GA 30135",30135,33.720246,-84.763662,2.5,$$,40.0,red-lobster-douglasville
+185,"2105 Veterans Blvd, Dublin, GA 31021",31021,32.542218,-82.954462,2.5,$$,9.0,red-lobster-dublin-2
+186,"2055 Pleasant Hill Rd, Duluth, GA 30096",30096,33.955604,-84.13297,3.0,$$,137.0,red-lobster-duluth
+187,"1707 Browns Bridge Rd, Gainesville, GA 30501",30501,34.28448,-83.844709,3.0,$$,29.0,red-lobster-gainesville-2
+188,"6550 Tara Blvd, Jonesboro, GA 30236",30236,33.575668,-84.371421,2.5,$$,49.0,red-lobster-jonesboro
+189,"2626 George Busbee Pkwy NW, Kennesaw, GA 30144",30144,34.014922,-84.56671999999999,3.5,$$,78.0,red-lobster-kennesaw
+190,"2077 Riverside Dr, Macon, GA 31204",31204,32.857568,-83.64489300000001,2.5,$$,38.0,red-lobster-macon
+191,"1846 Jonesboro Rd, McDonough, GA 30253",30253,33.464868,-84.216527,2.5,$$,82.0,red-lobster-mcdonough
+192,"990 Bullsboro Dr, Newnan, GA 30265",30265,33.39741,-84.745554,2.5,$$,37.0,red-lobster-newnan
+193,"1359 Sam Nunn Blvd, Perry, GA 31069",31069,32.466921,-83.739737,3.0,$$,36.0,red-lobster-perry
+194,"700 Shorter Ave NW, Rome, GA 30165",30165,34.266251000000004,-85.20146899999999,2.5,$$,15.0,red-lobster-rome
+195,"1050 Holcomb Bridge Rd, Roswell, GA 30076",30076,34.024504,-84.329538,2.5,$$,144.0,red-lobster-roswell-2
+196,"11 W E Montgomery Cross Rd, Savannah, GA 31406",31406,31.998281,-81.12322900000001,2.5,$$,56.0,red-lobster-savannah
+197,"2579 Cobb Pkwy SE, Smyrna, GA 30080",30080,33.889744,-84.474448,3.0,$$,92.0,red-lobster-smyrna
+198,"4001 GA-78 W, Snellville, GA 30039",30039,33.838521,-84.068975,2.5,$$,75.0,red-lobster-snellville
+199,"101 S Virginia Ave, Tifton, GA 31794",31794,31.456896999999998,-83.526753,3.0,$$,16.0,red-lobster-tifton
+200,"3937 Lavista Rd, Tucker, GA 30084",30084,33.844738,-84.255662,3.0,$$,106.0,red-lobster-tucker
+201,"1179 N St Augustine Rd, Valdosta, GA 31601",31601,30.840422999999998,-83.320841,3.0,$$,22.0,red-lobster-valdosta
+202,"1765 Ala Moana Blvd, Honolulu, HI 96815",96815,21.285613,-157.839143,3.0,$$,740.0,red-lobster-honolulu
+203,"550 N Milwaukee St, Boise, ID 83704",83704,43.609556,-116.284327,3.5,$$,94.0,red-lobster-boise
+204,"212 E Neider Ave, Coeur d'Alene, ID 83815",83815,47.706925,-116.79070800000001,3.5,$$,54.0,red-lobster-coeur-d-alene
+205,"2115 Thain Grd, Lewiston, ID 83501",83501,46.399963,-117.00051599999999,3.0,$$,22.0,red-lobster-lewiston
+206,"4105 N Yellowstone Hwy, Pocatello, ID 83202",83202,42.907745,-112.466871,3.5,$$,33.0,red-lobster-pocatello
+207,"170 E Beltline Pkwy, Alton, IL 62002",62002,38.921077000000004,-90.17331,3.0,$$,7.0,red-lobster-alton-3
+208,"1036 N, Illinois Rte 59, Aurora, IL 60504",60504,41.77415,-88.206255,3.5,$$,75.0,red-lobster-aurora-2
+209,"391 W Army Trail Rd, Bloomingdale, IL 60108",60108,41.939844,-88.11568199999999,3.5,$$,88.0,red-lobster-bloomingdale
+210,"714 S Eldorado Rd, Bloomington, IL 61704",61704,40.471773999999996,-88.951988,3.5,$$,29.0,red-lobster-bloomington-3
+211,"209 S Weber Rd, Bolingbrook, IL 60490",60490,41.693220000000004,-88.123273,2.5,$$,54.0,red-lobster-bolingbrook
+212,"1604 N State Rte 50, Bourbonnais, IL 60914",60914,41.174237,-87.85075400000001,3.0,$$,31.0,red-lobster-bourbonnais
+213,"1901 N Prospect Ave, Champaign, IL 61822",61822,40.138433,-88.25849000000001,3.0,$$,68.0,red-lobster-champaign
+214,"5201 S Pulaski Rd, Chicago, IL 60632",60632,41.798412,-87.72273299999999,2.0,$$,131.0,red-lobster-chicago-2
+215,"3217 N Vermilion St, Danville, IL 61832",61832,40.176417,-87.629592,3.0,$$,16.0,red-lobster-danville-2
+216,"3001 Finley Rd, Downers Grove, IL 60515",60515,41.833096999999995,-88.024404,3.0,$$,145.0,red-lobster-downers-grove
+217,"110 Ludwig Dr, Fairview Heights, IL 62208",62208,38.600549,-89.992023,2.5,$$,71.0,red-lobster-fairview-heights
+218,"997 S, State Route 51, Forsyth, IL 62535",62535,39.920528000000004,-88.956154,2.5,$$,28.0,red-lobster-forsyth
+219,"902 Commons Dr, Geneva, IL 60134",60134,41.896544,-88.341252,3.0,$$,56.0,red-lobster-geneva-2
+220,"6230 Grand Ave, Gurnee, IL 60031",60031,42.384332,-87.956429,2.5,$$,110.0,red-lobster-gurnee
+221,"2950 Plainfield Rd, Joliet, IL 60435",60435,41.578095000000005,-88.160616,3.0,$$,67.0,red-lobster-joliet
+222,"3301 W Touhy Ave, Lincolnwood, IL 60712",60712,42.011558,-87.712328,3.0,$$,189.0,red-lobster-lincolnwood
+223,"2900 W Deyoung St, Marion, IL 62959",62959,37.7455,-88.97522,3.5,$$,24.0,red-lobster-marion-2
+224,"3915 W 211th St, Matteson, IL 60443",60443,41.505712,-87.711913,2.5,$$,58.0,red-lobster-matteson
+225,"4401 N Cumberland Ave, Norridge, IL 60706",60706,41.959992,-87.83620400000001,3.0,$$,169.0,red-lobster-norridge
+226,"9500 SW Hwy, Oak Lawn, IL 60453",60453,41.719066,-87.769708,2.5,$$,123.0,red-lobster-oak-lawn
+227,"14750 South La Grange Road, Orland Park, IL 60462",60462,41.621598999999996,-87.854226,3.0,$$,83.0,red-lobster-orland-park
+228,"4625 N Sterling Ave, Peoria, IL 61615",61615,40.74429,-89.63224100000001,3.5,$$,50.0,red-lobster-peoria-2
+229,"4381 Venture Dr, Peru, IL 61354",61354,41.362981,-89.126223,4.0,$$,31.0,red-lobster-peru
+230,"5827 E State St, Rockford, IL 61108",61108,42.26582,-89.00285,3.0,$$,29.0,red-lobster-rockford
+231,"800 E Golf Rd, Schaumburg, IL 60173",60173,42.050567,-88.059327,3.5,$$,183.0,red-lobster-schaumburg
+232,"2696 S Dirksen Pkwy, Springfield, IL 62703",62703,39.766937,-89.60673299999999,2.5,$$,55.0,red-lobster-springfield-4
+233,"701 Spring Hill Ring Rd, West Dundee, IL 60118",60118,42.102131,-88.289741,3.0,$$,58.0,red-lobster-west-dundee
+234,"5806 S Scatterfield Rd, Anderson, IN 46013",46013,40.05679,-85.652138,3.5,$$,22.0,red-lobster-anderson
+235,"10189 E US Hwy 36, Avon, IN 46123",46123,39.763226,-86.34269499999999,3.5,$$,45.0,red-lobster-avon
+236,"2617 E 3rd St, Bloomington, IN 47401",47401,39.164615000000005,-86.499189,4.0,$$,39.0,red-lobster-bloomington
+237,"951 E Lewis and Clark Pkwy Suite 3004, Clarksville, IN 47129",47129,38.317369,-85.761902,3.5,$$,29.0,red-lobster-clarksville
+238,"2000 25th St, Columbus, IN 47201",47201,39.223473,-85.902534,3.0,$$,22.0,red-lobster-columbus-3
+239,"3009 Brittany Ct, Elkhart, IN 46514",46514,41.729178999999995,-85.972619,2.5,$$$$,24.0,red-lobster-elkhart
+240,"3930 N Main St, Mishawaka, IN 46545",46545,41.697551000000004,-86.181813,3.0,$$,57.0,red-lobster-mishawaka
+241,"4605 Bellemeade Ave, Evansville, IN 47714",47714,37.967392,-87.49447099999999,3.5,$$,25.0,red-lobster-evansville
+242,"4825 Coldwater Rd, Fort Wayne, IN 46825",46825,41.12352,-85.13631600000001,3.0,$$,67.0,red-lobster-fort-wayne
+243,"690 East Thompson Rd, Indianapolis, IN 46227",46227,39.693837,-86.145882,3.5,$$,68.0,red-lobster-indianapolis-2
+244,"1752 Shadeland Ave, Indianapolis, IN 46219",46219,39.791796999999995,-86.046221,2.5,$$,52.0,red-lobster-indianapolis
+245,"5090 W 38th St, Indianapolis, IN 46254",46254,39.824326,-86.24672,3.0,$$,42.0,red-lobster-indianapolis-5
+246,"6410 E 82nd St, Indianapolis, IN 46250",46250,39.905846999999994,-86.057396,3.0,$$,87.0,red-lobster-indianapolis-3
+247,"1900 S Reed Rd, Kokomo, IN 46902",46902,40.464087,-86.107287,3.0,$$,23.0,red-lobster-kokomo
+248,"120 S Creasy Ln, Lafayette, IN 47905",47905,40.416993,-86.840063,3.0,$$,40.0,red-lobster-lafayette-3
+249,"1450 E 82nd Ave, Merrillville, IN 46410",46410,41.470264,-87.318936,3.5,$$,49.0,red-lobster-merrillville
+250,"4353 Franklin St, Michigan City, IN 46360",46360,41.675398,-86.894674,3.0,$$,44.0,red-lobster-michigan-city
+251,"223 W McGalliard Rd, Muncie, IN 47303",47303,40.218594,-85.388663,3.0,$$,23.0,red-lobster-muncie
+252,"9311 Calumet Ave, Munster, IN 46321",46321,41.544267,-87.508415,3.0,$$,95.0,red-lobster-munster
+253,"5400 National Rd E, Richmond, IN 47374",47374,39.8329,-84.828361,3.5,$$,18.0,red-lobster-richmond-3
+254,"3407 S US Hwy 41, Terre Haute, IN 47802",47802,39.426572,-87.41713299999999,3.5,$$,31.0,red-lobster-terre-haute
+255,"1100 Buckeye Ave, Ames, IA 50010",50010,42.013153,-93.610873,4.0,$$,17.0,red-lobster-ames
+256,"163 Collins Rd NE, Cedar Rapids, IA 52402",52402,42.027353000000005,-91.628801,3.5,$$,25.0,red-lobster-cedar-rapids
+257,"2671 2nd St, Coralville, IA 52241",52241,41.68874,-91.607286,3.0,$$,25.0,red-lobster-coralville
+258,"3040 Dial Dr, Council Bluffs, IA 51501",51501,41.229772,-95.850252,3.5,$$,26.0,red-lobster-council-bluffs
+259,"3420 E Kimberly Rd, Davenport, IA 52807",52807,41.551204999999996,-90.523014,3.0,$$,44.0,red-lobster-davenport
+260,"4290 Sergeant Rd, Sioux City, IA 51106",51106,42.448961,-96.353646,3.5,$$,14.0,red-lobster-sioux-city
+261,"941 E San Marnan Dr, Waterloo, IA 50702",50702,42.458156,-92.33742099999999,3.5,$$,20.0,red-lobster-waterloo
+262,"3838 Westown Pkwy, West Des Moines, IA 50266",50266,41.595061,-93.756325,3.0,$$,58.0,red-lobster-west-des-moines
+263,"10700 Parallel Pkwy, Kansas City, KS 66109",66109,39.128865999999995,-94.827457,2.5,$$,58.0,red-lobster-kansas-city
+264,"9475 Metcalf Ave, Overland Park, KS 66212",66212,38.95718,-94.667084,3.0,$$,79.0,red-lobster-overland-park
+265,"450 NW Barry Rd, Kansas City, MO 64155",64155,39.246736999999996,-94.58528199999999,2.5,$$,62.0,red-lobster-kansas-city-2
+266,"14904 W 119th St, Olathe, KS 66062",66062,38.913213,-94.75891800000001,3.0,$$,42.0,red-lobster-olathe-2
+267,"4328 S Noland Rd, Independence, MO 64055",64055,39.041411,-94.415848,3.5,$$,41.0,red-lobster-independence
+268,"2925 S 9th St, Salina, KS 67401",67401,38.785176,-97.612088,3.0,$$,33.0,red-lobster-salina
+269,"2011 SW Wanamaker Rd, Topeka, KS 66604",66604,39.030359999999995,-95.76274000000001,3.0,$$,39.0,red-lobster-topeka
+270,"333 S. Towne East Mall Drive, Wichita, KS 67207",67207,37.682190999999996,-97.2521,3.0,$$,34.0,red-lobster-wichita-2
+271,"555 S West St, Wichita, KS 67213",67213,37.675374,-97.38998199999999,3.0,$$,34.0,red-lobster-wichita
+272,"Greenwood Mall, 2525 Scottsville Rd, Bowling Green, KY 42104",42104,36.951351,-86.426222,3.0,$$,23.0,red-lobster-bowling-green
+273,"2020 N Dixie Hwy, Elizabethtown, KY 42701",42701,37.739077,-85.89021600000001,3.5,$$,44.0,red-lobster-elizabethtown
+274,"7921 Dream St, Florence, KY 41042",41042,38.989244,-84.642155,3.5,$$,61.0,red-lobster-florence-2
+275,"2550 Nicholasville Rd, Lexington, KY 40503",40503,37.998540999999996,-84.51972099999999,3.5,$$,49.0,red-lobster-lexington
+276,"1848 Alysheba Way, Lexington, KY 40509",40509,38.01894,-84.418456,3.5,$$,40.0,red-lobster-lexington-2
+277,"828 Eastern Bypass, Richmond, KY 40475",40475,37.730878999999995,-84.281482,3.0,$$,23.0,red-lobster-richmond-6
+278,"4639 Outer Loop, Louisville, KY 40219",40219,38.138303,-85.677044,3.5,$$,42.0,red-lobster-louisville
+279,"986 Breckenridge Ln, St Matthews, KY 40207",40207,38.232446,-85.63962099999999,3.0,$$,67.0,red-lobster-saint-matthews
+280,"3410 Frederica St, Owensboro, KY 42301",42301,37.738053,-87.119253,2.5,$$,14.0,red-lobster-owensboro
+281,"5151 Hinkleville Rd, Paducah, KY 42001",42001,37.075839,-88.691117,3.0,$$,21.0,red-lobster-paducah
+282,"6051 Bluebonnet Blvd, Baton Rouge, LA 70836",70836,30.393297999999998,-91.08707700000001,2.0,$$,74.0,red-lobster-baton-rouge
+283,"2968 E Texas St, Bossier City, LA 71111",71111,32.528308,-93.703184,2.5,$$,41.0,red-lobster-bossier-city
+284,"3020 N Causeway Blvd, Metairie, LA 70002",70002,30.007424,-90.155475,2.5,$$,102.0,red-lobster-metairie-2
+285,"4601 Pecanland Mall Dr, Monroe, LA 71203",71203,32.496975,-92.063518,2.5,$$,26.0,red-lobster-monroe-2
+286,"183 Jennifer Rd, Annapolis, MD 21401",21401,38.985102000000005,-76.54450899999999,3.0,$$,69.0,red-lobster-annapolis
+287,"615 Belair Rd, Bel Air, MD 21014",21014,39.524606,-76.355424,3.0,$$,39.0,red-lobster-bel-air
+288,"9011 Snowden Square Dr, Columbia, MD 21046",21046,39.183564000000004,-76.81908299999999,3.5,$$,90.0,red-lobster-columbia
+289,"1020 W Patrick St, Frederick, MD 21703",21703,39.416109999999996,-77.43986899999999,3.0,$$,62.0,red-lobster-frederick
+290,"15700 Shady Grove Rd, Gaithersburg, MD 20877",20877,39.113476,-77.187258,2.5,$$,233.0,red-lobster-gaithersburg
+291,"1681 Wesel Blvd, Hagerstown, MD 21740",21740,39.630196000000005,-77.76224300000001,3.0,$$,35.0,red-lobster-hagerstown
+292,"7063 Arundel Mills Blvd, Hanover, MD 21076",21076,39.154239000000004,-76.729652,2.5,$$,112.0,red-lobster-hanover-2
+293,"8905 Annapolis Rd, Lanham, MD 20706",20706,38.960491,-76.86290699999999,2.5,$$,112.0,red-lobster-laurel
+294,"14368 Baltimore Ave, Laurel, MD 20707",20707,39.085857,-76.861746,2.5,$$,112.0,red-lobster-laurel
+295,"8019 Honeygo Blvd, Nottingham, MD 21236",21236,39.371468,-76.468897,2.5,$$,77.0,red-lobster-nottingham
+296,"3 Restaurant Park Dr N, Owings Mills, MD 21117",21117,39.404619,-76.792716,2.5,$$,75.0,red-lobster-owings-mills
+297,"8533 Georgia Ave, Silver Spring, MD 20910",20910,38.996062,-77.027218,2.5,$$,119.0,red-lobster-silver-spring-2
+298,"5051 Auth Way, Suitland-Silver Hill, MD 20746",20746,38.826458,-76.920802,2.5,$$,146.0,red-lobster-suitland
+299,"11035 Mall Cir, Waldorf, MD 20603",20603,38.616071000000005,-76.922422,2.0,$$,117.0,red-lobster-waldorf
+300,"1420 S Main St, Adrian, MI 49221",49221,41.876178,-84.043951,4.0,$$,20.0,red-lobster-adrian
+301,"2420 Carpenter Rd, Ann Arbor, MI 48108",48108,42.251393,-83.681286,3.0,$$,84.0,red-lobster-ann-arbor
+302,"2565 Capitol Ave. S.W, Battle Creek, MI 49015",49015,42.264579,-85.198368,3.5,$$,29.0,red-lobster-battle-creek
+303,"4109 Wilder Rd, Bay City, MI 48706",48706,43.624354,-83.89268100000001,3.5,$$,17.0,red-lobster-bay-city
+304,"6850 N Telegraph Rd, Dearborn Heights, MI 48127",48127,42.338284,-83.272403,2.0,$$,53.0,red-lobster-dearborn-heights
+305,"4417 W Pierson Rd, Flint, MI 48504",48504,43.060097999999996,-83.768845,3.0,$$,33.0,red-lobster-flint
+306,"4220 24th Ave, Fort Gratiot Twp, MI 48059",48059,43.032203,-82.45561500000001,3.5,$$,16.0,red-lobster-fort-gratiot
+307,"3464, Point Circle, Grandville, MI 49418",49418,42.883025,-85.749646,3.5,$$,36.0,red-lobster-grandville
+308,"2400 Shirley Dr, Jackson, MI 49202",49202,42.276859,-84.429837,3.5,$$,25.0,red-lobster-jackson
+309,"3920 28th St SE, Kentwood, MI 49512",49512,42.912110999999996,-85.57078100000001,2.5,$$,38.0,red-lobster-kentwood
+310,"3130 E Saginaw St, Lansing, MI 48912",48912,42.740415000000006,-84.507007,2.5,$$,51.0,red-lobster-lansing
+311,"29980 Plymouth Rd, Livonia, MI 48150",48150,42.369571,-83.338167,2.5,$$,73.0,red-lobster-livonia
+312,"101 W Twelve Mile Rd, Madison Heights, MI 48071",48071,42.504343,-83.107404,2.0,$$,100.0,red-lobster-madison-heights
+313,"2923 US-41 West, Marquette, MI 49855",49855,46.548801,-87.453411,3.5,$$,16.0,red-lobster-marquette
+314,"1553 N Dixie Hwy, Monroe, MI 48162",48162,41.9286,-83.35370400000001,3.0,$$,34.0,red-lobster-monroe
+315,"4062 E. Bluegrass Road, Mt Pleasant, MI 48858",48858,43.574944,-84.76617399999999,3.0,$$,23.0,red-lobster-mount-pleasant
+316,"1681 E Sternberg Rd, Muskegon, MI 49444",49444,43.153519,-86.203861,3.5,$$,17.0,red-lobster-muskegon
+317,"27760 Novi Rd, Novi, MI 48377",48377,42.49065,-83.475102,3.0,$$,90.0,red-lobster-novi
+318,"6535 S Westnedge Ave, Portage, MI 49002",49002,42.221645,-85.588899,3.0,$$,43.0,red-lobster-portage
+319,"2825 S Rochester Rd, Rochester Hills, MI 48307",48307,42.639207,-83.131247,3.5,$$,69.0,red-lobster-rochester-hills
+320,"4141 Bay Rd, Saginaw, MI 48603",48603,43.46739,-83.976246,3.0,$$,30.0,red-lobster-saginaw
+321,"13999 Eureka Rd, Southgate, MI 48195",48195,42.198952,-83.19424000000001,2.5,$$,46.0,red-lobster-southgate
+322,"13800 Hall Rd, Sterling Heights, MI 48313",48313,42.626157,-82.9898,3.0,$$,75.0,red-lobster-sterling-heights
+323,"2691 N U.S. 31 S, Traverse City, MI 49684",49684,44.727435,-85.64689200000001,3.0,$$,30.0,red-lobster-traverse-city
+324,"25901 Hoover Rd, Warren, MI 48089",48089,42.484817,-83.00692099999999,2.0,$$,62.0,red-lobster-warren
+325,"479 Telegraph Rd, Waterford Twp, MI 48328",48328,42.647465999999994,-83.326777,3.0,$$,44.0,red-lobster-waterford
+326,"5774 N Wayne Rd, Westland, MI 48185",48185,42.325961,-83.388104,3.0,$$,70.0,red-lobster-westland
+327,"1951 American Blvd W, Bloomington, MN 55431",55431,44.858178,-93.30425100000001,3.0,$$,72.0,red-lobster-bloomington-2
+328,"1301 County Rd 42 W, Burnsville, MN 55306",55306,44.746021999999996,-93.29735699999999,3.0,$$,37.0,red-lobster-burnsville
+329,"301 S Lake Ave, Duluth, MN 55802",55802,46.784051,-92.09670200000001,3.5,$$,33.0,red-lobster-duluth-2
+330,"8900 Golden Valley Rd, Golden Valley, MN 55427",55427,44.985155,-93.39364300000001,3.5,$$,45.0,red-lobster-golden-valley
+331,"1890 E, Madison Ave, Mankato, MN 56001",56001,44.167332,-93.95017299999999,3.5,$$,15.0,red-lobster-mankato
+332,"12515 Elm Creek Blvd N, Maple Grove, MN 55369",55369,45.093862,-93.439288,3.0,$$,35.0,red-lobster-maple-grove
+333,"2925 White Bear Ave, Maplewood, MN 55109",55109,45.02868,-93.018755,3.0,$$,30.0,red-lobster-maplewood-2
+334,"8500 State Hwy 47, Minneapolis, MN 55433",55433,45.125029,-93.265501,2.5,$$,36.0,red-lobster-minneapolis-3
+335,"8350 3rd St N, Oakdale, MN 55128",55128,44.951094,-92.935296,3.0,$$,36.0,red-lobster-oakdale-2
+336,"2330 Prior Ave N, Roseville, MN 55113",55113,45.010981,-93.18164200000001,3.0,$$,47.0,red-lobster-roseville
+337,"2920 W Division St, St Cloud, MN 56301",56301,45.552867,-94.19396400000001,2.5,$$$,35.0,red-lobster-saint-cloud
+338,"2675 32nd Ave S, Grand Forks, ND 58201",58201,47.888897,-97.066133,3.0,$$$,18.0,red-lobster-grand-forks
+339,"4215 13th Ave S, Fargo, ND 58103",58103,46.862253,-96.852932,3.0,$$,38.0,red-lobster-fargo
+340,"3333 WI-16, La Crosse, WI 54601",54601,43.867077,-91.202895,3.0,$$,20.0,red-lobster-la-crosse
+341,"3897 Promenade Pkwy, D'Iberville, MS 39540",39540,30.454824,-88.901898,3.0,$$,45.0,red-lobster-d-iberville
+342,"4670 Hardy St, Hattiesburg, MS 39402",39402,31.323333,-89.36084699999999,3.0,$$,12.0,red-lobster-hattiesburg
+343,"6357 Interstate 55 North Frontage Rd, Jackson, MS 39213",39213,32.397565,-90.146726,2.5,$$,36.0,red-lobster-jackson-2
+344,"201 S Frontage Rd, Meridian, MS 39301",39301,32.364216,-88.67469100000001,3.0,$$,23.0,red-lobster-meridian
+345,"6535 Airways Blvd, Southaven, MS 38671",38671,34.955890999999994,-89.99067099999999,2.0,$$,48.0,red-lobster-southaven
+346,"895 Barnes Crossing Rd, Tupelo, MS 38804",38804,34.314918,-88.703756,2.5,$$,17.0,red-lobster-tupelo
+347,"3559 Shepherd of the Hills Expy, Branson, MO 65616",65616,36.652233,-93.288157,2.5,$$,37.0,red-lobster-branson
+348,"12235 St Charles Rock Rd, Bridgeton, MO 63044",63044,38.752078000000004,-90.42652700000001,2.5,$$,67.0,red-lobster-bridgeton
+349,"3269 William St, Cape Girardeau, MO 63703",63703,37.302051,-89.57791,3.0,$$,20.0,red-lobster-cape-girardeau
+350,"17204 Chesterfield Airport Rd, Chesterfield, MO 63005",63005,38.667902000000005,-90.59567,3.0,$$,61.0,red-lobster-chesterfield
+351,"1110 Interstate 70 Dr SW, Columbia, MO 65203",65203,38.96432,-92.354935,3.0,$$,21.0,red-lobster-columbia-3
+352,"3519 Country Club Dr, Jefferson City, MO 65109",65109,38.583503,-92.250113,3.0,$$,21.0,red-lobster-jefferson-city
+353,"2141 S Glenstone Ave, Springfield, MO 65804",65804,37.175169,-93.262973,2.5,$$,48.0,red-lobster-springfield-3
+354,"9838 Watson Rd, St. Louis, MO 63126",63126,38.556239,-90.390499,2.5,$$,44.0,red-lobster-saint-louis-3
+355,"1716 Interstate 70 Dr SW, Columbia, MO 65203",65203,38.965531799999994,-92.364948,3.0,$$,21.0,red-lobster-columbia-3
+356,"3131 N Rangeline Rd, Joplin, MO 64801",64801,37.055462,-94.477757,3.0,$$,29.0,red-lobster-joplin
+357,"670 NW Blue Pkwy, Lee's Summit, MO 64063",64063,38.9265,-94.402165,3.0,$$,66.0,red-lobster-lees-summit
+358,"2381 Maplewood Commons Dr, Maplewood, MO 63143",63143,38.61784,-90.33290699999999,2.5,$$,72.0,red-lobster-maplewood
+359,"5733 S Lindbergh Blvd, St. Louis, MO 63123",63123,38.522261,-90.349954,3.0,$$,44.0,red-lobster-saint-louis-2
+360,"4101 Frederick Ave, St Joseph, MO 64506",64506,39.777445,-94.79500300000001,2.5,$$,19.0,red-lobster-saint-joseph
+361,"1831 Sidney St, St. Louis, MO 63104",63104,38.6033472,-90.2154306,2.5,$$,72.0,red-lobster-maplewood
+362,"1820 Market St, St. Louis, MO 63103",63103,38.6279862,-90.20807579999999,2.5,$$,72.0,red-lobster-maplewood
+363,"736 S Broadway, St. Louis, MO 63102",63102,38.618850099999996,-90.19242840000001,2.5,$$,72.0,red-lobster-maplewood
+364,"4561 Gravois Ave, St. Louis, MO 63116",63116,38.5843422,-90.26366230000001,2.5,$$,72.0,red-lobster-maplewood
+365,"4101 Veterans Memorial Pkwy, St Peters, MO 63376",63376,38.795084,-90.572292,3.0,$$,65.0,red-lobster-saint-peters
+366,"2250 King Ave W, Billings, MT 59102",59102,45.754740999999996,-108.57221799999999,3.0,$$,36.0,red-lobster-billings
+367,"3430 W 13th St, Grand Island, NE 68803",68803,40.931981,-98.382787,3.5,$$,17.0,red-lobster-grand-island
+368,"121 2nd Ave E, Kearney, NE 68847",68847,40.6743,-99.084785,4.0,$$,26.0,red-lobster-kearney
+369,"6540 O St, Lincoln, NE 68510",68510,40.813901,-96.631221,3.5,$$,33.0,red-lobster-lincoln
+370,"2707 S 140th St, West Omaha, NE 68144",68144,41.233447,-96.133365,3.5,$$,41.0,red-lobster-west-omaha
+371,"330 S 72nd St, Omaha, NE 68114",68114,41.256198,-96.02442099999999,3.0,$$,50.0,red-lobster-omaha
+372,"570 Marks St, Henderson, NV 89014",89014,36.062443,-115.035987,3.0,$$,269.0,red-lobster-henderson
+373,"2325 E Flamingo Rd, Las Vegas, NV 89119",89119,36.114385,-115.12048300000001,3.5,$$,221.0,red-lobster-las-vegas-2
+374,"200 S Decatur Blvd, Las Vegas, NV 89107",89107,36.171729,-115.206493,3.0,$$,357.0,red-lobster-las-vegas
+375,"1870 W Craig Rd, North Las Vegas, NV 89031",89031,36.2395816,-115.16855659999999,3.0,$$,71.0,red-lobster-north-las-vegas
+376,"5015 Kietzke Ln, Reno, NV 89511",89511,39.476279999999996,-119.795469,3.5,$$,205.0,red-lobster-reno
+377,"1271 US-22, Bridgewater Township, NJ 08807",8807,40.578635,-74.580504,2.5,$$,65.0,red-lobster-bridgewater
+378,"2100 NJ-38, Cherry Hill, NJ 08002",8002,39.939644,-75.021509,3.0,$$,79.0,red-lobster-cherry-hill
+379,"3003 Route 130 South, Delran, NJ 08075",8075,40.012277000000005,-74.962735,3.5,$$,31.0,red-lobster-delran
+380,"750 Highway 18, North Dr, East Brunswick, NJ 08816",8816,40.425907,-74.380199,3.0,$$,85.0,red-lobster-east-brunswick
+381,"635 U.S, US-1, Iselin, NJ 08830",8830,40.558693,-74.306286,2.5,$$,91.0,red-lobster-iselin
+382,"3255 Brunswick Pike, Lawrenceville, NJ 08648",8648,40.290608,-74.688289,2.5,$$,75.0,red-lobster-lawrenceville
+383,"303 Route 10, Ledgewood Mall, Roxbury Township, NJ 07852",7852,40.873309000000006,-74.649224,3.5,$$,67.0,red-lobster-ledgewood-2
+384,"4411 E Black Horse Pike, Mays Landing, NJ 08330",8330,39.451939,-74.644088,3.0,$$,46.0,red-lobster-mays-landing
+385,"2200 NJ-35, Oakhurst, NJ 07755",7755,40.271598,-74.04332600000001,3.0,$$,64.0,red-lobster-oakhurst
+386,"211 NJ-17 S, Paramus, NJ 07652",7652,40.935217,-74.071432,2.5,$$,133.0,red-lobster-paramus
+387,"700 Plaza Dr, Secaucus, NJ 07094",7094,40.786442,-74.046047,3.0,$$,185.0,red-lobster-secaucus
+388,"7000 Hadley Rd, South Plainfield, NJ 07080",7080,40.55415,-74.43234100000001,2.5,$$,79.0,red-lobster-south-plainfield
+389,"1298 Hooper Ave, Toms River, NJ 08753",8753,39.986934999999995,-74.179244,3.0,$$,44.0,red-lobster-toms-river
+390,"2520 US, US-22, Union, NJ 07083",7083,40.689417999999996,-74.302256,2.0,$$,160.0,red-lobster-union
+391,"3849 S Delsea Dr, Vineland, NJ 08360",8360,39.432536,-75.03976899999999,2.5,$$,17.0,red-lobster-vineland
+392,"520 US-46, Wayne, NJ 07470",7470,40.894006,-74.241885,2.5,$$,144.0,red-lobster-wayne
+393,"1500 Almonesson Rd, Woodbury, NJ 08096",8096,39.826139000000005,-75.100451,3.0,$$,63.0,red-lobster-woodbury-2
+394,"5555 Montgomery Blvd NE, Albuquerque, NM 87109",87109,35.131839,-106.57856899999999,3.5,$$,85.0,red-lobster-albuquerque-2
+395,"10520 Coors Bypass NW, Albuquerque, NM 87114",87114,35.208446,-106.657673,3.0,$$,82.0,red-lobster-albuquerque
+396,"2601 N Prince St, Clovis, NM 88101",88101,34.424645,-103.19610300000001,2.5,$$,30.0,red-lobster-clovis
+397,"3451 E Main St, Farmington, NM 87402",87402,36.748917,-108.15985900000001,4.0,$$,30.0,red-lobster-farmington
+398,"575 S Telshor Blvd, Las Cruces, NM 88011",88011,32.314267,-106.742576,3.5,$$,23.0,red-lobster-las-cruces
+399,"2625 N Main St, Roswell, NM 88201",88201,33.426619,-104.522515,3.0,$$,30.0,red-lobster-roswell
+400,"4450 Rodeo Rd, Santa Fe, NM 87507",87507,35.637924,-106.015656,2.5,$$,38.0,red-lobster-santa-fe
+401,"4010 Maple Rd, Amherst, NY 14226",14226,42.991256,-78.814201,3.0,$$,86.0,red-lobster-amherst
+402,"2090 Bartow Ave, The Bronx, NY 10475",10475,40.869059,-73.826987,2.5,$$,180.0,red-lobster-bronx
+403,"455 Gateway Dr, Brooklyn, NY 11239",11239,40.650890000000004,-73.86991,2.5,$$,340.0,red-lobster-brooklyn
+404,"1000 McKinley Mall, Buffalo, NY 14219",14219,42.788019,-78.808799,3.0,$$,36.0,red-lobster-buffalo
+405,"211 Old Country Rd #217, Carle Place, NY 11514",11514,40.74403,-73.613392,3.0,$$,194.0,red-lobster-carle-place
+406,"170 Wolf Rd, Colonie, NY 12205",12205,42.722455,-73.80247800000001,3.0,$$,115.0,red-lobster-colonie
+407,"801 Sunrise Hwy, Copiague, NY 11726",11726,40.688966,-73.408326,2.5,$$,85.0,red-lobster-copiague
+408,"1700 The Arches Cir, Deer Park, NY 11729",11729,40.762274299999994,-73.30382359999999,3.0,,31.0,red-lobster-deer-park-deer-park
+409,"88-01 Queens Blvd, Queens, NY 11373",11373,40.735432,-73.87439599999999,2.5,$$,413.0,red-lobster-elmhurst
+410,"1 Nevada St, Hicksville, NY 11801",11801,40.777091999999996,-73.52772,3.0,$$,138.0,red-lobster-hicksville
+411,"3328 Chambers Rd S, Horseheads, NY 14845",14845,42.161167999999996,-76.877903,3.0,$$,26.0,red-lobster-horseheads
+412,"1 Miron Ln, Kingston, NY 12401",12401,41.960867,-73.98976,2.5,$$,24.0,red-lobster-kingston
+413,"295 E Fairmount Ave, Lakewood, NY 14750",14750,42.099063,-79.305425,3.0,$$,16.0,red-lobster-lakewood-5
+414,"3938 NY-31, Liverpool, NY 13090",13090,43.184833000000005,-76.23945,3.5,$$,21.0,red-lobster-clay
+415,"450 NY-211 E, Middletown, NY 10940",10940,41.455096999999995,-74.382048,3.5,$$,58.0,red-lobster-middletown
+416,"198 W Rte 59, Nanuet, NY 10954",10954,41.100079,-74.020322,2.5,$$,80.0,red-lobster-nanuet
+417,"4573 Commercial Dr, New Hartford, NY 13413",13413,43.08619,-75.316568,3.5,$$,27.0,red-lobster-new-hartford
+418,"5135 Xavier Dr, Yonkers, NY 10704",10704,40.927105,-73.852441,2.5,$$,150.0,red-lobster-yonkers
+419,"5 Times Square #5, New York, NY 10036",10036,40.755587,-73.98753,3.0,$$,631.0,red-lobster-new-york-2
+420,"261 W 125th St, New York, NY 10027",10027,40.810072999999996,-73.95048299999999,2.5,$$,239.0,red-lobster-new-york-5
+421,"230 Park Avenue at the corner of Vanderbilt Ave. and, E 45th St, New York, NY 10169",10169,40.754372100000005,-73.97618259999999,3.0,$$,631.0,red-lobster-new-york-2
+422,"284 Van Brunt St, Brooklyn, NY 11231",11231,40.6797578,-74.0103105,3.0,$$,631.0,red-lobster-new-york-2
+423,"606 West Sunrise Hwy, Valley Stream, NY 11581",11581,40.665243,-73.722146,2.0,$$,211.0,red-lobster-valley-stream
+424,"999 Central Park Ave, Scarsdale, NY 10583",10583,40.990296,-73.82304599999999,2.5,$$,95.0,red-lobster-scarsdale
+425,"222 Lafayette St, New York, NY 10012",10012,40.722112700000004,-73.99758929999999,3.0,$$,631.0,red-lobster-new-york-2
+426,"5010 Express Dr S, Ronkonkoma, NY 11779",11779,40.813145,-73.10080400000001,3.0,$$,87.0,red-lobster-ronkonkoma
+427,"2255 South Rd, Poughkeepsie, NY 12601",12601,41.643384999999995,-73.92191,3.0,$$,47.0,red-lobster-poughkeepsie
+428,"750 Upper, Glen St, Queensbury, NY 12804",12804,43.329415000000004,-73.670144,3.0,$$,30.0,red-lobster-queensbury
+429,"1515 W Ridge Rd, Rochester, NY 14615",14615,43.205005,-77.667998,2.5,$$,50.0,red-lobster-rochester-2
+430,"655 Jefferson Rd, Rochester, NY 14623",14623,43.086514,-77.62513,2.0,$$,85.0,red-lobster-rochester-7
+431,"2220 Nesconset Hwy, Stony Brook, NY 11790",11790,40.873638,-73.124599,3.0,$$,80.0,red-lobster-stony-brook
+432,"2965 Erie Blvd E, Syracuse, NY 13224",13224,43.055909,-76.087312,2.0,$$,52.0,red-lobster-syracuse
+433,"213 Village Dr, Syracuse, NY 13206",13206,43.0730549,-76.1178236,2.0,$$,52.0,red-lobster-syracuse
+434,"1200 Vestal Pkwy E, Vestal, NY 13850",13850,42.091542,-76.029668,3.5,$$,35.0,red-lobster-vestal
+435,"20831 NY-3, Watertown, NY 13601",13601,43.975016,-75.956795,3.5,$$,31.0,red-lobster-watertown
+436,"7540 Transit Rd, Williamsville, NY 14221",14221,42.973719,-78.69749300000001,3.5,$$,38.0,red-lobster-williamsville-2
+437,"139 Tunnel Rd, Asheville, NC 28805",28805,35.591838,-82.53093299999999,3.0,$$,43.0,red-lobster-asheville
+438,"1726 Glidewell Dr, Burlington, NC 27215",27215,36.0675054,-79.5176174,2.5,$$,27.0,red-lobster-burlington-2
+439,"1805 Walnut St, Cary, NC 27518",27518,35.760887,-78.743214,3.0,$$,100.0,red-lobster-cary
+440,"8012 Concord Mills Boulevard, Concord, NC 28027",28027,35.370765000000006,-80.715896,2.5,$$,121.0,red-lobster-concord
+441,"4416 Durham-Chapel Hill Blvd, Durham, NC 27707",27707,35.964486,-78.972943,2.5,$$,91.0,red-lobster-durham
+442,"533 N McPherson Church Rd, Fayetteville, NC 28303",28303,35.077071000000004,-78.95517,2.5,$$,81.0,red-lobster-fayetteville
+443,"200 N New Hope Rd, Gastonia, NC 28054",28054,35.264737,-81.150891,3.0,$$,37.0,red-lobster-gastonia
+444,"4415 W Wendover Ave, Greensboro, NC 27407",27407,36.055021,-79.897312,3.0,$$,85.0,red-lobster-greensboro
+445,"3501 S Memorial Dr, Greenville, NC 27834",27834,35.567328,-77.40259499999999,3.5,$$,22.0,red-lobster-greenville
+446,"1846 US-70 SE, Hickory, NC 28602",28602,35.706875,-81.307223,3.0,$$,32.0,red-lobster-hickory
+447,"304 A Western Blvd, Jacksonville, NC 28546",28546,34.760056,-77.381355,2.5,$$,52.0,red-lobster-jacksonville-5
+448,"9801 Independence Pointe Pkwy, Matthews, NC 28105",28105,35.133645,-80.713401,3.0,$$,97.0,red-lobster-matthews
+449,"9415 Pineville-Matthews Rd, Pineville, NC 28134",28134,35.086714,-80.877034,2.5,$$,106.0,red-lobster-pineville
+450,"4408 Old Wake Forest Rd, Raleigh, NC 27609",27609,35.841141,-78.610722,3.0,$$,112.0,red-lobster-raleigh
+451,"1010 N Wesleyan Blvd, Rocky Mount, NC 27804",27804,35.970805,-77.810263,2.5,$$,22.0,red-lobster-rocky-mount
+452,"1145 Glenway Dr, Statesville, NC 28625",28625,35.809267,-80.868865,3.5,$$,32.0,red-lobster-statesville
+453,"1690 Westbrook Plaza Dr, Winston-Salem, NC 27103",27103,36.068571,-80.305964,2.5,$$,40.0,red-lobster-winston-salem
+454,"1130 E Century Ave, Bismarck, ND 58503",58503,46.838501,-100.773843,3.5,$$,27.0,red-lobster-bismarck
+455,"3901 Medina Rd, Akron, OH 44333",44333,41.136396000000005,-81.64032900000001,2.5,$$,32.0,red-lobster-akron
+456,"3013 N Ridge Rd E, Ashtabula, OH 44004",44004,41.877819,-80.757052,3.0,$$$,10.0,red-lobster-ashtabula
+457,"3655 Orange Pl, Beachwood, OH 44122",44122,41.459639,-81.487483,2.5,$$,73.0,red-lobster-beachwood
+458,"2803 N Fairfield Rd, Beavercreek, OH 45431",45431,39.771364,-84.052727,3.0,$$,33.0,red-lobster-beavercreek
+459,"4600 Belden Village St NW, Canton, OH 44718",44718,40.856068,-81.433846,3.0,$$,28.0,red-lobster-canton-2
+460,"1079 N Bridge St, Chillicothe, OH 45601",45601,39.359103000000005,-82.975693,3.5,$$,14.0,red-lobster-chillicothe
+461,"320 Cincinnati Mills Dr, Cincinnati, OH 45240",45240,39.302603000000005,-84.522908,3.0,$$,56.0,red-lobster-cincinnati
+462,"616 Ohio Pike, Cincinnati, OH 45245",45245,39.066047,-84.294467,3.0,$$,31.0,red-lobster-cincinnati-3
+463,"8220 Montgomery Rd, Cincinnati, OH 45236",45236,39.205548,-84.366475,2.5,$$,76.0,red-lobster-cincinnati-4
+464,"3564 Springdale Rd, Cincinnati, OH 45251",45251,39.249607,-84.595955,2.5,$$,40.0,red-lobster-cincinnati-2
+465,"1520 Georgesville Rd, Columbus, OH 43228",43228,39.920333,-83.12517700000001,3.0,$$,56.0,red-lobster-columbus-7
+466,"2147 S Hamilton Rd, Columbus, OH 43232",43232,39.930821,-82.880071,2.5,$$,49.0,red-lobster-columbus-5
+467,"1270 Polaris Pkwy, Columbus, OH 43240",43240,40.142168,-82.985486,3.5,$$,63.0,red-lobster-columbus-4
+468,"1691 E Dublin Granville Rd, Columbus, OH 43229",43229,40.086346999999996,-82.972826,2.0,$$,45.0,red-lobster-columbus-2
+469,"6091 Sawmill Rd, Dublin, OH 43017",43017,40.0902652,-83.0922592,2.5,$$,77.0,red-lobster-dublin-4
+470,"1090 Graham Rd, Cuyahoga Falls, OH 44224",44224,41.162537,-81.474183,3.0,$$,43.0,red-lobster-cuyahoga-falls
+471,"6500 Miller Ln, Dayton, OH 45414",45414,39.842560999999996,-84.191586,3.0,$$,28.0,red-lobster-dayton
+472,"8200 N Springboro Pike, Miamisburg, OH 45342",45342,39.6314871,-84.22500140000001,3.0,$$,40.0,red-lobster-miamisburg
+473,"6935 Midway Mall, Elyria, OH 44035",44035,41.3983352,-82.1151784,3.0,$$,27.0,red-lobster-elyria
+474,"17227 Southpark Center, Strongsville, OH 44136",44136,41.311557,-81.82099699999999,3.0,$$,29.0,red-lobster-strongsville
+475,"2340 Tiffin Ave, Findlay, OH 45840",45840,41.056028999999995,-83.596413,4.5,$$,16.0,red-lobster-findlay
+476,"909 Hebron Rd, Heath, OH 43056",43056,40.026868,-82.44703299999999,4.0,$$,18.0,red-lobster-heath
+477,"1515 River Valley Cir N, Lancaster, OH 43130",43130,39.732411,-82.62441700000001,3.0,$$,23.0,red-lobster-lancaster-2
+478,"2150 Harding Hwy, Lima, OH 45804",45804,40.730345,-84.0656,3.5,$$,13.0,red-lobster-lima
+479,"2322 W 4th St, Mansfield, OH 44906",44906,40.774259,-82.598615,4.0,$$,14.0,red-lobster-mansfield
+480,"1318 Mt Vernon Ave, Marion, OH 43302",43302,40.581464000000004,-83.09435,3.0,$$,9.0,red-lobster-marion
+481,"1422 S Reynolds Rd, Maumee, OH 43537",43537,41.583574,-83.664282,3.0,$$,28.0,red-lobster-maumee
+482,"4990 Monroe St, Toledo, OH 43623",43623,41.69826,-83.641003,2.5,$$,34.0,red-lobster-toledo
+483,"7744 Reynolds Rd, Mentor, OH 44060",44060,41.660607,-81.378885,2.5,$$,58.0,red-lobster-mentor
+484,"255 Graff Rd SE, New Philadelphia, OH 44663",44663,40.480039,-81.44453299999999,3.0,$$,9.0,red-lobster-new-philadelphia
+485,"5701 Youngstown Warren Rd, Niles, OH 44446",44446,41.210144,-80.74897,3.0,$$,25.0,red-lobster-niles
+486,"25615 Brookpark Rd, North Olmsted, OH 44070",44070,41.418315,-81.904746,3.0,$$,57.0,red-lobster-north-olmsted
+487,"7607 Day Dr, Parma, OH 44129",44129,41.380018,-81.736628,2.5,$$,43.0,red-lobster-parma
+488,"991 E Ash St, Piqua, OH 45356",45356,40.150588,-84.223395,3.0,$$,15.0,red-lobster-piqua
+489,"50740 Valley, Center St, St Clairsville, OH 43950",43950,40.074141,-80.87063,3.5,$$,13.0,red-lobster-saint-clairsville
+490,"Mall, 4016 Milan Rd, Sandusky, OH 44870",44870,41.419834,-82.675004,2.5,$$$,19.0,red-lobster-sandusky
+491,"1898 W 1st St, Springfield, OH 45504",45504,39.941966,-83.839608,3.5,$$,18.0,red-lobster-springfield
+492,"3805 Burbank Rd, Wooster, OH 44691",44691,40.846097,-81.94343,2.5,$$,12.0,red-lobster-wooster
+493,"1410 Boardman Poland Rd, Youngstown, OH 44514",44514,41.024707,-80.629137,3.0,$$$,28.0,red-lobster-youngstown
+494,"755 Zane St, Zanesville, OH 43701",43701,39.948116,-82.001719,3.5,$$,15.0,red-lobster-zanesville
+495,"3112 NW Cache Rd, Lawton, OK 73505",73505,34.623081,-98.431668,3.0,$$,26.0,red-lobster-lawton
+496,"225 W Shawnee St, Muskogee, OK 74401",74401,35.769324,-95.36200699999999,2.5,$$,21.0,red-lobster-muskogee
+497,"302 N Interstate Dr, Norman, OK 73072",73072,35.220993,-97.486519,3.5,$$,34.0,red-lobster-norman
+498,"4243 NW Expressway Street, Oklahoma City, OK 73116",73116,35.540122,-97.595801,2.5,$$,55.0,red-lobster-oklahoma-city-3
+499,"2625 W Memorial Rd, Oklahoma City, OK 73134",73134,35.610176,-97.56192800000001,3.0,$$,53.0,red-lobster-oklahoma-city-2
+500,"1000 W Interstate 240 Service Rd, Oklahoma City, OK 73139",73139,35.39065,-97.532021,3.0,$$,59.0,red-lobster-oklahoma-city
+501,"435 Shawnee Mall Dr, Shawnee, OK 74804",74804,35.385119,-96.926964,3.0,$$,20.0,red-lobster-shawnee
+502,"102 E Hall of Fame Ave, Stillwater, OK 74075",74075,36.127221999999996,-97.058338,2.5,$$,24.0,red-lobster-stillwater
+503,"4525 E 51st St, Tulsa, OK 74135",74135,36.09025,-95.925289,3.0,$$,43.0,red-lobster-tulsa
+504,"6728 S Memorial Dr, Tulsa, OK 74133",74133,36.064884,-95.886923,3.5,$$,53.0,red-lobster-tulsa-2
+505,"1085 Valley River Way, Eugene, OR 97401",97401,44.069615,-123.1031031,3.5,$$,113.0,red-lobster-eugene
+506,"240 NW Burnside Rd, Gresham, OR 97030",97030,45.508982,-122.43325300000001,3.5,$$,135.0,red-lobster-gresham
+507,"2200 Crater Lake Hwy, Medford, OR 97504",97504,42.348603999999995,-122.877982,3.5,$$,94.0,red-lobster-medford
+508,"521 Lancaster Dr NE, Salem, OR 97301",97301,44.937367,-122.9833881,3.0,$$,94.0,red-lobster-salem
+509,"10330 SW Greenburg Rd, Tigard, OR 97223",97223,45.445523,-122.77596000000001,3.0,$$,230.0,red-lobster-tigard
+510,"3330 Pleasant Valley Blvd, Altoona, PA 16602",16602,40.482793,-78.400988,3.0,$$,10.0,red-lobster-altoona
+511,"3588 PA-611, Bartonsville, PA 18321",18321,41.000359,-75.270827,3.0,$$,72.0,red-lobster-bartonsville-2
+512,"104 Moraine Pointe Plaza, Butler, PA 16001",16001,40.877720000000004,-79.95125,3.5,$$,23.0,red-lobster-butler
+513,"935 Wayne Ave, Chambersburg, PA 17201",17201,39.914396,-77.652934,3.5,$$,24.0,red-lobster-chambersburg
+514,"813 E DuBois Ave, DuBois, PA 15801",15801,41.124738,-78.738366,3.5,$$,20.0,red-lobster-du-bois
+515,"2040 Edinboro Road, Millcreek Mall, Erie, PA 16509",16509,42.064744,-80.098628,2.5,$$,32.0,red-lobster-erie
+516,"5080 US-30 E, Greensburg, PA 15601",15601,40.300895000000004,-79.492023,3.0,$$,33.0,red-lobster-greensburg
+517,"407 Eisenhower Dr, Hanover, PA 17331",17331,39.824704,-76.9805,2.5,$$,23.0,red-lobster-hanover
+518,"4300 Jonestown Rd, Harrisburg, PA 17109",17109,40.299569,-76.820175,3.0,$$,60.0,red-lobster-harrisburg
+519,"3370 Shenango Valley Fwy, Hermitage, PA 16148",16148,41.230732,-80.447703,3.0,$$,12.0,red-lobster-hermitage
+520,"525 Galleria Dr, Johnstown, PA 15904",15904,40.2978,-78.836327,4.0,$$,17.0,red-lobster-johnstown
+521,"425 W Dekalb Pike, King of Prussia, PA 19406",19406,40.090657,-75.37330899999999,2.5,$$,127.0,red-lobster-king-of-prussia
+522,"2090 Lincoln Hwy E, Lancaster, PA 17602",17602,40.030390000000004,-76.235892,3.0,$$,42.0,red-lobster-lancaster
+523,"2275 Lincoln Hwy, Langhorne, PA 19047",19047,40.178281,-74.880185,3.0,$$,71.0,red-lobster-langhorne
+524,"640 Cowpath Rd, Lansdale, PA 19446",19446,40.247645,-75.245023,2.5,$$,73.0,red-lobster-lansdale
+525,"16736 Conneaut Lake Rd, Meadville, PA 16335",16335,41.623584,-80.201514,3.0,$$$,7.0,red-lobster-meadville
+526,"4711 Carlisle Pike, Mechanicsburg, PA 17050",17050,40.237877000000005,-76.96378,3.5,$$,44.0,red-lobster-mechanicsburg
+527,"3941 William Penn Hwy, Monroeville, PA 15146",15146,40.438401,-79.775403,3.0,$$,49.0,red-lobster-monroeville
+528,"9140 Roosevelt Blvd E, Philadelphia, PA 19115",19115,40.075949,-75.034346,2.5,$$,106.0,red-lobster-philadelphia
+529,"259 Clairton Blvd, Pittsburgh, PA 15236",15236,40.338331,-79.952066,3.5,$$,34.0,red-lobster-pittsburgh-2
+530,"6150 Robinson Centre Dr, Pittsburgh, PA 15205",15205,40.451402,-80.16060999999999,3.5,$$,42.0,red-lobster-pittsburgh
+531,"4766 McKnight Rd, Pittsburgh, PA 15237",15237,40.519447,-80.004391,3.0,$$,60.0,red-lobster-pittsburgh-3
+532,"223 Shoemaker Rd, Pottstown, PA 19464",19464,40.254113000000004,-75.660487,2.5,$$,38.0,red-lobster-pottstown
+533,"1502 Scranton Carbondale Hwy, Scranton, PA 18508",18508,41.470387,-75.636723,2.0,$$,34.0,red-lobster-scranton-2
+534,"1 Baltimore Pike, Springfield, PA 19064",19064,39.924088,-75.312216,2.5,$$,86.0,red-lobster-springfield-2
+535,"1670 N Atherton St, State College, PA 16803",16803,40.807587,-77.89603699999999,3.0,$$,33.0,red-lobster-state-college
+536,"515 W Main St, Uniontown, PA 15401",15401,39.907815,-79.742224,3.0,$$,16.0,red-lobster-uniontown
+537,"1005 Trinity Cir, Washington, PA 15301",15301,40.184906,-80.223676,3.5,$$,20.0,red-lobster-washington
+538,"800 Lehigh Lifestyle Center, Whitehall, PA 18052",18052,40.633703000000004,-75.479314,3.0,$$,65.0,red-lobster-whitehall
+539,"10 East End Center, Wilkes-Barre, PA 18702",18702,41.250219,-75.851203,3.0,$$,29.0,red-lobster-wilkes-barre
+540,"1951 E 3rd St, Williamsport, PA 17701",17701,41.248613,-76.961761,3.0,$$,28.0,red-lobster-williamsport
+541,"945 Woodland Rd, Wyomissing, PA 19610",19610,40.346546000000004,-75.96793100000001,3.0,$$,36.0,red-lobster-wyomissing-2
+542,"2555 E Market Street York Co Shopping Center, York, PA 17402",17402,39.975196999999994,-76.676487,3.0,$$,34.0,red-lobster-york
+543,"950 Aiken Mall Dr SW, Aiken, SC 29803",29803,33.50789,-81.711876,3.0,$$,15.0,red-lobster-aiken
+544,"3426 Clemson Blvd, Anderson, SC 29621",29621,34.547986,-82.671495,3.0,$$,30.0,red-lobster-anderson-2
+545,"1270 Knox Abbott Dr, Cayce, SC 29033",29033,33.979132,-81.072291,3.0,$$,50.0,red-lobster-cayce
+546,"2080 Sam Rittenberg Blvd, Charleston, SC 29407",29407,32.792409,-80.031503,3.0,$$,41.0,red-lobster-charleston-2
+547,"2460 Mall Dr, North Charleston, SC 29406",29406,32.876556,-80.014299,2.5,$$,69.0,red-lobster-north-charleston
+548,"10136 Two Notch Rd Unit 106, Columbia, SC 29229",29229,34.117286,-80.88154499999999,3.0,$$,50.0,red-lobster-columbia-2
+549,"2540 David H McLeod Blvd, Florence, SC 29501",29501,34.188277,-79.830783,3.0,$$,36.0,red-lobster-florence
+550,"1940 Wade Hampton Blvd, Greenville, SC 29615",29615,34.879194,-82.359964,3.0,$$,57.0,red-lobster-greenville-2
+551,"1616 By-Pass 72 N.E, Greenwood, SC 29649",29649,34.21702,-82.15830600000001,3.0,$$,13.0,red-lobster-greenwood
+552,"1230 N Retail Ct, Myrtle Beach, SC 29577",29577,33.706095,-78.920426,4.0,$$,49.0,red-lobster-myrtle-beach-3
+553,"10000 US-17 BUS, Myrtle Beach, SC 29572",29572,33.785554,-78.778432,3.5,$$,35.0,red-lobster-myrtle-beach
+554,"170 E Blackstock Rd, Spartanburg, SC 29301",29301,34.930807,-81.989612,2.5,$$,30.0,red-lobster-spartanburg
+555,"1034 Broad St, Sumter, SC 29150",29150,33.947492,-80.37492900000001,3.0,$$,18.0,red-lobster-sumter
+556,"120 Disk Dr, Rapid City, SD 57701",57701,44.105174,-103.21276,4.0,$$,27.0,red-lobster-rapid-city
+557,"3901 W 41st St, Sioux Falls, SD 57106",57106,43.513824,-96.773821,2.5,$$,29.0,red-lobster-sioux-falls
+558,"5259 Hickory Hollow Pkwy, Antioch, TN 37013",37013,36.0474,-86.65692,3.0,$$,47.0,red-lobster-antioch-3
+559,"2200 Bams Dr, Chattanooga, TN 37421",37421,35.038958,-85.157596,2.5,$$,51.0,red-lobster-chattanooga-2
+560,"2131 Northgate Mall Lane, Chattanooga, TN 37415",37415,35.133174,-85.240775,2.5,$$,25.0,red-lobster-chattanooga
+561,"2838 Wilma Rudolph Blvd, Clarksville, TN 37040",37040,36.590298,-87.292712,3.5,$$,44.0,red-lobster-clarksville-2
+562,"1410 Interstate Dr, Cookeville, TN 38501",38501,36.137401000000004,-85.512162,3.5,$$,19.0,red-lobster-cookeville
+563,"1718 Galleria Blvd, Franklin, TN 37067",37067,35.964464,-86.810427,2.5,$$,48.0,red-lobster-franklin
+564,"123 Stonebrook Pl, Jackson, TN 38305",38305,35.685682,-88.856578,3.5,$$,16.0,red-lobster-jackson-3
+565,"1909 N Roan St, Johnson City, TN 37601",37601,36.337524,-82.374024,3.0,$$,24.0,red-lobster-johnson-city
+566,"8040 Kingston Pike, Knoxville, TN 37919",37919,35.924076,-84.04861700000001,2.5,$$,48.0,red-lobster-knoxville-2
+567,"305 Merchant Dr, Knoxville, TN 37912",37912,36.009883,-83.974845,2.5,$$,28.0,red-lobster-knoxville
+568,"359 S Illinois Ave, Oak Ridge, TN 37830",37830,36.007045,-84.254425,3.5,$$,20.0,red-lobster-oak-ridge
+569,"1600 Parkway, Sevierville, TN 37862",37862,35.834295000000004,-83.57316800000001,3.5,$$,47.0,red-lobster-sevierville
+570,"1814 Gallatin Pike N, Madison, TN 37115",37115,36.299358000000005,-86.697761,3.0,$$,40.0,red-lobster-madison-2
+571,"8161 US-64, Memphis, TN 38133",38133,35.203936999999996,-89.790456,2.5,$$,84.0,red-lobster-memphis-2
+572,"7750 Winchester Rd, Memphis, TN 38125",38125,35.049825,-89.804874,2.5,$$,66.0,red-lobster-memphis
+573,"401 S Mt Juliet Rd STE 120, Mt. Juliet, TN 37122",37122,36.167978999999995,-86.512924,3.0,$$,51.0,red-lobster-mount-juliet
+574,"1745 Old Fort Pkwy, Murfreesboro, TN 37129",37129,35.845242999999996,-86.419568,3.5,$$,40.0,red-lobster-murfreesboro
+575,"1947 N Jackson St, Tullahoma, TN 37388",37388,35.386025,-86.234009,3.0,$$,13.0,red-lobster-tullahoma
+576,"1280 S Clack St, Abilene, TX 79605",79605,32.436488,-99.78774,3.0,$$,43.0,red-lobster-abilene
+577,"3311 I-40 W, Amarillo, TX 79109",79109,35.191084000000004,-101.875182,3.0,$$,39.0,red-lobster-amarillo
+578,"4233 S Cooper St, Arlington, TX 76015",76015,32.678214000000004,-97.134486,2.5,$$,136.0,red-lobster-arlington
+579,"3815 S Lamar Blvd, Austin, TX 78704",78704,30.237734000000003,-97.789567,3.0,$$,139.0,red-lobster-austin
+580,"2702 A, Parker Dr, Round Rock, TX 78681",78681,30.480651,-97.68238199999999,3.0,$$,192.0,red-lobster-round-rock
+581,"109 W Anderson Ln, Austin, TX 78752",78752,30.343625,-97.7060922,3.0,$$,144.0,red-lobster-austin-2
+582,"4717 Highway 10, Baytown, TX 77521",77521,29.804571000000003,-94.987262,2.5,$$,47.0,red-lobster-baytown
+583,"2820 IH-10 East, Beaumont, TX 77703",77703,30.096927,-94.132285,2.0,$$,41.0,red-lobster-beaumont
+584,"1075 FM802, Brownsville, TX 78521",78521,25.949847000000002,-97.503866,3.0,$$,15.0,red-lobster-brownsville
+585,"1175 N Burleson Blvd, Burleson, TX 76028",76028,32.569146,-97.31972900000001,2.5,$$,67.0,red-lobster-burleson
+586,"1200 University Dr, College Station, TX 77840",77840,30.636003000000002,-96.31955400000001,2.0,,2.0,red-lobster-bryan
+587,"2944 Interstate 45 N, Conroe, TX 77303",77303,30.346264,-95.481993,2.5,$$,47.0,red-lobster-conroe-3
+588,"5825 S Padre Island Dr, Corpus Christi, TX 78412",78412,27.704871999999998,-97.365904,2.5,$$,63.0,red-lobster-corpus-christi
+589,"9069 Vantage Point Dr, Dallas, TX 75243",75243,32.917154,-96.74568199999999,3.0,$$,122.0,red-lobster-dallas-2
+590,"3906 Towne Crossing Blvd, Mesquite, TX 75150",75150,32.818554999999996,-96.630881,2.5,$$,101.0,red-lobster-mesquite
+591,"10290 E Technology Blvd E, Dallas, TX 75220",75220,32.862891999999995,-96.896528,3.0,$$,102.0,red-lobster-dallas
+592,"2801 S Interstate 35 E, Denton, TX 76210",76210,33.183221,-97.10230899999999,3.0,$$,93.0,red-lobster-denton
+593,"603 N, S Cockrell Hill Rd, Duncanville, TX 75116",75116,32.657982000000004,-96.89184399999999,2.5,$$,76.0,red-lobster-duncanville
+594,"8401 Gateway Blvd W, El Paso, TX 79925",79925,31.7753,-106.38356999999999,3.5,$$,33.0,red-lobster-el-paso-3
+595,"1860 Joe Battle Blvd, El Paso, TX 79936",79936,31.756960999999997,-106.26695900000001,3.5,$$,46.0,red-lobster-el-paso-2
+596,"800 Sunland Park Dr, El Paso, TX 79912",79912,31.816567,-106.547081,3.5,$$,35.0,red-lobster-el-paso-4
+597,"4805 S Hulen St, Fort Worth, TX 76132",76132,32.67675,-97.395462,2.5,$$,75.0,red-lobster-fort-worth
+598,"7800 Bedford Euless Rd, North Richland Hills, TX 76180",76180,32.833864,-97.211529,3.0,$$,117.0,red-lobster-north-richland-hills
+599,"4205 W Airport Fwy, Irving, TX 75062",75062,32.838366,-97.010037,3.0,$$,94.0,red-lobster-irving
+600,"3056 Preston Rd, Frisco, TX 75034",75034,33.103328000000005,-96.804919,2.5,$$,176.0,red-lobster-frisco
+601,"7601 Wesley St, Greenville, TX 75402",75402,33.093578,-96.109226,3.0,$$,44.0,red-lobster-greenville-4
+602,"2760 S Texas 6, Houston, TX 77082",77082,29.729814,-95.64489300000001,2.5,$$,113.0,red-lobster-houston-2
+603,"13232 Northwest Fwy, Houston, TX 77040",77040,29.847458000000003,-95.501408,2.5,$$,133.0,red-lobster-houston-3
+604,"302 Farm to Market 1960 Rd W, Houston, TX 77090",77090,30.020533,-95.433275,3.0,$$,93.0,red-lobster-houston
+605,"20414 US-59 N, Humble, TX 77338",77338,30.011744,-95.263903,3.0,$$,70.0,red-lobster-humble-2
+606,"888 Bay Area Blvd, Webster, TX 77598",77598,29.543422999999997,-95.137183,3.0,$$,87.0,red-lobster-webster
+607,"25408 Bell Patna Dr, Katy, TX 77494",77494,29.777652000000003,-95.813586,2.5,$$,106.0,red-lobster-katy
+608,"2323 Hwy 6, Sugar Land, TX 77478",77478,29.597503000000003,-95.618444,2.5,$$,100.0,red-lobster-sugar-land
+609,"4002 Spencer Hwy, Pasadena, TX 77504",77504,29.664769,-95.183304,3.0,$$,47.0,red-lobster-pasadena
+610,"1001 E Central Texas Expy, Killeen, TX 76541",76541,31.09542,-97.73133299999999,2.0,$$,141.0,red-lobster-killeen
+611,"104 HWY 332 W, Lake Jackson, TX 77566",77566,29.047881,-95.456909,3.0,$$,32.0,red-lobster-lake-jackson
+612,"5315 San Dario Ave, Laredo, TX 78041",78041,27.551932,-99.502965,4.0,$$,8.0,red-lobster-laredo
+613,"2497 S Stemmons Fwy, Lewisville, TX 75067",75067,33.003036,-96.96685699999999,2.5,$$,95.0,red-lobster-lewisville
+614,"3515 McCann Rd, Longview, TX 75605",75605,32.540465999999995,-94.75482,2.5,$$,39.0,red-lobster-longview
+615,"5034 50th St, Lubbock, TX 79414",79414,33.549397,-101.921138,2.5,$$,54.0,red-lobster-lubbock
+616,"1919 S 1st St, Lufkin, TX 75901",75901,31.310591,-94.726514,2.5,$$,30.0,red-lobster-lufkin
+617,"7617 N 10th St, McAllen, TX 78504",78504,26.272282,-98.218756,2.5,$$,37.0,red-lobster-mcallen
+618,"701 W Expy 83, McAllen, TX 78503",78503,26.18835,-98.22965500000001,3.5,$$,18.0,red-lobster-mcallen-2
+619,"4536 E University Blvd, Odessa, TX 79762",79762,31.878778000000004,-102.329914,2.5,$$,72.0,red-lobster-odessa
+620,"11104 Broadway St, Pearland, TX 77584",77584,29.555134999999996,-95.39165899999999,2.0,$$,134.0,red-lobster-pearland
+621,"3501 Central Expy, Plano, TX 75023",75023,33.044466,-96.70167099999999,3.0,$$,166.0,red-lobster-plano
+622,"4401 Kemp Blvd, Wichita Falls, TX 76308",76308,33.863533000000004,-98.535422,3.0,$$,39.0,red-lobster-wichita-falls
+623,"8210 I-H 35 North, San Antonio, TX 78239",78239,29.512894,-98.396231,3.0,$$,80.0,red-lobster-san-antonio-5
+624,"3909 Sunset Dr, San Angelo, TX 76904",76904,31.428023,-100.495563,2.5,$$,48.0,red-lobster-san-angelo
+625,"5815 N Loop 1604 W, San Antonio, TX 78249",78249,29.591579,-98.601561,3.0,$$,83.0,red-lobster-san-antonio
+626,"4550 Northwest Loop 410, San Antonio, TX 78229",78229,29.488816999999997,-98.57235,3.5,$$,69.0,red-lobster-san-antonio-3
+627,"17415 US-281 North, San Antonio, TX 78232",78232,29.602484000000004,-98.471365,3.0,$$,87.0,red-lobster-san-antonio-2
+628,"1381 SW Loop 410, San Antonio, TX 78227",78227,29.419934,-98.650435,3.0,$$,45.0,red-lobster-san-antonio-6
+629,"7835 Interstate 35 Access Rd, San Antonio, TX 78224",78224,29.350613,-98.53600899999999,3.0,$$,38.0,red-lobster-san-antonio-7
+630,"100 N Interstate 35 Frontage Rd, San Marcos, TX 78666",78666,29.868323999999998,-97.938375,3.0,$$,93.0,red-lobster-san-marcos
+631,"18446 Interstate 45 S, Shenandoah, TX 77384",77384,30.188333,-95.45380899999999,3.0,$$,63.0,red-lobster-shenandoah
+632,"3600 N, US-75, Sherman, TX 75090",75090,33.677215999999994,-96.610155,3.0,$$,35.0,red-lobster-sherman
+633,"3002 St Michael Dr, Texarkana, TX 75503",75503,33.461168,-94.0786,2.5,$$,33.0,red-lobster-texarkana
+634,"1500 W SW Loop 323, Tyler, TX 75701",75701,32.303013,-95.318089,2.5,$$,54.0,red-lobster-tyler
+635,"7404 Zac Lentz Pkwy, Victoria, TX 77904",77904,28.864815999999998,-96.995805,2.5,$$,21.0,red-lobster-victoria
+636,"5925 W Waco Dr, Waco, TX 76710",76710,31.514011,-97.188079,2.5,$$,49.0,red-lobster-waco
+637,"979 N 400 W, Layton, UT 84041",84041,41.074436,-111.974549,3.0,$$,73.0,red-lobster-layton
+638,"298 E Winchester St, Murray, UT 84107",84107,40.632109,-111.88199099999999,3.0,$$,109.0,red-lobster-murray
+639,"1261 S 800 E, Orem, UT 84097",84097,40.273564,-111.675526,3.0,$$,73.0,red-lobster-orem
+640,"263 N, Red Cliffs Dr, St. George, UT 84790",84790,37.112426,-113.554409,3.5,$$,74.0,red-lobster-saint-george
+641,"2294 1300 E, Salt Lake City, UT 84106",84106,40.720633,-111.854114,3.0,$$,82.0,red-lobster-salt-lake-city-2
+642,"555 S Van Dorn St, Alexandria, VA 22304",22304,38.805088,-77.13449399999999,2.5,$$,202.0,red-lobster-alexandria
+643,"3167 Linden Dr, Bristol, VA 24202",24202,36.629216,-82.126305,3.5,$$$,17.0,red-lobster-bristol
+644,"1648 Rio Rd E, Charlottesville, VA 22901",22901,38.080075,-78.47346,2.5,$$,50.0,red-lobster-charlottesville
+645,"4115 Chesapeake Square Blvd, Chesapeake, VA 23321",23321,36.825363,-76.40997,3.0,$$,56.0,red-lobster-chesapeake
+646,"75 Peppers FRY RD NW, Christiansburg, VA 24073",24073,37.163911999999996,-80.425374,2.5,$$,31.0,red-lobster-christiansburg
+647,"119 Temple Lake Dr, Colonial Heights, VA 23834",23834,37.253857,-77.385849,2.0,$$,59.0,red-lobster-colonial-heights-2
+648,"370 Mall Dr, Danville, VA 24540",24540,36.596107,-79.421223,2.0,$$,23.0,red-lobster-danville
+649,"10325 Fairfax Blvd, Fairfax, VA 22030",22030,38.859982,-77.300925,3.0,$$,197.0,red-lobster-fairfax
+650,"3109 Spotsylvania Mall Dr, Fredericksburg, VA 22407",22407,38.292693,-77.517553,3.0,$$,73.0,red-lobster-fredericksburg
+651,"1046 W Mercury Blvd, Hampton, VA 23666",23666,37.043034000000006,-76.38374,2.5,$$,42.0,red-lobster-hampton
+652,"2121 E Market St, Harrisonburg, VA 22801",22801,38.424566,-78.839906,3.0,$$,27.0,red-lobster-harrisonburg
+653,"3425 Candlers Mountain Rd, Lynchburg, VA 24502",24502,37.366184999999994,-79.17424799999999,3.0,$$,39.0,red-lobster-lynchburg-2
+654,"7505 Broken Branch Ln, Manassas, VA 20109",20109,38.791656,-77.514797,3.0,$$,102.0,red-lobster-manassas
+655,"13236 Rittenhouse Dr, Midlothian, VA 23112",23112,37.416212,-77.640357,3.0,$$,55.0,red-lobster-midlothian
+656,"12580 Jefferson Ave, Newport News, VA 23602",23602,37.131484,-76.513834,2.5,$$,48.0,red-lobster-newport-news
+657,"8009 W Broad St, Richmond, VA 23294",23294,37.6251,-77.53076,3.5,$$,54.0,red-lobster-richmond
+658,"4415 S Laburnum Ave, Richmond, VA 23231",23231,37.529656,-77.357935,2.5,$$,46.0,red-lobster-richmond-2
+659,"3529 Franklin Rd SW, Roanoke, VA 24014",24014,37.237607000000004,-79.968731,3.0,$$,29.0,red-lobster-roanoke
+660,"1477 Greenville Ave, Staunton, VA 24401",24401,38.123084999999996,-79.065084,2.5,$$,20.0,red-lobster-staunton
+661,"21065 Dulles Town Center, Sterling, VA 20166",20166,39.028425,-77.424171,3.0,$$,131.0,red-lobster-sterling
+662,"709 Independence Blvd, Virginia Beach, VA 23455",23455,36.863186999999996,-76.132716,3.0,$$,78.0,red-lobster-virginia-beach
+663,"Lynnhaven Mall, 821 Lynnhaven Pkwy, Virginia Beach, VA 23452",23452,36.812909999999995,-76.069704,3.0,$$,58.0,red-lobster-virginia-beach-2
+664,"1956 Laskin Rd, Virginia Beach, VA 23454",23454,36.847658700000004,-76.0359513,3.0,$$,58.0,red-lobster-virginia-beach-2
+665,"3311 Shore Dr, Virginia Beach, VA 23451",23451,36.9060826,-76.0864067,3.0,$$,78.0,red-lobster-virginia-beach
+666,"2865 Lynnhaven Dr A5, Virginia Beach, VA 23451",23451,36.9072187,-76.0685662,3.0,$$,78.0,red-lobster-virginia-beach
+667,"308 Mediterranean Ave, Virginia Beach, VA 23451",23451,36.8317041,-75.9782013,3.0,$$,58.0,red-lobster-virginia-beach-2
+668,"2165 General Booth Blvd STE 154, Virginia Beach, VA 23454",23454,36.765343900000005,-76.0152092,3.0,$$,58.0,red-lobster-virginia-beach-2
+669,"227 Mediterranean Ave, Virginia Beach, VA 23451",23451,36.831084000000004,-75.977238,3.0,$$,58.0,red-lobster-virginia-beach-2
+670,"2100 Richmond Rd, Williamsburg, VA 23185",23185,37.299749,-76.728324,3.0,$$,38.0,red-lobster-williamsburg
+671,"2400 S Pleasant Valley Rd, Winchester, VA 22601",22601,39.15531,-78.17456899999999,2.5,$$,39.0,red-lobster-winchester-2
+672,"2544 Prince William Pkwy, Woodbridge, VA 22192",22192,38.652271999999996,-77.288658,2.5,$$,134.0,red-lobster-woodbridge
+673,"2006 S 320th St, Federal Way, WA 98003",98003,47.315519,-122.307745,3.0,$$,224.0,red-lobster-federal-way
+674,"203 Three Rivers Dr, Kelso, WA 98626",98626,46.143342,-122.8998779,3.5,$$,69.0,red-lobster-kelso
+675,"1120 N Columbia Center Blvd, Kennewick, WA 99336",99336,46.222671000000005,-119.222695,2.5,$$,77.0,red-lobster-kennewick
+676,"4231 196th St SW, Lynnwood, WA 98036",98036,47.821342,-122.29096200000001,3.0,$$,367.0,red-lobster-lynnwood
+677,"4505 Martin Way E, Olympia, WA 98516",98516,47.048028,-122.82498999999999,3.0,$$,104.0,red-lobster-olympia
+678,"3208 NW Randall Way, Silverdale, WA 98383",98383,47.660166,-122.69371699999999,3.0,$$,94.0,red-lobster-silverdale
+679,"4703 N Division St, Spokane, WA 99207",99207,47.701056,-117.411557,2.5,$$,112.0,red-lobster-spokane
+680,"1929 S 72nd St, Tacoma, WA 98408",98408,47.192077000000005,-122.460999,3.5,$$,164.0,red-lobster-tacoma
+681,"8219 NE Vancouver Mall Dr, Vancouver, WA 98662",98662,45.656458,-122.5884553,3.0,$$,140.0,red-lobster-vancouver
+682,"905 N 1st St, Yakima, WA 98901",98901,46.613915999999996,-120.511168,2.5,$$,51.0,red-lobster-yakima
+683,"101 Cross Terrace Blvd, Charleston, WV 25309",25309,38.317609000000004,-81.71695799999999,3.0,$$,28.0,red-lobster-charleston
+684,"200 10th St, Huntington, WV 25701",25701,38.423513,-82.442233,3.0,$$,21.0,red-lobster-huntington
+685,"1512 University Town Centre Dr, Morgantown, WV 26501",26501,39.655013000000004,-80.005177,3.5,$$,24.0,red-lobster-morgantown
+686,"3705 Murdock Avenue, Parkersburg, WV 26101",26101,39.29717,-81.547218,3.0,$$$,19.0,red-lobster-parkersburg
+687,"1200 N Casaloma Dr, Appleton, WI 54913",54913,44.272476,-88.475569,3.0,$$,26.0,red-lobster-appleton
+688,"1251 Lombardi Access Rd, Ashwaubenon, WI 54304",54304,44.506443700000005,-88.0737008,3.0,$$,37.0,red-lobster-ashwaubenon
+689,"1019 W Clairemont Ave, Eau Claire, WI 54701",54701,44.792153000000006,-91.514552,3.5,$$,19.0,red-lobster-eau-claire
+690,"4645 S 76th St, Greenfield, WI 53220",53220,42.960442,-88.008841,2.5,$$,74.0,red-lobster-greenfield
+691,"4502 E Towne Blvd, Madison, WI 53704",53704,43.127969,-89.307357,3.0,$$,84.0,red-lobster-madison
+692,"2800 S Green Bay Rd, Mt Pleasant, WI 53406",53406,42.698815,-87.854399,2.5,$$,43.0,red-lobster-mount-pleasant-2
+693,"2801 N Mayfair Rd, Wauwatosa, WI 53222",53222,43.069214,-88.04852,2.0,$$,101.0,red-lobster-wauwatosa
+694,"5010 E 2nd St, Casper, WY 82609",82609,42.848222,-106.25816499999999,2.5,$$,19.0,red-lobster-casper
+695,"1923 Dell Range Blvd, Cheyenne, WY 82009",82009,41.159724,-104.794425,2.5,$$,52.0,red-lobster-cheyenne
